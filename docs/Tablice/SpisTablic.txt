@@ -1,0 +1,49 @@
+GRUPOWANIE (te tablice wisz¹ obok siebie)
+
+GRUPA 1
+3b - rozwój kalkulatorów mechanicznych
+4b - kalkulatory i sumatory
+5b - rozwój komunikacji
+
+GRUPA 2
+11a - pierwsze mikrokomputery domowe i osobiste
+12a - internet
+
+GRUPA 3
+6b - Maszyny i diagramy logiczne. System binarny
+7b - wynalazek druku i maszyn do pisania
+
+GRUPA 4
+8a - teoretyczne podwaliny informatyki
+9a - pierwsze komputery
+10a - mikroelektronika: tranzystor, uk³ad scalony
+
+GRUPA 5
+8b (?) - pocz¹tki kryptologii komputerowej
+9b - komputery i superkomputery
+
+GRUPA 6
+10b - kalkulatory elektroniczne
+11b - pierwsze popularne mikrokomputery
+
+GRUPA 7
+6a - logika matematyczna i komputery
+7a - pocz¹tki przetwarzania danych i noœniki danych
+
+GRUPA 8
+12b - budowa komputerów w Polsce
+
+GRUPA 9
+5a - pocz¹tki komunikacji przewodowej
+
+GRUPA 10
+3a - pierwsze kalkulatory
+4a - wczesne pocz¹tki komputerów
+
+GRUPA 11
+1a - pierwsze znaki liczbowe, abaki, algorytmy
+2a - rozwój liczb i sposobów rachowania
+
+GRUPA 12
+1b - znaki liczbowe, proste sposoby rachowania
+2b - abaki, liczyd³a, suwaki

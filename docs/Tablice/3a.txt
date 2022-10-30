@@ -1,0 +1,37 @@
+3a. Pierwsze kalkulatory
+
+
+Za twórcê pierwszej w historii mechanicznej maszyny licz¹cej jest uznawany
+Wilhelm Schickard. Zbudowa³ on czterodzia³aniow¹ maszynê, zwan¹ zegarem licz¹cym,
+za pomoc¹ której mo¿na by³o dodawaç i odejmowaç liczby szeœciocyfrowe.
+Maszyna ta mia³a pomóc Johannesowi Keplerowi w jego astronomicznych (dos³ownie
+i w przenoœni) rachunkach. Niestety jedyny zbudowany z drewna egzemplarz
+maszyny sp³on¹³ w niewyjaœnionych okolicznoœciach.
+W XVII wieku ¿yli i tworzyli dwaj wielcy matematycy Blaise Pascal i Gottfried
+Wilhelm Leibniz, którym zainteresowania teoretyczne nie przeszkadza³y w zajmowaniu
+siê tak¿e praktycznymi obliczeniami i dzisiaj obaj s¹ znani równie¿ ze zbudowanych
+przez siebie maszyn licz¹cych.
+Pascal maj¹c 18 lat zainteresowa³ siê zbudowaniem maszyny licz¹cej, wykonuj¹cej
+g³ównie dodawania, z myœl¹ o dopomo¿eniu swojemu ojcu, który by³ poborc¹
+podatkowym. Pierwszy egzemplarz takiej maszyny ukoñczy³ w 1645 roku
+i przez nastêpne 10 lat wyprodukowano oko³o 50 egzemplarzy Pascaliny. Kilka
+egzemplarzy istnieje w muzeach do dzisiaj. Pascalina swoj¹ budow¹ przypomina
+liczniki odleg³oœci – zbudowana jest z kó³ zêbatych, sprzê¿onych ze sob¹ tak, by
+mo¿liwe by³o przenoszenie cyfr. Interesuj¹ce jest, ¿e jeszcze na pocz¹tku XX wieku
+budowano sumatory w oparciu o pomys³ Pascala, ale nie odnios³y one specjalnego
+sukcesu rynkowego.
+Przez ponad trzysta lat Pascal uchodzi³ nies³usznie za wynalazcê pierwszej mechanicznej
+maszyny do liczenia, gdy¿ nie wiedziano o wynalazku Schickarda. Dowiedziano
+siê o tym dopiero pod koniec lat 50. XX wieku, po odczytaniu listów
+Schickarda do Keplera, znajduj¹cych siê w zbiorach carycy Katarzyny II. W tym
+samym czasie odnaleziono równie¿ w Niemczech szkice przygotowane przez
+Schickarda dla osoby, która mia³a wykonaç jego maszynê, i dopiero na podstawie
+tych dokumentów zbudowano repliki maszyny Schickarda.
+Schickard i Pascal wprowadzili w swoich maszynach mechanizm do przenoszenia
+cyfr przy dodawaniu. Obie maszyny mia³y tak¿e pewne mo¿liwoœci zapamiêtywania
+niektórych wyników poœrednich.
+Leibniz ukoñczy³ budowê swojej czterodzia³aniowej maszyny w 1694 roku, po ponad
+20 latach wysi³ków. By³a to pierwsza w pe³ni mechaniczna maszyna do mno¿enia,
+mno¿na by³a bowiem automatycznie dodawana do akumulatora. W maszynie tej wprowadzi³
+wiele czêœci, które by³y stosowane w póœniejszych maszynach do liczenia, m.in.
+bêben schodkowy.

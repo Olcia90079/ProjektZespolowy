@@ -1,0 +1,77 @@
+4a. Wczesne pocz¹tki komputerów
+
+
+Konstruktor kalkulatora mechamicznego Johann H. Müller, w dodatku
+do opisu swojej maszyny zaproponowa³ nowy typ maszyny, która automatycznie
+oblicza³aby ci¹gi liczb jako sumy ró¿nic otrzymywanych na kilku poziomach, ze
+sta³¹ ró¿nic¹ na najni¿szym poziomie. Uzale¿ni³ realizacjê swojego projektu
+od wsparcia finansowego, którego jednak nigdy nie otrzyma³ i jego projekt nie
+doczeka³ siê nawet próby realizacji. Francuski baron Marie-Riche de Prony
+(1755-1839) pod koniec XVIII wieku nie czeka³ na maszynê, która wyrêczy³aby
+go w pracy, tylko wzoruj¹c siê na ideach szkockiego ekonomisty Adama Smitha
+zastosowa³ podzia³ pracy i utworzy³ specjaln¹ „manufakturê logarytmów” dla
+sporz¹dzenia tablic logarytmicznych i trygonometrycznych metod¹ ró¿nic skoñczonych.
+W tym celu wynaj¹³ 6 wybitnych matematyków (wœród nich by³ Legendre
+i Carnot) do opracowywania formu³ obliczeñ, 8 przeszkolonych matematyków
+do przygotowywania poszczególnych etapów obliczeñ i 60 rachmistrzów. Ci
+ostatni mieli jedynie dodawaæ i odejmowaæ. Dziêki temu praca, która zajê³aby
+ca³e jedno ¿ycie, zosta³a ukoñczona w ci¹gu kilku lat (w 1801 roku).
+Charles Babbage oko³o 1820 roku spotka³ barona de Prony, ale wydaje siê, ¿e
+podobnie jak baron, nie zna³ prac Müllera. W swoich dzia³aniach posun¹³ siê jednak
+znacznie dalej ni¿ jego poprzednicy i postanowi³ zbudowaæ maszynê licz¹c¹,
+która mog³aby wyrêczyæ cz³owieka i automatycznie wykonywaæ powtarzaj¹ce siê
+dzia³ania, zwi¹zane z obliczaniem tablic matematycznych (o tym marzy³ ju¿ jako
+student w 1812 roku). Projekt swojej pierwszej maszyny, maszyny ró¿nicowej (ang.
+difference engine) przeznaczonej do obliczania i drukowania tablic matematycznych,
+opar³ na metodzie ró¿nic skoñczonych, której zalet¹ jest wyeliminowanie
+z obliczeñ mno¿enia i dzielenia liczb w przypadku obliczania wartoœci wielomianów.
+Mia³a to wiêc byæ maszyna specjalnego przeznaczenia, której mechanizm mia³
+byæ realizacj¹ matematycznej zasady. Metoda ró¿nicowa znacznie wczeœniej zosta-
+³a wykorzystana zarówno w projekcie maszyny, jak i przy automatyzacji konkretnych
+obliczeñ. W 1822 roku ukoñczy³ j¹ i przyst¹pi³ do projektowania i realizacji
+du¿ej maszyny, której obliczenia by³yby wykonywane na ró¿nicach do szóstego poziomu
+i liczbach o dwudziestu cyfrach. W przeciwieñstwie do Müllera, Babbage by³
+wspierany finansowo z rz¹dowej kasy. Trapiony jednak wieloma k³opotami rodzinnymi
+i finansowymi oraz nie mog¹c do koñca porozumieæ siê ze swoim g³ównym
+wykonawc¹-konstruktorem Josephem Clementem, po ponad 10 latach zaprzesta³
+dalszych prac nad maszyn¹ ró¿nicow¹ w 1834 roku. Zmontowan¹, dzia³aj¹c¹ czêœæ
+pierwszej maszyny ró¿nicowej mo¿na ogl¹daæ w Muzeum Nauk w Londynie. W latach
+1847-1849 Babbage stworzy³ projekt maszyny ró¿nicowej nr 2, który wiele zawdzi
+êcza³ doœwiadczeniom zdobytym przy prowadzonych wtedy pracach nad maszyn¹
+analityczn¹. Na podstawie tego projektu, w 1991 roku, z okazji 200 rocznicy
+urodzin Babbage’a, w Muzeum Nauk w Londynie zbudowano maszynê ró¿nicow¹
+nr 2 wed³ug oryginalnego projektu.
+W odró¿nieniu od maszyn Pascala, Leibniza i innych, po rêcznym ustawieniu
+pocz¹tkowego stanu, dalsze dzia³ania maszyny ró¿nicowej Babbage’a nie wymagaj¹
+ju¿ ¿adnej ingerencji u¿ytkownika poza krêceniem korb¹.
+Babbage nie poprzesta³ na próbie skonstruowania maszyny ró¿nicowej, która
+z za³o¿enia by³a przeznaczona tylko do specjalnych obliczeñ. W 1834 roku, jeszcze
+w trakcie prac nad maszyn¹ ró¿nicow¹, przedstawi³ pomys³ zbudowania maszyny
+analitycznej (ang. analitycal engine). By³o to przedsiêwziêcie czysto abstrakcyjne –
+przewidywane przeszkody techniczne i trudnoœci finansowe nie pozwoli³y nawet
+na rozpoczêcie prac konstrukcyjnych (po œmierci Babbage’a, projekty maszyny analitycznej
+odziedziczy³ jego syn Henry, który na ich podstawie skonstruowa³ tzw. m³yn
+maszyny, odpowiadaj¹cy jednostce licz¹cej w dzisiejszych komputerach; projekty
+maszyny analitycznej i prototyp m³yna s¹ przechowywane w Muzeum Nauk w Londynie).
+W swoim projekcie Babbage zawar³ jednak wiele pomys³ów zrealizowanych
+dopiero we wspó³czesnych komputerach – projekt maszyny analitycznej zawiera bowiem
+podstawowe elementy logiki wspó³czesnych komputerów. Miêdzy innymi rozdzieli³
+pamiêæ (zwan¹ magazynem – ang. store) od jednostki licz¹cej (m³yna – ang.
+mill), czyli miejsce przechowywania danych od jednostki wykonuj¹cej na nich dzia-
+³ania. Obie te czêœci maszyny analitycznej mia³y byæ sterowane za pomoc¹ dodatkowego
+urz¹dzenia kontrolnego, które otrzymywa³o polecenia na kartach perforowanych,
+po³¹czonych w pêtlê, udoskonalonych i rozpowszechnionych przez Josepha
+Marie Jacquarda do programowania maszyn tkackich. Jej konstruktor przewidywa³,
+¿e bêdzie dodawaæ dwie liczby kilkudziesiêciocyfrowe w ci¹gu 3 sekund, a mno¿yæ –
+w ci¹gu 2-4 minut. Maszynê analityczn¹ Babbege'a mo¿na uznaæ za pierwszy pomys³
+kalkulatora sterowanego programem zewnêtrznym (na kartach).
+Opis dzia³ania maszyny analitycznej trafi³ w rêce Ady Augusty Lovelace, córki
+Byrona, znanej z b³yskotliwego umys³u. Urzeczona doskona³oœci¹ projektu uwa¿a-
+³a, ¿e „maszyna analityczna tkaæ bêdzie wzory algebraiczne, tak jak krosna Jacquarda
+tkaj¹ liœcie i kwiaty”, chocia¿ by³a równie¿ realistk¹ twierdz¹c, ¿e „maszyna
+analityczna nie ma ambicji wynalezienia czegokolwiek”. Nie czekaj¹c na skonstruowanie
+maszyny (czego jak wiemy i tak by siê nie doczeka³a), Ada zajê³a siê sporz¹dzaniem
+opisów jej u¿ywania do rozwi¹zywania konkretnych zadañ obliczeniowych.
+Opisy te nazwalibyœmy dzisiaj programami, dlatego uwa¿a siê j¹ za pierwsz¹
+programistkê komputerów. Dla uczczenia zas³ug Ady na tym polu nazwano jej
+imieniem jeden z najbardziej uniwersalnych jêzyków programowania.

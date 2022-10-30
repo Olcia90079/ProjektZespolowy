@@ -1,0 +1,47 @@
+2b. Abaki, liczyd³a, suwaki
+
+
+Abaki, liczyd³a
+
+Najwiêksz¹ rolê w rozwoju pierwszych narzêdzi s³u¿¹cych do obliczeñ odegra³y
+kamyki. Kamyk, kamyczek to po ³acinie calculus – co brzmi jak rdzeñ wielu s³ów
+w wielu jêzykach, zwi¹zanych z obliczeniami, np. kalkulowaæ, gdy¿ oznacza równie¿
+rachunek. Pocz¹tkowo kamyki uk³adano w stosy. Z czasem zaczêto je uk³adaæ
+na „planszach”, które s³u¿y³y do wykonywania obliczeñ – by³y to pierwsze abaki.
+Mog³a to byæ odpowiednio przygotowana powierzchnia piasku lub kamienia (np.
+marmuru), na której zaznaczano pionowe lub poziome rowki i w nich uk³adano kamyki
+– poszczególne rzêdy odpowiada³y zwykle (np. w starorzymskich abakach)
+okreœlonej potêdze liczby 10. Abaki nie wymaga³y wprowadzenia zera – odpowiada-
+³o mu puste miejsce w rzêdzie. Z czasem abaki sta³y siê przenoœne dziêki zmniejszeniu
+ich wielkoœci – przyk³adem jest tutaj abak z Salamis (V – IV w. p.n.e.). Póœniej
+wprowadzono prêty, na które nawlekano ¿etony zrobione z ró¿nych materia-
+³ów, co umo¿liwia³o utrzymywanie ich w odpowiednich miejscach wzglêdem siebie,
+stan obliczeñ w abakach okreœla bowiem rozmieszczenie elementów ruchomych
+(kamieni, ¿etonów) na piasku lub na prêtach. Abaki rozwinê³y siê niezale¿nie
+w ró¿nych czêœciach œwiata, istnieje wiele ró¿nych ich odmian i na ogó³ s¹ znane
+pod swoimi lokalnymi nazwami. W Chinach jest to suan-pan, w Rosji – szczoty (wynalezione
+w XVII wieku), a w Japonii – soroban.
+Wspó³czesne abaki stosowane w Polsce, jak równie¿ ró¿ne ich odmiany u¿ywane
+w innych krajach, s¹ nazywane liczyd³ami. W wielu krajach liczyd³a by³y powszechnie
+stosowane jeszcze w drugiej po³owie XX wieku i do dzisiaj np. w Japonii i w Rosji nie
+ca³kowicie zosta³y wyparte przez kalkulatory elektroniczne. W Japonii, uznawanej
+za kraj powszechnej elektronizacji, soroban jest nadal wykorzystywany w ma³ych sklepikach
+rodzinnych oraz w niektórych urzêdach (np. na poczcie) i zapoznaj¹ siê z jego
+stosowaniem dzieci w szko³ach.
+
+
+Suwak logarytmiczny
+
+Krótko po wynalezieniu logarytmów, w 1624 roku matematyk angielski
+Edmund Gunter (1581 – 1626) opisa³ linijkê logarytmiczn¹, czyli linijkê ze skal¹ logarytmiczn¹.
+W 1632 roku inny matematyk angielski William Oughtred (1575-
+1660), skonstruowa³ pierwszy suwak logarytmiczny w postaci walca (ang. Circle of
+Proportion), a dwa lata póœniej wykorzysta³ dwie linijki Guntera do zbudowania
+suwaka logarytmicznego w postaci dwóch przesuwaj¹cych siê wzd³u¿ siebie linijek
+logarytmicznych, co umo¿liwi³o wykonywanie mno¿eñ i dzieleñ za pomoc¹ dodawañ
+i odejmowañ.
+Suwak logarytmiczny jest przyk³adem analogowego narzêdzia matematycznego
+(obliczeniowego), w którym wielkoœci wystêpuj¹ce w obliczeniach i wyniki obliczeñ
+okreœla siê na podstawie pomiarów d³ugoœci odpowiednich odcinków. Innym przyk³adem
+urz¹dzenia analogowego jest tradycyjny zegarek ze wskazówkami – po³o¿enie
+wskazówek i wielkoœæ k¹ta miêdzy nimi okreœlaj¹ godziny i minuty.

@@ -1,0 +1,28 @@
+11a. Pierwsze mikrokomputery domowe i osobiste
+
+
+Pierwsze „komputery osobiste” zaczê³y pojawiaæ siê pod koniec lat 50. XX wieku
+– „osobisty” oznacza³o pocz¹tkowo, mo¿liwoœæ obs³ugi przez jednego operatora
+– zaœ ich nasilenie nast¹pi³o w latach 70. By³y to jednak albo bardzo drogie maszyny,
+albo eksperymentalne egzemplarze, albo o niewielkich mo¿liwoœciach.
+Obecnie przyjmuje siê, ¿e komputer osobisty (ang. personal computer, PC) jest
+komputerem ogólnego przeznaczenia, zbudowanym na bazie mikroprocesora, dost
+êpnym na rynku dla szerokich mas u¿ytkowników.
+Podobnie jak w przypadku komputerów, do powstania komputerów osobistych
+i ich póœniejszej olbrzymiej popularnoœci przyczyni³o siê wiele wynalazków, które
+dzisiaj mo¿na odnaleœæ w popularnych PC i w urz¹dzeniach, które z nimi wspó³pracuj¹,
+zwiêkszaj¹c ich mo¿liwoœci i zakres zastosowañ:
+1950 – Yoshiro Nakamats z Uniwersytetu Tokijskiego wynajduje napêd dysków
+elastycznych (ang. floppy disk) i sprzedaje licencjê IBM
+1953 – pamiêæ ferrytowa typu ROM
+1954 – pierwsza drukarka
+1955 – skaner
+1964 – wynaleziono mysz
+1965 – opracowano jêzyk Basic
+1969 – standard portu szeregowego (RS-232) i pamiêæ typu DRAM
+Pierwsze komputery domowe pojawiaj¹ce siê na rynku w drugiej po³owie lat 70.
+XX wieku praktycznie nie by³y wyposa¿one w ¿adne oprogramowanie. Ich oprogramowanie
+stanowi³y programy pisane przez ich u¿ytkowników. Pierwszym programem,
+który szybko zyska³ na wielkiej popularnoœci wp³ywaj¹c tym równie¿ na popularnoœæ
+mikrokomputerów, by³ arkusz kalkulacyjny VisiCalc, opracowany przez
+studentów ekonomii z Uniwersytetu Harvarda.

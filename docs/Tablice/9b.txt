@@ -1,0 +1,50 @@
+9b. Komputery i superkomputery
+
+
+Superkomputery – tym mianem okreœla siê komputery, które w danym okresie
+czasu s¹ najszybsze w dzia³aniu. Szybkoœæ superkomputerów mierzy siê w FLOPS
+(ang. FLoating point Operations Per Second), liczb¹ operacji zmiennopozycyjnych
+na sekundê. Pocz¹tkowo jednostk¹ by³a Mflops (MegaFLOPS – 106 flops), póœniej
+Gflops (GigaFLOPS – 109 flops), obecnie Tflops (TeraFLOPS – 1012 flops), czyli
+1 000 000 000 000 operacji na sekundê, a ju¿ wkrótce bêdzie Pflops (PetaFLOPS
+– 1015 flops). Za pierwsze superkomputery uwa¿a siê komputery zbudowane przez
+Control Data Corporation. Ich konstruktorem by³ Seymour Cray, powszechnie
+uznawany za ojca superkomputerów – by³y to maszyny CDC 6600 (3 Mflops),
+CDC 7600 (36 Mflops) i CDC Star-100 (100 Mflops). W 1972 roku Cray odszed³
+z CDC i za³o¿y³ firmê Cray Research, zajmuj¹c¹ siê g³ównie budow¹ superkomputerów.
+Do pocz¹tków lat 90. komputery Cray zajmowa³y czo³owe miejsca na liœcie
+superkomputerów. Przez ponad dwa lata najszybsza by³a japoñska maszyna Earth
+Simulator, a obecnie (rok 2005) prym wiod¹ komputery budowane przez IBM.
+W czerwcu 2005 najszybszy by³ superkomputer Blue Gene/L (136-183 Tflops), zainstalowany
+w Lawrence Livermore National Laboratory w Livermore, bêd¹cy
+wspólnym przedsiêwziêciem IBM i National Nuclear Security Administration
+Departamentu Energetyki USA.
+Pierwsze superkomputery (maszyny CDC) bazowa³y na szybkich procesorach.
+Wlatach 70. w superkomputerach stosowano procesory wektorowe, a w latach 80.-
+90. zaczêto stosowaæ w najszybszych maszynach równoleg³e systemy procesorów.
+Obecnie superkomputery s¹ klasterami mikroprocesorów RISC (ang. Reduced Instruction
+Set Computing), takich jak PA-RISC (HP) czy PowerPC (Apple, IBM, Motorola).
+Na szybkoœæ dzia³ania takich maszyn istotny wp¬yw ma u¿yta w tych maszynach
+hierarchiczna budowa pamiêci, zapewniaj¹ca sta³y dop³yw danych i instrukcji
+do procesorów. Wyzwaniem jest równie¿ ch³odzenie takiej iloœci procesorów oraz
+minimalizacja d³ugoœci przewodów (ostatnio zaczêto stosowaæ ³¹cznoœæ bezprzewodow¹).
+Systemy operacyjne w superkomputerach bazuj¹ na systemie Unix, natomiast
+do ich programowania stosuje siê specjalne jêzyki, wykorzystuj¹ce równoleg³¹ architektur
+ê jednostki obliczeniowej. Jednymi z najpopularniejszych s¹ odmiany jê-
+zyka Fortran, których kompilatory generuj¹ znacznie szybsze kody, ni¿ kompilatory
+jêzyków C czy C++. Testowanie szybkoœci dzia³ania superkomputerów odbywa
+siê na wybranych przyk³adach (ang. benchmarks) zagadnieñ obliczeñ algebraicznych
+Linpack.
+Budowane s¹ równie¿ superkomputery o specjalnym przeznaczeniu, np. Deep
+Blue do gry w szachy (pokona³ Gary Kasparowa) czy Deep Crack s³u¿¹cy do ³amania
+szyfrów DES. Moc obliczeniow¹, porównywaln¹ z superkomputerami, maj¹
+rozproszone instalacje komputerów (np. PC). Ocenia siê, ¿e na przyk³ad poszukiwanie
+kolejnych du¿ych liczb pierwszych Mersenne’a w projekcie GIPS ma moc
+rzêdu 18 Tflops, a system maszyn wyszukuj¹cych Google ma moc obliczeniow¹ 100-
+300 Tflops.
+Superkomputery s¹ stosowane w przypadkach bardzo intensywnych obliczeñ
+matematycznych, pojawiaj¹cych siê np. przy prognozowaniu pogody i w badaniach
+klimatów, modelowaniu molekularnym, symulacji zjawisk fizycznych, kryptoanalizie
+(m. in. przy ³amaniu szyfrów). Jednym z najwa¿niejszych ich zastosowañ jest symulacja
+wybuchów broni j¹drowej, co umo¿liwi³o zaprzestanie prowadzenia prób
+z t¹ broni¹ w przyrodzie.
