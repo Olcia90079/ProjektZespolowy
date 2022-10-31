@@ -9,8 +9,8 @@ Obecnie przyjmuje siê, ¿e komputer osobisty (ang. personal computer, PC) jest
 komputerem ogólnego przeznaczenia, zbudowanym na bazie mikroprocesora, dost
 êpnym na rynku dla szerokich mas u¿ytkowników.
 Podobnie jak w przypadku komputerów, do powstania komputerów osobistych
-i ich póœniejszej olbrzymiej popularnoœci przyczyni³o siê wiele wynalazków, które
-dzisiaj mo¿na odnaleœæ w popularnych PC i w urz¹dzeniach, które z nimi wspó³pracuj¹,
+i ich póŸniejszej olbrzymiej popularnoœci przyczyni³o siê wiele wynalazków, które
+dzisiaj mo¿na odnaleŸæ w popularnych PC i w urz¹dzeniach, które z nimi wspó³pracuj¹,
 zwiêkszaj¹c ich mo¿liwoœci i zakres zastosowañ:
 1950 – Yoshiro Nakamats z Uniwersytetu Tokijskiego wynajduje napêd dysków
 elastycznych (ang. floppy disk) i sprzedaje licencjê IBM

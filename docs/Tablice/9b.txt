@@ -4,7 +4,7 @@
 Superkomputery – tym mianem okreœla siê komputery, które w danym okresie
 czasu s¹ najszybsze w dzia³aniu. Szybkoœæ superkomputerów mierzy siê w FLOPS
 (ang. FLoating point Operations Per Second), liczb¹ operacji zmiennopozycyjnych
-na sekundê. Pocz¹tkowo jednostk¹ by³a Mflops (MegaFLOPS – 106 flops), póœniej
+na sekundê. Pocz¹tkowo jednostk¹ by³a Mflops (MegaFLOPS – 106 flops), póŸniej
 Gflops (GigaFLOPS – 109 flops), obecnie Tflops (TeraFLOPS – 1012 flops), czyli
 1 000 000 000 000 operacji na sekundê, a ju¿ wkrótce bêdzie Pflops (PetaFLOPS
 – 1015 flops). Za pierwsze superkomputery uwa¿a siê komputery zbudowane przez

@@ -6,7 +6,7 @@ Konrada Zuse. Najbardziej zaawansowan¹ i niezawodn¹ konstrukcj¹ by³a maszyna
 Z3, uwa¿ana obecnie przez wielu za pierwszy sterowany programem komputer
 ogólnego przeznaczenia. By³ to programowalny kalkulator binarny, w którym zarówno
 pamiêæ, jak i logika by³y oparte na algebrze Boole’a. Zbudowany by³ z 2400
-przekaœników telefonicznych. W jego pamiêci mo¿na by³o przechowywaæ binarnie
+przekaŸników telefonicznych. W jego pamiêci mo¿na by³o przechowywaæ binarnie
 64 liczby w postaci zmiennopozycyjnej, z³o¿one z 22 bitów (16 bitów na mantysê
 i 8 bitów na cechê, wyk³adnik). Program i dane by³y czytane z taœmy perforowanej.
 Dane by³y wprowadzane tak¿e z klawiatury numerycznej, a wyniki mo¿na by³o odczytaæ

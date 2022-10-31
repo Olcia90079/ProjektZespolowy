@@ -13,7 +13,7 @@ marmuru), na której zaznaczano pionowe lub poziome rowki i w nich uk³adano kamyk
 – poszczególne rzêdy odpowiada³y zwykle (np. w starorzymskich abakach)
 okreœlonej potêdze liczby 10. Abaki nie wymaga³y wprowadzenia zera – odpowiada-
 ³o mu puste miejsce w rzêdzie. Z czasem abaki sta³y siê przenoœne dziêki zmniejszeniu
-ich wielkoœci – przyk³adem jest tutaj abak z Salamis (V – IV w. p.n.e.). Póœniej
+ich wielkoœci – przyk³adem jest tutaj abak z Salamis (V – IV w. p.n.e.). PóŸniej
 wprowadzono prêty, na które nawlekano ¿etony zrobione z ró¿nych materia-
 ³ów, co umo¿liwia³o utrzymywanie ich w odpowiednich miejscach wzglêdem siebie,
 stan obliczeñ w abakach okreœla bowiem rozmieszczenie elementów ruchomych
@@ -36,7 +36,7 @@ Krótko po wynalezieniu logarytmów, w 1624 roku matematyk angielski
 Edmund Gunter (1581 – 1626) opisa³ linijkê logarytmiczn¹, czyli linijkê ze skal¹ logarytmiczn¹.
 W 1632 roku inny matematyk angielski William Oughtred (1575-
 1660), skonstruowa³ pierwszy suwak logarytmiczny w postaci walca (ang. Circle of
-Proportion), a dwa lata póœniej wykorzysta³ dwie linijki Guntera do zbudowania
+Proportion), a dwa lata póŸniej wykorzysta³ dwie linijki Guntera do zbudowania
 suwaka logarytmicznego w postaci dwóch przesuwaj¹cych siê wzd³u¿ siebie linijek
 logarytmicznych, co umo¿liwi³o wykonywanie mno¿eñ i dzieleñ za pomoc¹ dodawañ
 i odejmowañ.

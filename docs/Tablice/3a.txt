@@ -3,7 +3,7 @@
 
 Za twórcê pierwszej w historii mechanicznej maszyny licz¹cej jest uznawany
 Wilhelm Schickard. Zbudowa³ on czterodzia³aniow¹ maszynê, zwan¹ zegarem licz¹cym,
-za pomoc¹ której mo¿na by³o dodawaç i odejmowaç liczby szeœciocyfrowe.
+za pomoc¹ której mo¿na by³o dodawaæ i odejmowaæ liczby szeœciocyfrowe.
 Maszyna ta mia³a pomóc Johannesowi Keplerowi w jego astronomicznych (dos³ownie
 i w przenoœni) rachunkach. Niestety jedyny zbudowany z drewna egzemplarz
 maszyny sp³on¹³ w niewyjaœnionych okolicznoœciach.
@@ -25,7 +25,7 @@ maszyny do liczenia, gdy¿ nie wiedziano o wynalazku Schickarda. Dowiedziano
 siê o tym dopiero pod koniec lat 50. XX wieku, po odczytaniu listów
 Schickarda do Keplera, znajduj¹cych siê w zbiorach carycy Katarzyny II. W tym
 samym czasie odnaleziono równie¿ w Niemczech szkice przygotowane przez
-Schickarda dla osoby, która mia³a wykonaç jego maszynê, i dopiero na podstawie
+Schickarda dla osoby, która mia³a wykonaæ jego maszynê, i dopiero na podstawie
 tych dokumentów zbudowano repliki maszyny Schickarda.
 Schickard i Pascal wprowadzili w swoich maszynach mechanizm do przenoszenia
 cyfr przy dodawaniu. Obie maszyny mia³y tak¿e pewne mo¿liwoœci zapamiêtywania
@@ -33,5 +33,5 @@ niektórych wyników poœrednich.
 Leibniz ukoñczy³ budowê swojej czterodzia³aniowej maszyny w 1694 roku, po ponad
 20 latach wysi³ków. By³a to pierwsza w pe³ni mechaniczna maszyna do mno¿enia,
 mno¿na by³a bowiem automatycznie dodawana do akumulatora. W maszynie tej wprowadzi³
-wiele czêœci, które by³y stosowane w póœniejszych maszynach do liczenia, m.in.
+wiele czêœci, które by³y stosowane w póŸniejszych maszynach do liczenia, m.in.
 bêben schodkowy.

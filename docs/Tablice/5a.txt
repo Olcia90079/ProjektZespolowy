@@ -2,10 +2,10 @@
 
 
 Za pocz¹tki komunikacji elektronicznej uwa¿a siê wynalezienie elektromagnesu
-i przekaœnika elektrycznego. Brytyjczyk William Sturgeon (1783-1850) zademonstrowa³
+i przekaŸnika elektrycznego. Brytyjczyk William Sturgeon (1783-1850) zademonstrowa³
 w 1825 roku si³ê elektromagnesu, podnosz¹c za jego pomoc¹
 znacznie wiêkszy ciê¿ar, a w 1830 roku Joseph Henry potwierdzi³ znaczenie tego
-odkrycia dla komunikacji na odleg³oœæ, tworz¹c przekaœnik elektryczny – wys³a³
+odkrycia dla komunikacji na odleg³oœæ, tworz¹c przekaŸnik elektryczny – wys³a³
 on na odleg³oœæ ponad jednej mili sygna³ elektryczny, który uaktywni³ elektromagnes,
 a ten z kolei spowodowa³ uderzenie w dzwonek. Tak narodzi³ siê telegraf
 (gr. pisaæ na odleg³oœæ), pierwsze w pe³ni elektroniczne medium do komunikacji
@@ -46,9 +46,9 @@ Alexander Graham Bell (1847-1922) amerykañski wynalazca i fizyk szkockiego
 pochodzenia, w 1876 opatentowa³ wynalazek elektrycznego telefonu, który nazwa³
 „udoskonaleniem telegrafu”, gdy¿ chcia³ usprawniæ telegraf tak, aby by³o mo¿liwe
 przesy³anie jedn¹ lini¹ telegraficzn¹ wielu wiadomoœci w tej samej chwili. Interesuj¹c
-siê muzyk¹, d¹¿y³ równie¿ do przesy³ania dœwiêków i g³osu – tak zrodzi³ siê pomys³
+siê muzyk¹, d¹¿y³ równie¿ do przesy³ania dŸwiêków i g³osu – tak zrodzi³ siê pomys³
 telegrafu harmonicznego. Bell wynalaz³ równie¿ fotofon (1880), instrument s³u-
-¿¹cy do przesy³ania dœwiêku za pomoc¹ promieni œwietlnych, który mo¿na uznaæ
+¿¹cy do przesy³ania dŸwiêku za pomoc¹ promieni œwietlnych, który mo¿na uznaæ
 za pierwszy telefon bezprzewodowy. Przez wiele lat ten ostatni wynalazek nie by³
 doceniony, a faktycznie mo¿e byæ uznany za prekursora lasera i œwiat³owodu.
 W 1877 A. G. Bell za³o¿y³ firmê Bell Telephone Company, kupion¹ w 1900 roku

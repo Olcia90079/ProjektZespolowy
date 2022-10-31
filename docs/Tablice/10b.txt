@@ -14,7 +14,7 @@ Spotkaæ mo¿na kalkulatory wykonuj¹ce tylko cztery dzia³ania i wyposa¿one
 w pojedyncz¹ komórkê pamiêci, stosowane w najprostszych codziennych obliczeniach.
 Bardziej zaawansowane umo¿liwiaj¹ obliczanie wartoœci funkcji in¿ynierskich,
 a najbardziej rozbudowane mog¹ byæ programowane, a wyniki s¹ wyœwietlane
-w postaci graficznej. Proste kalkulatory mo¿na znaleœæ w urz¹dzeniach takich
+w postaci graficznej. Proste kalkulatory mo¿na znaleŸæ w urz¹dzeniach takich
 jak zegarki lub telefony komórkowe. Dzisiaj komputery osobiste s¹ wyposa¿one
 w programy symuluj¹ce, tak¿e swoim wygl¹dem, tradycyjne kalkulatory proste i in-
 ¿ynierskie. Kalkulatory in¿ynierskie, umo¿liwiaj¹ce obliczanie wartoœci funkcji elementarnych,
@@ -24,11 +24,11 @@ Wspó³czesne kalkulatory s¹ budowane z uk³adów scalonych w technologii pó³-
 przewodnikowej. Zasilane s¹ bateriami lub promieniami s³onecznymi. Produkowane
 s¹ przez bardzo wiele firm, ale ton rywalizacji nadaj¹ cztery firmy: Casio, HP
 (Hewlett-Packard), Sharp i TI (Texas Instruments).
-Pocz¹tkowo elektroniczne kalkulatory desk-top, a póœniej kieszonkowe (pocket)
+Pocz¹tkowo elektroniczne kalkulatory desk-top, a póŸniej kieszonkowe (pocket)
 lub hand-held, by³y bardzo drogie. Na pocz¹tku lat 60. XX wieku ich cena by³a porównywalna
 z cen¹ samochodu (oko³o $1000). Spowodowane to by³o wysokimi cenami
 materia³ów i elementów, z których by³y budowane, a tak¿e liczb¹ elementów,
-z których siê sk³ada³y. Dopiero uk³ady scalone i póœniejsza miniaturyzacja elektroniki
+z których siê sk³ada³y. Dopiero uk³ady scalone i póŸniejsza miniaturyzacja elektroniki
 spowodowa³y drastyczny spadek ceny elementów sk³adowych.
 Elektroniczne kalkulatory spowodowa³y powstanie pierwszego mikroprocesora
 Intel 4004 – zaprojektowany on zosta³ dla kalkulatorów firmy japoñskiej Busiom.
@@ -37,6 +37,6 @@ Texas Instruments w 1971 roku. Na pocz¹tku swojej historii rozwoju, mikroproceso
 powstawa³y z myœl¹ g³ównie o kalkulatorach elektronicznych.
 Pierwsze kalkulatory elektroniczne zaczêto budowaæ na pocz¹tku lat 60.
 XX wieku, i z czasem zaczê³y one wypieraæ kalkulatory mechaniczno-elektryczne.
-Do koñca tej dekady kalkulatory te by³y jeszcze pokaœnych rozmiarów i doœæ du¿o
+Do koñca tej dekady kalkulatory te by³y jeszcze pokaŸnych rozmiarów i doœæ du¿o
 kosztowa³y, chocia¿ stanowi³y ju¿ wyposa¿enie osobistych stanowisk pracy (biurek)
 – by³y to modele desk-top.

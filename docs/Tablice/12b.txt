@@ -12,7 +12,7 @@ z Polsk¹ Akademi¹ Nauk, wy¿szymi uczelniami oraz w zak³adach Elwro
 we Wroc³awiu.
 W 1948 roku w Pañstwowym Instytucie Matematycznym w Warszawie zostaje
 utworzona Grupa Aparatów Matematycznych (GAM). Pierwszymi pracownikami
-GAM byli Krystyn Bochenek, Leon ¸ukaszewicz i Romuald Marczyñski, póœniejsi
+GAM byli Krystyn Bochenek, Leon ¸ukaszewicz i Romuald Marczyñski, póŸniejsi
 konstruktorzy pierwszych dzia³aj¹cych komputerów analogowych i cyfrowych.
 Pierwszy eksperymentalny komputer GAM-1 zbudowa³ Zdzis³aw Pawlak w roku
 1950. Pierwszymi praktycznymi konstrukcjami by³y maszyny analogowe: Analizator
@@ -73,7 +73,7 @@ bêbnowej mia³a równie¿ pamiêæ ferrytow¹ o pojemnoœci 256 s³ów, dziêki czemu ta
 maszyna by³a dwa razy szybsza ni¿ jej poprzedniczka. Wyprodukowano 84 takie
 maszyny, z których 53 egzemplarze wyeksportowano.
 W 1967 roku opracowano i wdro¿ono do produkcji maszynê Odra 1204. Na pocz¹tku
-1967, na podstawie zawartego porozumienia, firma ICT (póœniejsza ICL)
+1967, na podstawie zawartego porozumienia, firma ICT (póŸniejsza ICL)
 przekaza³a ZE Elwro pe³n¹ dokumentacjê logiczn¹ maszyny ICL 1904 oraz taœmy
 z pe³nym oprogramowaniem podstawowym i u¿ytkowym. Rozpoczê³a siê produkcja
 maszyn z serii 13xx, które by³y wyposa¿one w bardzo bogate oprogramowanie

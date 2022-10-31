@@ -1,20 +1,20 @@
 10a. Mikroelektronika: tranzystor, uk³ad scalony
 
 
-Przekaœnik (ang. relay) jest elektrycznym prze³¹cznikiem, który otwiera siê i zamyka
+PrzekaŸnik (ang. relay) jest elektrycznym prze³¹cznikiem, który otwiera siê i zamyka
 pod wp³ywem pr¹du w innym obwodzie. Najpierw zosta³ wykorzystany w telegrafie
 (1837), a nastêpnie by³ stosowany w kalkulatorach i w pierwszych komputerach
-przy realizacji funkcji logicznych – dwa przekaœniki po³¹czone szeregowo
+przy realizacji funkcji logicznych – dwa przekaŸniki po³¹czone szeregowo
 realizuj¹ operacjê LUB, a równolegle – AND.
 Bramka logiczna (ang. logic gate) – uk³ad prze³¹czników stosowany w realizacji
 operacji logicznych w algebrze Boole’a. Wykonane by³y z elementów mechanicznych
-(jak u Babbage’a i Zuse), elektromagnetycznych przekaœników i diod.
+(jak u Babbage’a i Zuse), elektromagnetycznych przekaŸników i diod.
 Tranzystor (ang. transistor) jest elektronicznym elementem pó³przewodnikowym,
 który mo¿e pe³niæ funkcjê prze³¹cznika elektronicznego, a w po³¹czeniu
-z kondensatorem – elementu pamiêci pó³przewodnikowej. Tranzystor wynaleœli
+z kondensatorem – elementu pamiêci pó³przewodnikowej. Tranzystor wynaleŸli
 w latach 1947-1948 John Bardeen (1908-1991), Walter H. Brattain (1902-1987) oraz
 William B. Shockley (1910-1989) z Bell Telephone Laboratories. Dwaj pierwsi z tej
-trójki pod koniec 1947 roku wynaleœli tranzystor ostrzowy (ang. point-contacy transistor),
+trójki pod koniec 1947 roku wynaleŸli tranzystor ostrzowy (ang. point-contacy transistor),
 a w 1948 roku Shockley wynalaz³ tranzystor warstwowy (ang. junction transistor).
 J. Bardeen otrzyma³ w 1972 roku drug¹ Nagrodê Nobla za nadprzewodnictwo.
 Uk³ad scalony (ang. integrated circuit, chip), zminiaturyzowany uk³ad elektroniczny,

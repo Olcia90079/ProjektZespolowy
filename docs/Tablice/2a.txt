@@ -6,7 +6,7 @@ Cyfry arabskie
 Za kolebkê u¿ywanych obecnie cyfr, zwanych arabskimi, w tym zera, i pozycyjnego
 systemu zapisywania liczb, uwa¿a siê powszechnie Indie, gdzie te odkrycia pojawi³y
 siê w V – I wieku p.n.e. a osi¹gnê³y swoj¹ dojrza³¹ postaæ w V – VI wieku n.e.
-Nieco póœniej (wiek VIII n.e.) Hindusi zaczêli stosowaæ liczby ujemne, chocia¿
+Nieco póŸniej (wiek VIII n.e.) Hindusi zaczêli stosowaæ liczby ujemne, chocia¿
 przez wiele wieków nie uznawano na przyk³ad rozwi¹zañ równañ w liczbach ujemnych.
 Nastêpne piêæ wieków (VIII – XIII) to okres œwietnoœci nauki w œwiecie muzu³mañskim.
 Arabowie interesowali siê osi¹gniêciami œwiata staro¿ytnego, poznali
@@ -14,7 +14,7 @@ odkrycia Hindusów (de numero Indorum – indyjsk¹ sztukê rachowania) i sami rozwin
 êli wiele pomys³ów matematycznych. Jednym z czo³owych matematyków arabskich
 by³ Muhammad ibn Musa al-Khwarizmi (ok. 787 – ok. 847 n.e.), który przyczyni³
 siê do rozpowszechnienia dziesiêtnego systemu pozycyjnego i metod rachunkowych
-pochodzenia indyjskiego zarówno w œwiecie arabskim, jak i póœniej w Europie.
+pochodzenia indyjskiego zarówno w œwiecie arabskim, jak i póŸniej w Europie.
 Same cyfry (nazwa pochodzi o s³owa arabskiego as sifr) pochodz¹ od Arabów,
 którzy zamieszkiwali w Afryce pó³nocnej i w Hiszpanii. Wprowadzi³ je w Europie
 papie¿ Sylwester II (Gerbert d’Aurillac, ok. 947 – ok. 1003 n.e.), ale musia³o
@@ -37,15 +37,15 @@ wielokrotnego podwajania czynnika, czyli dodawania do siebie) lub jako iloczyny 
 z czynników przez pojedyncze cyfry. Ten pierwszy sposób jest czasem nazywany
 metod¹ rosyjskich ch³opów, ten drugi zaœ odnajdujemy w bardzo starych tabliczkach
 mno¿enia, stosowanych do mno¿enia, zwanych obecnie gelosia. Tabliczki do mno¿enia
-by³y tak oczywistym sposobem, ¿e obecnie odnaleœæ je mo¿na niemal w ka¿dej cywilizacji
-staro¿ytnej i póœniejszych, jak równie¿ w Europie. Na prze³omie
+by³y tak oczywistym sposobem, ¿e obecnie odnaleŸæ je mo¿na niemal w ka¿dej cywilizacji
+staro¿ytnej i póŸniejszych, jak równie¿ w Europie. Na prze³omie
 XVI i XVII wieku, John Napier (Neper) 1550-1617, dla uproszczenia z³o¿onych obliczeñ
 m.in. w astronomii i geodezji, wynalaz³ proste narzêdzie s³u¿¹ce do szybkiego
 wykonywania mno¿eñ wielocyfrowych liczb przez jednocyfrow¹ liczbê za pomoc¹ ci¹gu
 dodawañ. Sk³ada³o siê ono z pa³eczek zrobionych z drewna, st¹d pa³eczki Napiera.
 Dla bogatszych u¿ytkowników zaœ wytwarzano je z koœci s³oniowej – st¹d koœci
 Napiera. Czêsto te pa³eczki (koœci) uk³adano w pude³kach lub skrzyneczkach – tworzy³y
-one w ten sposób tabliczki Napiera. W pa³eczkach Napiera odnaleœæ mo¿na
+one w ten sposób tabliczki Napiera. W pa³eczkach Napiera odnaleŸæ mo¿na
 fizyczn¹ realizacjê znacznie wczeœniej u¿ywanych tabliczek mno¿enia.
 Opis swojego wynalazku Napier zawar³ w dziele Rabdologiae, które wyda³ tu¿
 przed swoj¹ œmierci¹, ba³ siê bowiem, ¿e ktoœ móg³by przypisaæ sobie jego wynalazek.
@@ -55,7 +55,7 @@ John Napier jest uznawany równie¿ za wynalazcê logarytmów (logarytm, od gr.
 s³ów logos i arithmos), dziêki którym mno¿enie i dzielenie mo¿na zast¹piæ dodawaniem
 i odejmowaniem. Do tego przydatne s¹ tablice, zawieraj¹ce logarytmy z liczb.
 Napier opublikowa³ pierwsze tablice logarytmiczne w 1614 roku. Swój pocz¹tkowy
-pomys³ udoskonali³ póœniej wspólnie z matematykiem Henry Briggsem, który
+pomys³ udoskonali³ póŸniej wspólnie z matematykiem Henry Briggsem, który
 g³ówne dzie³o na temat logarytmów wyda³ ju¿ po œmierci Napiera. Logarytmami
 Napiera zainteresowa³ siê astronom Johannes Kepler, pracuj¹cy nad tablicami
 astronomicznymi (opublikowa³ je jako Rudolphine Tables w 1628 roku). Niezale¿-
