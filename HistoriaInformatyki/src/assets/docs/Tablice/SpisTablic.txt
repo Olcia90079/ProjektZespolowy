@@ -1,3 +1,4 @@
+<<<<<<< HEAD:HistoriaInformatyki/src/assets/docs/Tablice/SpisTablic.txt
 GRUPOWANIE (te tablice wiszą obok siebie)
 
 GRUPA 1
@@ -46,4 +47,54 @@ GRUPA 11
 
 GRUPA 12
 1b - znaki liczbowe, proste sposoby rachowania
+=======
+GRUPOWANIE (te tablice wiszą obok siebie)
+
+GRUPA 1
+3b - rozwój kalkulatorów mechanicznych
+4b - kalkulatory i sumatory
+5b - rozwój komunikacji
+
+GRUPA 2
+11a - pierwsze mikrokomputery domowe i osobiste
+12a - internet
+
+GRUPA 3
+6b - Maszyny i diagramy logiczne. System binarny
+7b - wynalazek druku i maszyn do pisania
+
+GRUPA 4
+8a - teoretyczne podwaliny informatyki
+9a - pierwsze komputery
+10a - mikroelektronika: tranzystor, układ scalony
+
+GRUPA 5
+8b (?) - początki kryptologii komputerowej
+9b - komputery i superkomputery
+
+GRUPA 6
+10b - kalkulatory elektroniczne
+11b - pierwsze popularne mikrokomputery
+
+GRUPA 7
+6a - logika matematyczna i komputery
+7a - początki przetwarzania danych i nośniki danych
+
+GRUPA 8
+12b - budowa komputerów w Polsce
+
+GRUPA 9
+5a - początki komunikacji przewodowej
+
+GRUPA 10
+3a - pierwsze kalkulatory
+4a - wczesne początki komputerów
+
+GRUPA 11
+1a - pierwsze znaki liczbowe, abaki, algorytmy
+2a - rozwój liczb i sposobów rachowania
+
+GRUPA 12
+1b - znaki liczbowe, proste sposoby rachowania
+>>>>>>> a970441c085f66ce05d35e7aae7aa3c8f2a174e7:docs/Tablice/SpisTablic.txt
 2b - abaki, liczydła, suwaki
