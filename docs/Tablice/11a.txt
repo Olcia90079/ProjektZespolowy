@@ -1,28 +1,28 @@
 11a. Pierwsze mikrokomputery domowe i osobiste
 
 
-Pierwsze „komputery osobiste” zaczê³y pojawiaæ siê pod koniec lat 50. XX wieku
-– „osobisty” oznacza³o pocz¹tkowo, mo¿liwoœæ obs³ugi przez jednego operatora
-– zaœ ich nasilenie nast¹pi³o w latach 70. By³y to jednak albo bardzo drogie maszyny,
-albo eksperymentalne egzemplarze, albo o niewielkich mo¿liwoœciach.
-Obecnie przyjmuje siê, ¿e komputer osobisty (ang. personal computer, PC) jest
-komputerem ogólnego przeznaczenia, zbudowanym na bazie mikroprocesora, dost
-êpnym na rynku dla szerokich mas u¿ytkowników.
-Podobnie jak w przypadku komputerów, do powstania komputerów osobistych
-i ich póŸniejszej olbrzymiej popularnoœci przyczyni³o siê wiele wynalazków, które
-dzisiaj mo¿na odnaleŸæ w popularnych PC i w urz¹dzeniach, które z nimi wspó³pracuj¹,
-zwiêkszaj¹c ich mo¿liwoœci i zakres zastosowañ:
-1950 – Yoshiro Nakamats z Uniwersytetu Tokijskiego wynajduje napêd dysków
-elastycznych (ang. floppy disk) i sprzedaje licencjê IBM
-1953 – pamiêæ ferrytowa typu ROM
-1954 – pierwsza drukarka
-1955 – skaner
-1964 – wynaleziono mysz
-1965 – opracowano jêzyk Basic
-1969 – standard portu szeregowego (RS-232) i pamiêæ typu DRAM
-Pierwsze komputery domowe pojawiaj¹ce siê na rynku w drugiej po³owie lat 70.
-XX wieku praktycznie nie by³y wyposa¿one w ¿adne oprogramowanie. Ich oprogramowanie
-stanowi³y programy pisane przez ich u¿ytkowników. Pierwszym programem,
-który szybko zyska³ na wielkiej popularnoœci wp³ywaj¹c tym równie¿ na popularnoœæ
-mikrokomputerów, by³ arkusz kalkulacyjny VisiCalc, opracowany przez
-studentów ekonomii z Uniwersytetu Harvarda.
+Pierwsze â€komputery osobisteâ€ zaczÄ™Å‚y pojawiaÄ‡ siÄ™ pod koniec lat 50. XX wie-
+ku â€“ â€osobistyâ€ oznaczaÅ‚o poczÄ…tkowo, moÅ¼liwoÅ›Ä‡ obsÅ‚ugi przez jednego operato-
+ra â€“ zaÅ› ich nasilenie nastÄ…piÅ‚o w latach 70. ByÅ‚y to jednak albo bardzo drogie ma-
+szyny, albo eksperymentalne egzemplarze, albo o niewielkich moÅ¼liwoÅ›ciach.
+Obecnie przyjmuje siÄ™, Å¼e komputer osobisty (ang. personal computer, PC) jest
+komputerem ogÃ³lnego przeznaczenia, zbudowanym na bazie mikroprocesora, do-
+stÄ™pnym na rynku dla szerokich mas uÅ¼ytkownikÃ³w.
+Podobnie jak w przypadku komputerÃ³w, do powstania komputerÃ³w osobistych
+i ich pÃ³Åºniejszej olbrzymiej popularnoÅ›ci przyczyniÅ‚o siÄ™ wiele wynalazkÃ³w, ktÃ³re
+dzisiaj moÅ¼na odnaleÅ›Ä‡ w popularnych PC i w urzÄ…dzeniach, ktÃ³re z nimi wspÃ³Å‚pra-
+cujÄ…, zwiÄ™kszajÄ…c ich moÅ¼liwoÅ›ci i zakres zastosowaÅ„:
+1950 â€“ Yoshiro Nakamats z Uniwersytetu Tokijskiego wynajduje napÄ™d dyskÃ³w
+elastycznych (ang. floppy disk) i sprzedaje licencjÄ™ IBM
+1953 â€“ pamiÄ™Ä‡ ferrytowa typu ROM
+1954 â€“ pierwsza drukarka
+1955 â€“ skaner
+1964 â€“ wynaleziono mysz
+1965 â€“ opracowano jÄ™zyk Basic
+1969 â€“ standard portu szeregowego (RS-232) i pamiÄ™Ä‡ typu DRAM
+Pierwsze komputery domowe pojawiajÄ…ce siÄ™ na rynku w drugiej poÅ‚owie lat 70.
+XX wieku praktycznie nie byÅ‚y wyposaÅ¼one w Å¼adne oprogramowanie. Ich oprogra-
+mowanie stanowiÅ‚y programy pisane przez ich uÅ¼ytkownikÃ³w. Pierwszym progra-
+mem, ktÃ³ry szybko zyskaÅ‚ na wielkiej popularnoÅ›ci wpÅ‚ywajÄ…c tym rÃ³wnieÅ¼ na po-
+pularnoÅ›Ä‡ mikrokomputerÃ³w, byÅ‚ arkusz kalkulacyjny VisiCalc, opracowany przez
+studentÃ³w ekonomii z Uniwersytetu Harvarda.

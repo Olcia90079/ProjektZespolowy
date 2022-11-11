@@ -1,42 +1,42 @@
 10b. Kalkulatory elektroniczne
 
 
-Kalkulator to urz¹dzenie s³u¿¹ce do wykonywania obliczeñ liczbowych (numerycznych).
-Kalkulator ró¿ni siê od komputera i maszyny obliczeniowej (ang. calculating
-machine) tym, ¿e na ogó³ jest urz¹dzeniem wykonuj¹cym tylko niektóre operacje
-lub dzia³aj¹cym wed³ug pewnego typu algorytmu (jak maszyna ró¿nicowa
-Babbage’a), nie jest wiêc maszyn¹ ogólnego przeznaczenia i nie mo¿na go uznaæ
-za maszynê Turinga. Chocia¿ wspó³czesne kalkulatory s¹ budowane na procesorach
-ogólnego przeznaczenia, maj¹ wiele cech komputerów (mo¿na je programowaæ),
-to s¹ projektowane, by u³atwiæ wykonywanie tylko pewnych operacji i obliczanie
+Kalkulator to urzÄ…dzenie sÅ‚uÅ¼Ä…ce do wykonywania obliczeÅ„ liczbowych (nume-
+rycznych). Kalkulator rÃ³Å¼ni siÄ™ od komputera i maszyny obliczeniowej (ang. calcu-
+lating machine) tym, Å¼e na ogÃ³Å‚ jest urzÄ…dzeniem wykonujÄ…cym tylko niektÃ³re ope-
+racje lub dziaÅ‚ajÄ…cym wedÅ‚ug pewnego typu algorytmu (jak maszyna rÃ³Å¼nicowa
+Babbageâ€™a), nie jest wiÄ™c maszynÄ… ogÃ³lnego przeznaczenia i nie moÅ¼na go uznaÄ‡
+za maszynÄ™ Turinga. ChociaÅ¼ wspÃ³Å‚czesne kalkulatory sÄ… budowane na procesorach
+ogÃ³lnego przeznaczenia, majÄ… wiele cech komputerÃ³w (moÅ¼na je programowaÄ‡),
+to sÄ… projektowane, by uÅ‚atwiÄ‡ wykonywanie tylko pewnych operacji i obliczanie
 wybranych funkcji.
-Spotkaæ mo¿na kalkulatory wykonuj¹ce tylko cztery dzia³ania i wyposa¿one
-w pojedyncz¹ komórkê pamiêci, stosowane w najprostszych codziennych obliczeniach.
-Bardziej zaawansowane umo¿liwiaj¹ obliczanie wartoœci funkcji in¿ynierskich,
-a najbardziej rozbudowane mog¹ byæ programowane, a wyniki s¹ wyœwietlane
-w postaci graficznej. Proste kalkulatory mo¿na znaleŸæ w urz¹dzeniach takich
-jak zegarki lub telefony komórkowe. Dzisiaj komputery osobiste s¹ wyposa¿one
-w programy symuluj¹ce, tak¿e swoim wygl¹dem, tradycyjne kalkulatory proste i in-
-¿ynierskie. Kalkulatory in¿ynierskie, umo¿liwiaj¹ce obliczanie wartoœci funkcji elementarnych,
-pojawi³y siê w po³owie lat 70. XX wieku i na dobre wypar³y z u¿ycia
+SpotkaÄ‡ moÅ¼na kalkulatory wykonujÄ…ce tylko cztery dziaÅ‚ania i wyposaÅ¼one
+w pojedynczÄ… komÃ³rkÄ™ pamiÄ™ci, stosowane w najprostszych codziennych oblicze-
+niach. Bardziej zaawansowane umoÅ¼liwiajÄ… obliczanie wartoÅ›ci funkcji inÅ¼ynier-
+skich, a najbardziej rozbudowane mogÄ… byÄ‡ programowane, a wyniki sÄ… wyÅ›wietla-
+ne w postaci graficznej. Proste kalkulatory moÅ¼na znaleÅºÄ‡ w urzÄ…dzeniach takich
+jak zegarki lub telefony komÃ³rkowe. Dzisiaj komputery osobiste sÄ… wyposaÅ¼one
+w programy symulujÄ…ce, takÅ¼e swoim wyglÄ…dem, tradycyjne kalkulatory proste i in-
+Å¼ynierskie. Kalkulatory inÅ¼ynierskie, umoÅ¼liwiajÄ…ce obliczanie wartoÅ›ci funkcji ele-
+mentarnych, pojawiÅ‚y siÄ™ w poÅ‚owie lat 70. XX wieku i na dobre wyparÅ‚y z uÅ¼ycia
 suwaki logarytmiczne.
-Wspó³czesne kalkulatory s¹ budowane z uk³adów scalonych w technologii pó³-
-przewodnikowej. Zasilane s¹ bateriami lub promieniami s³onecznymi. Produkowane
-s¹ przez bardzo wiele firm, ale ton rywalizacji nadaj¹ cztery firmy: Casio, HP
+WspÃ³Å‚czesne kalkulatory sÄ… budowane z ukÅ‚adÃ³w scalonych w technologii pÃ³Å‚-
+przewodnikowej. Zasilane sÄ… bateriami lub promieniami sÅ‚onecznymi. Produkowa-
+ne sÄ… przez bardzo wiele firm, ale ton rywalizacji nadajÄ… cztery firmy: Casio, HP
 (Hewlett-Packard), Sharp i TI (Texas Instruments).
-Pocz¹tkowo elektroniczne kalkulatory desk-top, a póŸniej kieszonkowe (pocket)
-lub hand-held, by³y bardzo drogie. Na pocz¹tku lat 60. XX wieku ich cena by³a porównywalna
-z cen¹ samochodu (oko³o $1000). Spowodowane to by³o wysokimi cenami
-materia³ów i elementów, z których by³y budowane, a tak¿e liczb¹ elementów,
-z których siê sk³ada³y. Dopiero uk³ady scalone i póŸniejsza miniaturyzacja elektroniki
-spowodowa³y drastyczny spadek ceny elementów sk³adowych.
-Elektroniczne kalkulatory spowodowa³y powstanie pierwszego mikroprocesora
-Intel 4004 – zaprojektowany on zosta³ dla kalkulatorów firmy japoñskiej Busiom.
-Podobne by³o przeznaczenie mikroprocesora TMS 1000 wyprodukowanego przez
-Texas Instruments w 1971 roku. Na pocz¹tku swojej historii rozwoju, mikroprocesory
-powstawa³y z myœl¹ g³ównie o kalkulatorach elektronicznych.
-Pierwsze kalkulatory elektroniczne zaczêto budowaæ na pocz¹tku lat 60.
-XX wieku, i z czasem zaczê³y one wypieraæ kalkulatory mechaniczno-elektryczne.
-Do koñca tej dekady kalkulatory te by³y jeszcze pokaŸnych rozmiarów i doœæ du¿o
-kosztowa³y, chocia¿ stanowi³y ju¿ wyposa¿enie osobistych stanowisk pracy (biurek)
-– by³y to modele desk-top.
+PoczÄ…tkowo elektroniczne kalkulatory desk-top, a pÃ³Å›niej kieszonkowe (pocket)
+lub hand-held, byÅ‚y bardzo drogie. Na poczÄ…tku lat 60. XX wieku ich cena byÅ‚a po-
+rÃ³wnywalna z cenÄ… samochodu (okoÅ‚o $1000). Spowodowane to byÅ‚o wysokimi ce-
+nami materiaÅ‚Ã³w i elementÃ³w, z ktÃ³rych byÅ‚y budowane, a takÅ¼e liczbÄ… elementÃ³w,
+z ktÃ³rych siÄ™ skÅ‚adaÅ‚y. Dopiero ukÅ‚ady scalone i pÃ³Å›niejsza miniaturyzacja elektro-
+niki spowodowaÅ‚y drastyczny spadek ceny elementÃ³w skÅ‚adowych.
+Elektroniczne kalkulatory spowodowaÅ‚y powstanie pierwszego mikroprocesora
+Intel 4004 â€“ zaprojektowany on zostaÅ‚ dla kalkulatorÃ³w firmy japoÅ„skiej Busiom.
+Podobne byÅ‚o przeznaczenie mikroprocesora TMS 1000 wyprodukowanego przez
+Texas Instruments w 1971 roku. Na poczÄ…tku swojej historii rozwoju, mikroproce-
+sory powstawaÅ‚y z myÅ›lÄ… gÅ‚Ã³wnie o kalkulatorach elektronicznych.
+Pierwsze kalkulatory elektroniczne zaczÄ™to budowaÄ‡ na poczÄ…tku lat 60.
+XX wieku, i z czasem zaczÄ™Å‚y one wypieraÄ‡ kalkulatory mechaniczno-elektryczne.
+Do koÅ„ca tej dekady kalkulatory te byÅ‚y jeszcze pokaÅ›nych rozmiarÃ³w i doÅ›Ä‡ duÅ¼o
+kosztowaÅ‚y, chociaÅ¼ stanowiÅ‚y juÅ¼ wyposaÅ¼enie osobistych stanowisk pracy (biurek)
+â€“ byÅ‚y to modele desk-top.
