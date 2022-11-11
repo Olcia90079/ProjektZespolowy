@@ -1,0 +1,73 @@
+6b. Maszyny i diagramy logiczne. System binarny
+
+
+Maszyny i diagramy logiczne
+
+Wśród aparatów logicznych można wyróżnić diagramy logiczne i maszyny logiczne.
+Diagramy logiczne służą do reprezentowania pojęć i obiektów logicznych,
+oraz relacji między nimi. Drzewa, oddające hierarchię zależności, stosował już Arystoteles
+w IV wieku p.n.e. Po wiekach, w 1761 roku szwajcarski matematyk Leonard
+Euler (1834-1923), który osiągnął znaczące sukcesy niemal w każdym dziale matematyki,
+zaproponował geometryczny system, służący do generowania rozwiązań
+w logice klasycznej. Nie okazał się on jednak specjalnym sukcesem.
+W1881 roku wykładowca logiki Allan Marquand zaproponował diagramy złożone
+z kwadratów i prostokątów. Zainteresował się nimi logik angielski Charles Lutwidge
+Dodgson (1832-1898), znany szerszym kręgom jako Lewis Carroll, autor Alicji w krainie
+czarów, który lubował się w zagadkach logicznych. Diagramy prostokątne miały
+swój renesans w połowie XX wieku, gdy Maurice Karnaugh zaczął posługiwać się
+nimi przy projektowaniu logiki układów cyfrowych. Do dzisiaj natomiast cieszą się
+popularnością diagramy utworzone z okręgów i elips, które wprowadził angielski logik
+John Venn (1834-1923) w 1880 roku pod wpływem prac George’a Boole’a.
+Pierwsze próby zbudowania maszyny logicznej podjął w XIII wieku teolog hiszpański
+Ramon Lull. Miała ona postać współśrodkowych dysków, umieszczonych
+na jednej osi. Za pomocą ich rotacji można było otrzymać wiele kombinacji słów
+i symboli, zapisanych na dyskach. W docelowej postaci miało być 14 dysków i 16
+słów na każdym z nich. Takie urządzenie miało posłużyć m.in. do dowodzenia prawdziwości
+sformułowań. Nie odniosło jednak ono specjalnych sukcesów,
+choć wywarło wpływ m.in. na G. W. Leibnizu, który uważał, że dysputy i spory filozofów
+mogłyby być zastąpione przez wykonywanie przez nich odpowiednich rachunków.
+Faktycznie pierwszą maszynę logiczną zbudował Anglik Charles Stanhope
+(1753-1816), wynalazca również mechanicznych maszyn liczących. Nazwał ją Demonstrator.
+Miała być pomocna przy rozwiązywaniu sylogizmów (opis tej maszyny
+ukazał się dopiero 60 lat po śmierci konstruktora). Kolejną maszynę logiczną, logiczny
+abakus zwany logicznym pianinem, skonstruował w 1869 roku brytyjski ekonomista
+i logik William Stanley Jevons (1836-1882), zafascynowany odkryciami
+George’a Boole’a. Znana jest jeszcze maszyna logiczna, skonstruowana przez Allana
+Marquanda, w tym samym roku (1881), w którym wprowadził on prostokątne
+diagramy logiczne. Przypuszczalnie pierwszą elektryczną maszynę logiczną zbudował
+w 1936 roku amerykański psycholog Benjamin Burack.
+
+
+System binarny
+
+System binarny, czyli pozycyjny system reprezentacji i zapisu liczb o podstawie
+(bazie) 2, będący podstawą funkcjonowania współczesnych komputerów, pojawił
+się dopiero w XVII wieku. Za jego wynalazcę uważa się G. W. Leibniza, który już
+za młodu (w roku 1679) interesował się tym systemem i jego wykorzystaniem w maszynie
+liczącej. W pracy z 1703 objaśnił ten system i zademonstrował jego wykorzystanie
+do wykonywania podstawowych działań arytmetycznych.
+Âlady systemu binarnego znaleźć można w zapisach przed Leibnizem. Angielski
+astronom i geograf Thomas Hariot (1560-1621) ok. roku 1600 przedstawił kolejne
+liczby naturalne jako sumy potęg liczby 2. Angielski filozof Francis Bacon
+(1561-1626) ujawnił pod koniec swojego życia sposób szyfrowania liter za pomocą
+dwóch znaków, które odpowiadało binarnej reprezentacji numeru miejsca liter
+w alfabecie. Około 1670 biskup Lobkowitz, mieszkający w Rzymie, opisał systemy
+liczbowe o różnych bazach, w tym także o podstawie 2. Wcześniej B. Pascal zajmował
+się systemem liczbowym o dowolnej podstawie większej lub równej 2. W wiekach
+XVIII i XIX wielu matematyków, w tym ci najznakomitsi jak L. Euler, interesowało
+się systemem binarnym.
+W drugiej połowie XIX wieku logicy, tacy jak George Boole i Augustus de Morgan,
+twórcy logiki symbolicznej, kładą solidne podstawy dla systemu binarnego,
+wprowadzając rachunek logiczny. Zwieńczeniem tego rozwoju jest praca magisterska
+C. Shannona (1937), w której połączył ze sobą technologię elektromechaniczną,
+algebrę Boole’a i system binarny.
+Niemal w tym samym czasie powstają pierwsze projekty urządzeń lub konkretne
+konstrukcje urządzeń elektryczno-mechanicznych (i elektroniczno-mechanicznych),
+służących do automatycznych obliczeń w systemie binarnym. Ich autorami byli:
+Francuz R. Valtat (opatentował binarną maszynę obliczeniową – 1932), Anglik
+E. W. Phillips (zbudował Binary Demonstrator – 1936), Niemiec K. Zuse (opracował
+pierwsze projekty binarnego kalkulatora przekaźnikowego – 1936) oraz Amerykanin
+G. Stibitz (zbudował sumator binarny – 1937).
+Pozycję systemu binarnego w projektach i konstrukcjach maszyn liczących
+ugruntowały prace teoretyczne i praktyczne dwóch największych pionierów ery
+współczesnych komputerów, A. M. Turinga i J. von Neumanna.
