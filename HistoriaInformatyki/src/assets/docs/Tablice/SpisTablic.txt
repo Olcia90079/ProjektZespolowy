@@ -1,9 +1,9 @@
-GRUPOWANIE (te tablice wisz¹ obok siebie)
+GRUPOWANIE (te tablice wiszÄ… obok siebie)
 
 GRUPA 1
-3b - rozwój kalkulatorów mechanicznych
+3b - rozwÃ³j kalkulatorÃ³w mechanicznych
 4b - kalkulatory i sumatory
-5b - rozwój komunikacji
+5b - rozwÃ³j komunikacji
 
 GRUPA 2
 11a - pierwsze mikrokomputery domowe i osobiste
@@ -16,10 +16,10 @@ GRUPA 3
 GRUPA 4
 8a - teoretyczne podwaliny informatyki
 9a - pierwsze komputery
-10a - mikroelektronika: tranzystor, uk³ad scalony
+10a - mikroelektronika: tranzystor, ukÅ‚ad scalony
 
 GRUPA 5
-8b (?) - pocz¹tki kryptologii komputerowej
+8b (?) - poczÄ…tki kryptologii komputerowej
 9b - komputery i superkomputery
 
 GRUPA 6
@@ -28,22 +28,22 @@ GRUPA 6
 
 GRUPA 7
 6a - logika matematyczna i komputery
-7a - pocz¹tki przetwarzania danych i noœniki danych
+7a - poczÄ…tki przetwarzania danych i noÅ›niki danych
 
 GRUPA 8
-12b - budowa komputerów w Polsce
+12b - budowa komputerÃ³w w Polsce
 
 GRUPA 9
-5a - pocz¹tki komunikacji przewodowej
+5a - poczÄ…tki komunikacji przewodowej
 
 GRUPA 10
 3a - pierwsze kalkulatory
-4a - wczesne pocz¹tki komputerów
+4a - wczesne poczÄ…tki komputerÃ³w
 
 GRUPA 11
 1a - pierwsze znaki liczbowe, abaki, algorytmy
-2a - rozwój liczb i sposobów rachowania
+2a - rozwÃ³j liczb i sposobÃ³w rachowania
 
 GRUPA 12
 1b - znaki liczbowe, proste sposoby rachowania
-2b - abaki, liczyd³a, suwaki
+2b - abaki, liczydÅ‚a, suwaki
