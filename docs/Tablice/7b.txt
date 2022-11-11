@@ -1,48 +1,48 @@
 7b. Wynalazek druku i maszyn do pisania
 
 
-Mo¿e siê wydawaæ, ¿e od prasy drukarskiej z ruchomymi czcionkami do maszyny
-do pisania tylko jeden niewielki krok. Up³ynê³o jednak ponad 400 lat zanim
-wynalazek Gutenberga z 1440 roku zosta³ pod koniec XIX wieku przekuty
-w maszynê do pisania – osobiste urz¹dzenie do drukowania. To „opóŸnienie” by-
-³o spowodowane m.in. wysokimi kosztami produkcji jakichkolwiek maszyn, jak
-i niskimi kosztami si³y roboczej. Dopiero automatyzacja przemys³u w XIX wieku
-i wiele innych wynalazków stworzy³o odpowiednie warunki do upowszechnienia
-siê maszyn do pisania, o których myœlano znacznie wczeœniej.
-Maszyna do pisania nale¿y do historii ludzkich d¹¿eñ do komunikowania siê,
-a w historii komputerów mo¿e byæ uznana za prekursora klawiatury, która umo¿-
-liwia u¿ytkownikowi interakcjê z komputerem. Z drugiej strony, wynalazek ten
-mia³ oszczêdzaæ czas. Eliphalet Remington, jeden z pierwszych producentów maszyn
-do pisania, reklamowa³ je tym, ¿e oszczêdzaj¹c czas wyd³u¿aj¹ ¿ycie. Pierwszy
-patent maszyny do pisania uzyska³ Anglik Henry Mill w 1714 roku. W 1808 roku,
-W³och Pellegrino Turri skonstruowa³ maszynê do pisania dla swojej ociemnia³ej
-przyjació³ki – wiadomo o tym na podstawie listów, napisanych przez ni¹ za pomoc¹
-tej maszyny. Pierwsza znana maszyna do pisania zosta³a zbudowana z drewna
-przez Amerykanina Williama Burta w 1829 roku; nazwa³ on j¹ typographer. Nie
-by³a to niestety konstrukcja konkurencyjna dla odrêcznego pisania. Pierwsz¹
-praktyczn¹ maszynê do pisania opatentowali w 1867 roku trzej amerykañscy wynalazcy
-C. L. Sholes, C. Glidden i S. W. Soule, a jej produkcji podj¹³ siê w 1873 roku
-producent broni i maszyn do szycia, firma E. Remington & Sons. W swojej maszynie
-Sholes wprowadzi³ w 1874 roku uk³ad klawiszy, znany obecnie jako
-QWERTY, pochodz¹cy od piêciu kolejnych liter w drugim od góry rzêdzie
-(w trzecim w przypadku klawiatury komputera). W tym uk³adzie litery na klawiaturze
-maszyny s¹ umieszczone w czterech rzêdach i oddalone s¹ od siebie pary liter,
-które czêsto wystêpuj¹ obok siebie w s³owach jêzyka angielskiego. Ma to zapobiec
-blokowaniu siê czcionek tych liter podczas pisania. Klawisz Shift zosta³
-wprowadzony do maszyn Remington dopiero w 1878 roku, umo¿liwiaj¹c pisanie
-nie tylko wielkimi literami. W 1936 roku August Dvorak opatentowa³ znacznie
-efektywniejszy uk³ad klawiszy na klawiaturze, znany jako klawiatura Dvoraka, ale
-nie przyj¹³ siê on komercyjnie. Mark Twain jest uwa¿any za pierwszego pisarza,
-który ca³¹ ksi¹¿kê napisa³ na maszynie. By³a to powieœæ ¯ycie na Mississippi, któr¹
-napisa³ w 1882 roku na maszynie Remington #2. Amerykanin Franz X. Wagner
-wynalaz³ w 1895 roku mechanizm w maszynie do pisania, dziêki któremu osoba
-pisz¹ca na bie¿¹co widzia³a drukowany tekst. Maszyny z tym mechanizmem by³y
-produkowane przez firmê Underwood i zawiera³y w sobie wiêkszoœæ udogodnieñ
-spotykanych w póŸniej produkowanych modelach. Pierwszy patent na elektryczn¹
-maszynê do pisania uzyskali w 1871 roku dwaj Amerykanie George Arrington
-i s³awny wynalazca ¿arówki Thomas A. Edison, ale dopiero w po³owie XX wieku
-maszyny elektryczne zdoby³y wiêksz¹ popularnoœæ. Du¿a w tym zas³uga firmy
-IBM, producenta maszyn IBM Selectric, zawieraj¹cych wymienne g³owice
-z czcionkami (g³owice oczywiœcie nie powodowa³y zakleszczania siê czcionek),
-a w póŸniejszych latach – wyposa¿onych równie¿ w taœmê korekcyjn¹ do poprawiania
-b³êdów (literówek).
+MoÅ¼e siÄ™ wydawaÄ‡, Å¼e od prasy drukarskiej z ruchomymi czcionkami do ma-
+szyny do pisania tylko jeden niewielki krok. UpÅ‚ynÄ™Å‚o jednak ponad 400 lat za-
+nim wynalazek Gutenberga z 1440 roku zostaÅ‚ pod koniec XIX wieku przekuty
+w maszynÄ™ do pisania â€“ osobiste urzÄ…dzenie do drukowania. To â€opÃ³Åºnienieâ€ by-
+Å‚o spowodowane m.in. wysokimi kosztami produkcji jakichkolwiek maszyn, jak
+i niskimi kosztami siÅ‚y roboczej. Dopiero automatyzacja przemysÅ‚u w XIX wie-
+ku i wiele innych wynalazkÃ³w stworzyÅ‚o odpowiednie warunki do upowszechnie-
+nia siÄ™ maszyn do pisania, o ktÃ³rych myÅ›lano znacznie wczeÅ›niej.
+Maszyna do pisania naleÅ¼y do historii ludzkich dÄ…Å¼eÅ„ do komunikowania siÄ™,
+a w historii komputerÃ³w moÅ¼e byÄ‡ uznana za prekursora klawiatury, ktÃ³ra umoÅ¼-
+liwia uÅ¼ytkownikowi interakcjÄ™ z komputerem. Z drugiej strony, wynalazek ten
+miaÅ‚ oszczÄ™dzaÄ‡ czas. Eliphalet Remington, jeden z pierwszych producentÃ³w ma-
+szyn do pisania, reklamowaÅ‚ je tym, Å¼e oszczÄ™dzajÄ…c czas wydÅ‚uÅ¼ajÄ… Å¼ycie. Pierwszy
+patent maszyny do pisania uzyskaÅ‚ Anglik Henry Mill w 1714 roku. W 1808 roku,
+WÅ‚och Pellegrino Turri skonstruowaÅ‚ maszynÄ™ do pisania dla swojej ociemniaÅ‚ej
+przyjaciÃ³Å‚ki â€“ wiadomo o tym na podstawie listÃ³w, napisanych przez niÄ… za pomo-
+cÄ… tej maszyny. Pierwsza znana maszyna do pisania zostaÅ‚a zbudowana z drewna
+przez Amerykanina Williama Burta w 1829 roku; nazwaÅ‚ on jÄ… typographer. Nie
+byÅ‚a to niestety konstrukcja konkurencyjna dla odrÄ™cznego pisania. PierwszÄ…
+praktycznÄ… maszynÄ™ do pisania opatentowali w 1867 roku trzej amerykaÅ„scy wy-
+nalazcy C. L. Sholes, C. Glidden i S. W. Soule, a jej produkcji podjÄ…Å‚ siÄ™ w 1873 ro-
+ku producent broni i maszyn do szycia, firma E. Remington & Sons. W swojej ma-
+szynie Sholes wprowadziÅ‚ w 1874 roku ukÅ‚ad klawiszy, znany obecnie jako
+QWERTY, pochodzÄ…cy od piÄ™ciu kolejnych liter w drugim od gÃ³ry rzÄ™dzie
+(w trzecim w przypadku klawiatury komputera). W tym ukÅ‚adzie litery na klawia-
+turze maszyny sÄ… umieszczone w czterech rzÄ™dach i oddalone sÄ… od siebie pary li-
+ter, ktÃ³re czÄ™sto wystÄ™pujÄ… obok siebie w sÅ‚owach jÄ™zyka angielskiego. Ma to za-
+pobiec blokowaniu siÄ™ czcionek tych liter podczas pisania. Klawisz Shift zostaÅ‚
+wprowadzony do maszyn Remington dopiero w 1878 roku, umoÅ¼liwiajÄ…c pisanie
+nie tylko wielkimi literami. W 1936 roku August Dvorak opatentowaÅ‚ znacznie
+efektywniejszy ukÅ‚ad klawiszy na klawiaturze, znany jako klawiatura Dvoraka, ale
+nie przyjÄ…Å‚ siÄ™ on komercyjnie. Mark Twain jest uwaÅ¼any za pierwszego pisarza,
+ktÃ³ry caÅ‚Ä… ksiÄ…Å¼kÄ™ napisaÅ‚ na maszynie. ByÅ‚a to powieÅ›Ä‡ Å¼ycie na Mississippi, ktÃ³-
+rÄ… napisaÅ‚ w 1882 roku na maszynie Remington #2. Amerykanin Franz X. Wagner
+wynalazÅ‚ w 1895 roku mechanizm w maszynie do pisania, dziÄ™ki ktÃ³remu osoba
+piszÄ…ca na bieÅ¼Ä…co widziaÅ‚a drukowany tekst. Maszyny z tym mechanizmem byÅ‚y
+produkowane przez firmÄ™ Underwood i zawieraÅ‚y w sobie wiÄ™kszoÅ›Ä‡ udogodnieÅ„
+spotykanych w pÃ³Åºniej produkowanych modelach. Pierwszy patent na elektrycz-
+nÄ… maszynÄ™ do pisania uzyskali w 1871 roku dwaj Amerykanie George Arrington
+i sÅ‚awny wynalazca Å¼arÃ³wki Thomas A. Edison, ale dopiero w poÅ‚owie XX wieku
+maszyny elektryczne zdobyÅ‚y wiÄ™kszÄ… popularnoÅ›Ä‡. DuÅ¼a w tym zasÅ‚uga firmy
+IBM, producenta maszyn IBM Selectric, zawierajÄ…cych wymienne gÅ‚owice
+z czcionkami (gÅ‚owice oczywiÅ›cie nie powodowaÅ‚y zakleszczania siÄ™ czcionek),
+a w pÃ³Åºniejszych latach â€“ wyposaÅ¼onych rÃ³wnieÅ¼ w taÅ›mÄ™ korekcyjnÄ… do popra-
+wiania bÅ‚Ä™dÃ³w (literÃ³wek).
