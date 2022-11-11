@@ -1,0 +1,58 @@
+10a. Mikroelektronika: tranzystor, uk³ad scalony
+
+
+PrzekaŸnik (ang. relay) jest elektrycznym prze³¹cznikiem, który otwiera siê i zamyka
+pod wp³ywem pr¹du w innym obwodzie. Najpierw zosta³ wykorzystany w telegrafie
+(1837), a nastêpnie by³ stosowany w kalkulatorach i w pierwszych komputerach
+przy realizacji funkcji logicznych – dwa przekaŸniki po³¹czone szeregowo
+realizuj¹ operacjê LUB, a równolegle – AND.
+Bramka logiczna (ang. logic gate) – uk³ad prze³¹czników stosowany w realizacji
+operacji logicznych w algebrze Boole’a. Wykonane by³y z elementów mechanicznych
+(jak u Babbage’a i Zuse), elektromagnetycznych przekaŸników i diod.
+Tranzystor (ang. transistor) jest elektronicznym elementem pó³przewodnikowym,
+który mo¿e pe³niæ funkcjê prze³¹cznika elektronicznego, a w po³¹czeniu
+z kondensatorem – elementu pamiêci pó³przewodnikowej. Tranzystor wynaleŸli
+w latach 1947-1948 John Bardeen (1908-1991), Walter H. Brattain (1902-1987) oraz
+William B. Shockley (1910-1989) z Bell Telephone Laboratories. Dwaj pierwsi z tej
+trójki pod koniec 1947 roku wynaleŸli tranzystor ostrzowy (ang. point-contacy transistor),
+a w 1948 roku Shockley wynalaz³ tranzystor warstwowy (ang. junction transistor).
+J. Bardeen otrzyma³ w 1972 roku drug¹ Nagrodê Nobla za nadprzewodnictwo.
+Uk³ad scalony (ang. integrated circuit, chip), zminiaturyzowany uk³ad elektroniczny,
+zawieraj¹cy od kilku do milionów elementów elektronicznych, takich jak
+tranzystory, diody, kondensatory. Najbardziej rozpowszechnionymi uk³adami scalonymi
+s¹ mikroprocesory i koœci pamiêci. Ze wzglêdu na stopieñ scalenia, w przesz³oœci
+wyró¿niano uk³ady: ma³ej skali integracji (SSI – Small Scale of Integration),
+œredniej (MSI – Medium), du¿ej (LSI – Large), wielkiej (VLSI – Very Large), a obecnie
+ultra wielkiej (UL – Ultra Large).
+Mikroprocesor jest pojedynczym uk³adem scalonym, przeznaczonym do wykonywania
+okreœlonego zbioru operacji, np. wszystkich operacji matematycznych i logicznych.
+Pierwsze mikroprocesory powstawa³y z myœl¹ o kalkulatorach, bardziej
+jako elektroniczne elementy, ni¿ jako programowalne czêœci komputerów. Takie
+by³o równie¿ przeznaczenie mikroprocesora TMS 1000 wyprodukowanego przez
+Texas Instruments w 1971 roku. By³ on mniejszy od paznokcia (12 mm2), moc¹ natomiast
+dorównywa³ komputerowi ENIAC z 1946 roku, który zajmowa³ ca³¹ halê
+(72 m2). W 1974 roku pojawi³ siê Intel 8080, mikroprocesor w pe³ni ogólnego przeznaczenia;
+zawiera³ 5000 tranzystorów i wykonywa³ 2 000 000 operacji na sekundê
+(czêstotliwoœæ 2 MHz). W 1978 roku Intel opracowuje w pe³ni 16-bitowy procesor Intel
+8086 (29 000 tranzystorów, czêstotliwoœæ 4,77 MHz), mog¹cy adresowaæ 1 MB
+pamiêci. Zmodyfikowana wersja tego mikroprocesora – Intel 8088 – wewnêtrznie 16-
+bitowa, ale z szyn¹ 8-bitow¹, zosta³a u¿yta w 1981 roku w komputerze IBM PC. W kolejnych
+latach pojawia³y siê: Intel 80286 (1982 – 120 000 tranzystorów, 6-12 MHz), Intel
+80386 (1985 – 275 000 tranzystorów, 16-33 MHz); Intel 80486 (1989 – 1 180 000
+tranzystorów, 25-20 MHz), Intel Pentium II (1997 – 2 500 000 tranzystorów, 233-450
+MHz); Intel Pentium III (1999 – 24 000 000 tranzystorów, 450-1330 MHz); Intel
+Pentium 4 (2000 – 42 000 000 tranzystorów, 1300-2000 MHz). Wyprodukowany
+w 2004 roku mikroprocesor dwuprocesorowy Intel Itanium z pamiêci¹ podrêczn¹
+9 MB, zawiera pond 500 milionów tranzystorów.
+Niemal równoczeœnie z firm¹ Intel, mikroprocesory o podobnych parametrach
+by³y produkowane równie¿ przez wiele innych firm, takich jak: Texas Instruments
+(g³ównie przeznaczonych dla kalkulatorów), Motorola (montowanych w komputerach
+Apple), MOS Technology (procesory z serii MC-6500 stosowane w pierwszych
+komputerach domowych), NEC, AMD (Advanced Micro devices). Intel od pocz¹tku
+nadawa³ kierunek i tempo rywalizacji na polu konstrukcji coraz doskonalszych
+procesorów.
+Prawo Moore’a – w najpopularniejszej wersji – g³osi, ¿e liczba tranzystorów
+w uk³adzie scalonym podwaja siê co 18 miesiêcy (sam Moore zarzeka³ siê, ¿e to
+przewidywanie dotyczy³o 24 miesiêcy). Sformu³owane w pracy z 1965 roku na bazie
+obserwacji empirycznych, obecnie czêsto wystêpuje jako cel dzia³ania i wyzwanie
+dla przemys³u mikroprocesorowego.

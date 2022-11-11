@@ -1,0 +1,139 @@
+8b. Kryptografia
+
+
+Cz³owiek od pocz¹tku swoich dziejów porozumiewa³ siê z innym cz³owiekiem.
+Z czasem wynalaz³ ró¿ne sposoby komunikowania siê na odleg³oœæ. PóŸniej, rodz¹ce
+siê spo³ecznoœci, pañstwa i ich wodzowie potrzebowali sprawnych systemów ³¹cznoœci,
+by skutecznie w³adaæ swoimi, czêsto rozleg³ymi posiad³oœciami. Sprzeczne
+interesy ró¿nych w³adców i dowódców powodowa³y, ¿e zaczêli oni strzec wysy³anych
+przez siebie wiadomoœci przed przechwyceniem ich przez inne osoby. Tak narodzi³a
+siê potrzeba szyfrowania, czyli utajniania treœci przesy³anych wiadomoœci.
+Wielokrotnie w historii ludzkoœci szyfrowanie mia³o istotny wp³yw na bieg
+wydarzeñ. Matematycy Stanis³aw Leœniewski, Wac³aw Sierpiñski i Stefan Mazurkiewicz
+z³amali sowieckie szyfry w 1920 roku we Lwowie. Dziêki temu znane by-
+³y zamiary Armii Czerwonej. Najbardziej spektakularnym jednak przyk³adem
+jest chyba historia rozpracowania niemieckiej maszyny szyfruj¹cej Enigma, dziê-
+ki czemu – jak utrzymuj¹ historycy – II wojna œwiatowa zakoñczy³a siê o 2-3
+lata wczeœniej. Du¿¹ w tym rolê odegrali Polacy.
+
+
+Polscy kryptolodzy
+
+Polscy kryptolodzy – tym mianem okreœla siê zespó³ kryptologów, kierowany
+przez Mariana Rejewskiego (pozosta³ymi cz³onkami zespo³u byli: Jerzy Ró¿ycki
+i Henryk Zygalski), który przed wybuchem II wojny œwiatowej ws³awi³ siê opracowaniem
+metod i urz¹dzeñ s³u¿¹cych do ³amania szyfrów maszyny Enigma. Byli
+oni absolwentami Wydzia³u Matematyczno-Przyrodniczego Uniwersytu Poznañskiego.
+W 1929 roku uczestniczyli oni w kursie kryptologii, a od nastêpnego
+roku pracowali w Biurze Szyfrów Sztabu G³ównego Wojska Polskiego, pocz¹tkowo
+w oddziale poznañskim, a od 1932 roku w Warszawie. W lipcu 1939 roku swoje
+materia³y i urz¹dzenia przekazali kryptologom z Francji i Wielkiej Brytanii.
+W czasie wojny prace nad deszyfracj¹ Enigmy by³y kontynuowane przez Anglików
+w Bletchley Park ko³o Londynu. Polscy kryptolodzy zaœ pracowali nad ³amaniem
+szyfrów we Francji, a póŸniej równie¿ w Wielkiej Brytanii.
+
+
+Enigma
+
+W latach 20. XX wieku, niewiele lat po przegranej I wojnie œwiatowej, Niemcy
+na nowo rozpoczê³y budowê swojej potêgi militarnej. Jednym z fundamentalnych
+rozwi¹zañ mia³a byæ bezpieczna komunikacja. Wysi³ki te nasili³y siê po dojœciu Hitlera
+do w³adzy w 1933 roku. Pod koniec lat 20. XX wieku w wojsku niemieckim
+wprowadzono maszynê szyfruj¹co-deszyfruj¹c¹ Enigma, pocz¹tkowo stosowan¹
+komercyjnie do celów cywilnych. Na d³ugo przed wybuchem wojny, w pañstwach
+czuj¹cych zagro¿enie niemieckim militaryzmem rozpoczêto dzia³ania maj¹ce
+na celu opracowanie sposobów ³amania szyfrów maszyny Enigma. Najwiêkszy sukces
+na tym polu odniós³ zespó³ polskich kryptologów, którzy w grudniu 1932 roku
+z³amali szyfr Enigmy. Miesi¹c przed wybuchem wojny zaprezentowali oni i przekazali
+swoje osi¹gniêcia kryptologom z Francji i Wielkiej Brytanii.
+
+
+Ogólny opis budowy i dzia³ania maszyny Enigma
+
+Enigma by³a elektro-mechaniczn¹ maszyn¹, w której uk³ad okablowanych wirników
+i po³¹czeñ s³u¿y³ do zmiany podawanej (wprowadzanej) litery. Naciœniêcie
+klawisza z liter¹ powodowa³o wys³anie sygna³u elektrycznego, który przechodz¹c
+przez ³¹cznicê wtyczkow¹, trzy lub cztery wirniki i z powrotem, wielokrotnie zamienia³
+naciœniet¹ literê na inn¹ i na koñcu zapala³a siê lampka z zaszyfrowan¹ liter¹.
+Ka¿de naciœniêcie klawisza powodowa³o obrót wirników, wiêc te same litery
+by³y szyfrowane na ró¿ne sposoby. Pocz¹tkowe ustawienie maszyny polega³o
+na wyborze: trzech (lub czterech w marynarce wojennej) wirników spoœród piêciu
+(lub oœmiu w marynarce), 6-11 po³¹czeñ na ³¹cznicy wtykowej i pocz¹tkowych pozycji
+wirników.
+Podstawowe elementy maszyny Enigma to: klawiatura z³o¿ona z 26 liter i s³u-
+¿¹ca do wprowadzania tekstu jawnego, ³¹cznica wtyczkowa w przedniej obudowie,
+s³u¿¹ca do zamiany liter, ruchome wirniki (rotory) szyfruj¹ce i walec odwracaj¹cy,
+lampki wskazuj¹ce zaszyfrowane litery. Impuls elektryczny, spowodowany
+naciœniêciem litery tekstu jawnego, przemierza: (a) tabelê po³¹czeñ modyfikowanych
+za pomoc¹ ³¹cznicy wtyczkowej i (b) ruchome wirniki (co najmniej trzy), (c)
+jest odbijany przez walec odwracaj¹cy, i ponownie przechodzi przez (d) ruchome
+wirniki i (e) tabelê po³¹czeñ modyfikowanych, a na koñcu (f) powoduje zapalenie
+siê lampki z zaszyfrowan¹ liter¹ (czyli z szyfrem wybranej na klawiaturze litery).
+Ka¿de naciœniêcie klawisza powodowa³o obrót pierwszego wirnika o 1/26
+czêœæ obwodu, co powodowa³o, ¿e ta sama litera w tekœcie jawnym by³a szyfrowana
+innymi literami i nie pozwala³o stosowaæ przy deszyfracji metod czêstoœciowych.
+Walec odwracaj¹cy umo¿liwia³ deszyfracjê tekstu przy tych samych ustawieniach
+pocz¹tkowych maszyny – by³ on tym elementem maszyn Enigma, który nieco
+u³atwia³ deszyfracjê. W pocz¹tkowym okresie stosowania maszyn Enigma, szyfrant
+wykonywa³ kolejno nastêpuj¹ce czynnoœci: na podstawie obowi¹zuj¹cych
+na dany dzieñ ustaleñ (opisane to by³o w ksiêdze kodowej), ustawia³ wirniki ruchome
+w odpowiedniej kolejnoœci i zmienia³ litery na ³¹cznicy przez odpowiednie
+umieszczenie wtyczek w gniazdach. Nastêpnie dla ka¿dej depeszy wybiera³ 3 litery
+(tyle, ile wirników ruchomych) jako klucz i szyfrowa³ je dwukrotnie. Otrzymane
+w ten sposób szeœæ liter umieszcza³ na pocz¹tku zaszyfrowanego tekstu. Nast
+êpnie przestawia³ wirniki na wybrany dla danej depeszy klucz i szyfrowa³ ca³¹
+depeszê. Liczby: zamian liter (stosowano 6-11 po³¹czeñ wtyczkowych), ustawieñ
+wirników (6 dla 3 wirników), wyboru pozycji pocz¹tkowej dla wirnika (263 =
+17576) i ustawieñ walca odwracaj¹cego pozwala³y generowaæ ponad 22 miliony
+ró¿nych podmian (podstawieñ) literowych, wœród których nie by³o ¿adnych
+dwóch jednakowych par liter tekstu jawnego i zaszyfrowanego.
+W czasie wojny rozwiniêciem metod deszyfracji maszyny Enigma zajêli siê
+na olbrzymi¹ skalê Brytyjczycy – dzia³ania te prowadzono pod kryptonimem ULTRA
+– buduj¹c w tym celu specjalny oœrodek w Bletchley Park pod Londynem.
+Powsta³y tam m.in. zmodyfikowane bomby kryptologiczne – w okresie najwiêkszego
+nasilenia prac pracowa³o ponad 200 takich maszyn – oraz komputer Colossus
+(1943), który faktycznie by³ pierwszym komputerem elektronicznym kiedykolwiek
+zbudowanym. W Bletchley Park przez ca³y okres wojny pracowa³ m.in. Alan M.
+Turing, który mia³ olbrzymi wp³yw zarówno na budowane tam maszyny matematyczne,
+jak i na kierunek prac kryptograficznych. Niestety, zgodnie z brytyjskim
+prawem o ochronie tajemnicy, o osi¹gniêciach Brytyjczyków w kryptografii w czasie
+II wojny œwiatowej œwiat dowiedzia³ siê dopiero w po³owie lat 70. XX wieku.
+Bomba brytyjczyków
+Brytyjczycy usprawnili i znacznie rozbudowali „polsk¹ bombê”. Przy jej budowie
+uczestniczy³ A. M. Turing. Zaczêto je budowaæ od 1940 roku i w pewnym okresie
+w Bletchley Park pracowa³o ponad 200 bomb. Gdy w 1942 roku Niemcy dodali
+czwarty wirnik do maszyn Enigma i zaczêli wyposa¿aæ w nie okrêty podwodne U-
+-boty, brytyjskie Bomby nie by³y w stanie deszyfrowaæ ich wiadomoœci. Po przyst¹pieniu
+do wojny w 1941 roku i by zapobiec swoim stratom na morzu, Amerykanie
+zaprojektowali Bombê, która by³a w stanie ³amaæ szyfry czterowirnikowych maszyn
+Enigma. Pierwsze Bomby Amerykanów pojawi³y siê pod konie 1943 roku i w sumie
+zainstalowano ich ponad 120. Pod koniec wojny Amerykanie przejêli ca³kowicie
+od Brytyjczyków deszyfrowanie wiadomoœci kierowanych do i od U-botów.
+
+
+Colossus
+
+Elektroniczna lampowa (zawiera³a 1500 lamp) maszyna cyfrowa specjalnego
+przeznaczenia, sterowana programem przechowywanym w maszynie (czêœciowo
+programowalna), zbudowana w czasie II Wojny Œwiatowej w Wielkiej Brytanii
+na potrzeby kryptologów skupionych w oœrodku kryptograficznym w Bletchley Park
+pod Londynem i pracuj¹cych dla Wydzia³u Komunikacji Ministerstwa Spraw Zagranicznych.
+W Bletchley Park zajmowano siê deszyfracj¹ depesz kodowanych
+za pomoc¹ maszyn Enigma i maszyn Lorenz – Colossus by³ zaprojektowany do deszyfracji
+wiadomoœci kodowanych szyfrem maszyn Lorenz. Ze wzglêdu na tajemnic
+ê pañstwow¹, pierwsze informacje dotycz¹ce maszyn Colossus zosta³y oficjalnie
+ujawnione przez Rz¹d Brytyjski dopiero w 1975 roku, 30 lat po zakoñczeniu wojny.
+Z tych informacji wiadomo, ¿e projekt maszyny opracowa³ zespó³ po kierunkiem
+M. H. A. Newmana, a T. H. Flowers kierowa³ zespo³em, który zajmowa³ siê jej budow¹.
+Jak podano, A. M. Turing w tym czasie pracowa³ w tym samym Wydziale,
+i jego wczeœniejsza praca, w której przedstawi³ abstrakcyjny model komputera, mia-
+³a istotny wp³yw na rozwi¹zania projektowe w tej maszynie. Maszyna Colossus,
+w zawrotnym jak na tamte czasy tempie, czyta³a 5000 znaków na sekundê z dziurkowanej
+taœmy i wykonywa³a 100 operacji logicznych jednoczeœnie. Pierwsz¹ maszyn
+ê Colossus testowano w grudniu 1943 roku i rozpoczê³a ona pracê w lutym
+1944 roku. Wyprodukowano 11 egzemplarzy tej maszyny w dwóch modelach (Mark
+I i Mark II). Wiêkszoœæ z tych maszyn zosta³a rozmontowana po wojnie. W muzeum
+w Bletchley Park mo¿na ogl¹daæ replikê maszyny Colossus Mark II, zbudowan¹
+w 2003 roku. Uwa¿a siê, ¿e prace brytyjskich kryptografów w Bletchley Park
+– do koñca wojny odczytano ponad 63 miliony znaków w zaszyfrowanych wiadomoœciach
+– przyspieszy³y zakoñczenie wojny o blisko dwa lata.

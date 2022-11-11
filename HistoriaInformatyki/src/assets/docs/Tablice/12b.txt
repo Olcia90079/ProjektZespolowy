@@ -1,0 +1,90 @@
+12b. Budowa komputerów w Polsce
+
+
+Pocz¹tki informatyki w Polsce przypadaj¹ na koniec lat 40. XX wieku, gdy
+kraj podnosi³ siê ze zniszczeñ wojennych, a jednoczeœnie popada³ w izolacjê miê-
+dzynarodow¹, zw³aszcza w stosunku do technologii rozwijanej w pañstwach
+zachodnich, powodowan¹ zaostrzaniem siê tzw. „zimnej wojny”. G³ównymi inicjatorami
+budowy polskich komputerów byli matematycy, m.in. Kazimierz Kuratowski.
+W pierwszych dwóch dekadach (1948-1968) budow¹ komputerów
+zajmowano siê g³ównie w Warszawie i we Wroc³awiu, w instytucjach blisko zwi¹zanych
+z Polsk¹ Akademi¹ Nauk, wy¿szymi uczelniami oraz w zak³adach Elwro
+we Wroc³awiu.
+W 1948 roku w Pañstwowym Instytucie Matematycznym w Warszawie zostaje
+utworzona Grupa Aparatów Matematycznych (GAM). Pierwszymi pracownikami
+GAM byli Krystyn Bochenek, Leon ¸ukaszewicz i Romuald Marczyñski, póŸniejsi
+konstruktorzy pierwszych dzia³aj¹cych komputerów analogowych i cyfrowych.
+Pierwszy eksperymentalny komputer GAM-1 zbudowa³ Zdzis³aw Pawlak w roku
+1950. Pierwszymi praktycznymi konstrukcjami by³y maszyny analogowe: Analizator
+Równañ Algebraicznych (ARAL), budowany przez K. Bochenka, Analizator
+Równañ Ró¿niczkowych (ARR) – budowany przez L. ¸ukaszewicza i Elektroniczna
+Maszyna Automatycznie Licz¹ca (EMAL) – budowana przez R. Marczyñskiego.
+Pierwsza w 1955 roku zosta³a uruchomiona maszyna ARR. Zawiera³a oko³o
+400 lamp elektronowych i s³u¿y³a do rozwi¹zywania uk³adów równañ ró¿niczkowych.
+Parametry równañ zmienia³o siê pokrêcaj¹c ga³kami, a efekt mo¿na by³o natychmiast
+obserwowaæ na kilku ekranach.
+Prace nad pierwsz¹ maszyn¹ cyfrow¹ EMAL trwa³y w latach 1953-1955, jednak
+z powodu niewystarczaj¹cej niezawodnoœci elementów nie zosta³a ona nigdy
+w pe³ni uruchomiona. G³ówny konstruktor maszyny EMAL, R. Marczyñski, zbudowa³
+w latach 1957-1958 maszynê EMAL 2. Mia³a ona pamiêæ bêbnow¹ o pojemnoœci
+1024 s³ów rozmieszczonych na 32 œcie¿kach. Na œcie¿ce zerowej by³
+umieszczony prosty program wprowadzaj¹cy, odgrywa³a wiêc ona rolê dzisiejszej
+pamiêci ROM. Maszyna pracowa³a w arytmetyce uzupe³nienia do 2. Jej szybkoœæ
+wynosi³a œrednio 150 operacji na sekundê. O niezawodnoœci tej maszyny
+mo¿e œwiadczyæ wykonanie na niej obliczeñ, które trwa³y nieprzerwanie przez
+trzy miesi¹ce.
+W 1956 z GAM zosta³a utworzona samodzielna placówka – Zak³ad Aparatów
+Matematycznych (ZAM) PAN, a w 1962 roku ZAM zosta³ przekszta³cony w Instytut
+Maszyn Matematycznych (IMM) PAN.
+W latach 1956-1958 zespó³ kierowany przez L. ¸ukaszewicza zbudowa³
+i uruchomi³ w ZAM pierwsz¹ polsk¹ maszynê cyfrow¹ XYZ. Wyprodukowano
+równie¿ ca³¹ rodzinê maszyn ZAM. Najwiêkszym osi¹gniêciem pod wzglêdem
+technicznym i programistycznym by³a ukoñczona w 1966 roku maszyna drugiej
+generacji (w technice pó³przewodnikowej) ZAM 41, przeznaczona do przetwarzania
+danych.
+Poza placówkami PAN, projektowaniem komputerów zajmowano siê równie¿
+w Zak³adzie Konstrukcji Telekomunikacyjnych i Radiofonii Politechniki Warszawskiej
+(ZKTiR), kierowanym przez A. Kiliñskiego. Opracowano tam maszyn
+ê cyfrow¹ UMC 1, pracuj¹c¹ w arytmetyce minus dwójkowej, któr¹ opisa³
+Z. Pawlak. W 1961 roku wyprodukowano piêæ maszyn UMC 1. W tym samym roku,
+dokumentacja maszyny UMC 1 zosta³a przekazana do ZE Elwro we Wroc³awiu,
+które w latach 1962-1964 wyprodukowa³y 25 egzemplarzy tej maszyny.
+Maszyny UMC 1 by³y wyposa¿one w pamiêci bêbnowe, które stanowi³y osobny
+asortyment produkcji – wyprodukowano ich ponad 50 egzemplarzy dla zak³adów,
+instytutów uczelnianych i na eksport do Jugos³awii i na Wêgry. W 1965 roku
+uruchomiono maszynê UMC 10, która by³a tranzystorow¹ wersj¹ maszyny
+UMC 1, i w dwóch nastêpnych latach wyprodukowano jeszcze trzy egzemplarze
+tej maszyny.
+Wroc³awskie Zak³ady Elektroniczne Elwro (ZE Elwro), zosta³y utworzone dnia
+6 lutego 1959 roku. Na pocz¹tku, grupy przysz³ych konstruktorów komputerów odby³y
+sta¿ w ZAM PAN, kierowanym przez L. ¸ukaszewicza, i w IBJ PAN, gdzie
+szkolenia prowadzi³ R. Marczyñski. Powsta³o Biuro Konstrukcyjne, którym pocz¹tkowo
+kierowa³ Jerzy Bromirski. Zbudowano kolejno Odrê 1001 (w roku 1960)
+i Odrê 1002 (w roku 1961), które ze wzglêdu na du¿¹ zawodnoœæ nie by³y produkowane
+seryjnie.
+W latach 1962-1964 wyprodukowano w ZE Elwro 25 egzemplarzy lampowej
+maszyny UMC 1, zaprojektowanej w ZKTiR Politechniki Warszawskiej (tym przedsi
+êwziêciem kierowa³ E. Bilski). Monta¿ tych maszyn odbywa³ siê ju¿ na wydziale
+produkcyjnym, a nie w warunkach laboratoryjnych.
+W nastêpnych latach produkowano komputery drugiej generacji, na tranzystorach.
+W latach 1963-1966 wyprodukowano 42 egzemplarze maszyny Odra 1003.
+W latach 1966-1967 roku produkowano maszynê Odra 1013, która oprócz pamiêci
+bêbnowej mia³a równie¿ pamiêæ ferrytow¹ o pojemnoœci 256 s³ów, dziêki czemu ta
+maszyna by³a dwa razy szybsza ni¿ jej poprzedniczka. Wyprodukowano 84 takie
+maszyny, z których 53 egzemplarze wyeksportowano.
+W 1967 roku opracowano i wdro¿ono do produkcji maszynê Odra 1204. Na pocz¹tku
+1967, na podstawie zawartego porozumienia, firma ICT (póŸniejsza ICL)
+przekaza³a ZE Elwro pe³n¹ dokumentacjê logiczn¹ maszyny ICL 1904 oraz taœmy
+z pe³nym oprogramowaniem podstawowym i u¿ytkowym. Rozpoczê³a siê produkcja
+maszyn z serii 13xx, które by³y wyposa¿one w bardzo bogate oprogramowanie
+i ró¿norodne urz¹dzenia zewnêtrzne. Po tranzystorowej maszynie Odra 1304, rozpocz
+êto produkcjê znacznie wydajniejszych maszyn Odra 1305 i Odra 1325, maszyn
+trzeciej generacji na uk³adach scalonych. Model maszyny Odra 1305 zosta³ utworzony
+w IMM PAN w Warszawie we wspó³pracy z ZE Elwro.
+Na pocz¹tku 1968 roku pañstwa wchodz¹ce w sk³ad RWPG rozpoczê³y wspó³prac
+ê nad systemem komputerów Jednolitego Systemu RIAD, wzorowanym na systemie
+IBM 360. ZE Elwro mia³y produkowaæ maszynê R30, ostatecznie zaprojektowano
+i produkowano maszynê R32, znacznie nowoczeœniejsz¹ i o wy¿szych parametrach ni¿
+R30. Wyprodukowano ponad 150 maszyn tego typu. Zapocz¹tkowa³o to nowy okres
+w historii zak³adów Elwro, który zakoñczy³ siê... ca³kowitym zaprzestaniem produkcji
+komputerów w Polsce.
