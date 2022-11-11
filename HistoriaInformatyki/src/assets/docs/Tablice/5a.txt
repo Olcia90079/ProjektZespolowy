@@ -1,56 +1,56 @@
-5a. Pocz¹tki komunikacji przewodowej
+5a. PoczÄ…tki komunikacji przewodowej
 
 
-Za pocz¹tki komunikacji elektronicznej uwa¿a siê wynalezienie elektromagnesu
-i przekaŸnika elektrycznego. Brytyjczyk William Sturgeon (1783-1850) zademonstrowa³
-w 1825 roku si³ê elektromagnesu, podnosz¹c za jego pomoc¹
-znacznie wiêkszy ciê¿ar, a w 1830 roku Joseph Henry potwierdzi³ znaczenie tego
-odkrycia dla komunikacji na odleg³oœæ, tworz¹c przekaŸnik elektryczny – wys³a³
-on na odleg³oœæ ponad jednej mili sygna³ elektryczny, który uaktywni³ elektromagnes,
-a ten z kolei spowodowa³ uderzenie w dzwonek. Tak narodzi³ siê telegraf
-(gr. pisaæ na odleg³oœæ), pierwsze w pe³ni elektroniczne medium do komunikacji
-na odleg³oœæ, w którym dane s¹ przesy³ane za pomoc¹ przerywanych impulsów
-elektrycznych. Pierwsze komercyjne systemy telegraficzne zosta³y opracowane
-w 1837 roku, niezale¿nie w Anglii i w USA. W Anglii zrobili to znany fizyk Charles
-Wheatstone (1802-1875) i wynalazca William F. Cooke (1806-1879), a w USA –
-wynalazca i artysta Samuel Finley Breese Morse (1791-1872). W telegrafie Anglików
-u¿yto piêciu przewodów do wybierania odpowiednich liter, podczas gdy
-Morse pos³u¿y³ siê tylko jednym przewodem do przesy³ania „kropek” i „kresek”,
-za pomoc¹ których by³y kodowane litery i cyfry zgodnie z kodem Morse’a.
-W praktyce przyj¹³ siê ten drugi system, jako prostszy w budowie, ³atwiejszy
-w u¿yciu i bardziej niezawodny. Praktyczna demonstracja udoskonalonego telegrafu
-Morse’a na znaczn¹ odleg³oœæ odby³a siê 24 maja 1844 roku. Lini¹ telegraficzn¹,
-zbudowan¹ za pieni¹dze Kongresu miêdzy odleg³ymi o 60 km Baltimore
-i Washingtonem, przes³ano wiadomoœæ What hath God wrought? (... co Bóg uczyni³
-– Biblia, Ksiêga Liczb, Rozdzia³ XXIII, 23). W zale¿noœci od wersji, przesy³ane
-wiadomoœci by³y odbierane przez operatorów telegrafu na taœmie papierowej
-lub za pomoc¹ s³uchu.
-Pierwszymi wiêkszymi komercyjnymi odbiorcami systemów telegraficznych
-by³y linie kolejowe (przesy³ano m.in. informacje o ruchu poci¹gów). Wheatstone
-i Cook za³o¿yli Electric Telegraph Company i w 1850 roku w Anglii by³o ju¿ ponad
-6 000 km linii telegraficznych. Ze wzglêdu na obszar, ten interes by³ jeszcze
-wiêkszy w USA – w 1854 roku by³o tam ponad 25 000 km linii telegraficznych (ponad
-70% sieci œwiatowej). W 1861 roku firma Western Union po³o¿y³a transkontynentaln¹
-liniê telegraficzn¹ do Kalifornii miêdzy oboma wybrze¿ami USA, bieg³a
-ona g³ównie wzd³u¿ linii kolejowych. Wynalazek telegrafu zbieg³ siê w czasie
-z ekspansj¹ na Zachód – œwiat biznesu ze Wschodniego Wybrze¿a USA par³
-na Zachód. By³ to historyczny zbieg okolicznoœci – w³aœciwa rzecz pojawi³a siê we
-w³aœciwym czasie. W komunikacji kolejowej telegraf by³ stosowany jeszcze w latach
+Za poczÄ…tki komunikacji elektronicznej uwaÅ¼a siÄ™ wynalezienie elektromagnesu
+i przekaÅºnika elektrycznego. Brytyjczyk William Sturgeon (1783-1850) zademonstrowaÅ‚
+w 1825 roku siÅ‚Ä™ elektromagnesu, podnoszÄ…c za jego pomocÄ…
+znacznie wiÄ™kszy ciÄ™Å¼ar, a w 1830 roku Joseph Henry potwierdziÅ‚ znaczenie tego
+odkrycia dla komunikacji na odlegÅ‚oÅ›Ä‡, tworzÄ…c przekaÅºnik elektryczny â€“ wysÅ‚aÅ‚
+on na odlegÅ‚oÅ›Ä‡ ponad jednej mili sygnaÅ‚ elektryczny, ktÃ³ry uaktywniÅ‚ elektromagnes,
+a ten z kolei spowodowaÅ‚ uderzenie w dzwonek. Tak narodziÅ‚ siÄ™ telegraf
+(gr. pisaÄ‡ na odlegÅ‚oÅ›Ä‡), pierwsze w peÅ‚ni elektroniczne medium do komunikacji
+na odlegÅ‚oÅ›Ä‡, w ktÃ³rym dane sÄ… przesyÅ‚ane za pomocÄ… przerywanych impulsÃ³w
+elektrycznych. Pierwsze komercyjne systemy telegraficzne zostaÅ‚y opracowane
+w 1837 roku, niezaleÅ¼nie w Anglii i w USA. W Anglii zrobili to znany fizyk Charles
+Wheatstone (1802-1875) i wynalazca William F. Cooke (1806-1879), a w USA â€“
+wynalazca i artysta Samuel Finley Breese Morse (1791-1872). W telegrafie AnglikÃ³w
+uÅ¼yto piÄ™ciu przewodÃ³w do wybierania odpowiednich liter, podczas gdy
+Morse posÅ‚uÅ¼yÅ‚ siÄ™ tylko jednym przewodem do przesyÅ‚ania â€kropekâ€ i â€kresekâ€,
+za pomocÄ… ktÃ³rych byÅ‚y kodowane litery i cyfry zgodnie z kodem Morseâ€™a.
+W praktyce przyjÄ…Å‚ siÄ™ ten drugi system, jako prostszy w budowie, Å‚atwiejszy
+w uÅ¼yciu i bardziej niezawodny. Praktyczna demonstracja udoskonalonego telegrafu
+Morseâ€™a na znacznÄ… odlegÅ‚oÅ›Ä‡ odbyÅ‚a siÄ™ 24 maja 1844 roku. LiniÄ… telegraficznÄ…,
+zbudowanÄ… za pieniÄ…dze Kongresu miÄ™dzy odlegÅ‚ymi o 60 km Baltimore
+i Washingtonem, przesÅ‚ano wiadomoÅ›Ä‡ What hath God wrought? (... co BÃ³g uczyniÅ‚
+â€“ Biblia, KsiÄ™ga Liczb, RozdziaÅ‚ XXIII, 23). W zaleÅ¼noÅ›ci od wersji, przesyÅ‚ane
+wiadomoÅ›ci byÅ‚y odbierane przez operatorÃ³w telegrafu na taÅ›mie papierowej
+lub za pomocÄ… sÅ‚uchu.
+Pierwszymi wiÄ™kszymi komercyjnymi odbiorcami systemÃ³w telegraficznych
+byÅ‚y linie kolejowe (przesyÅ‚ano m.in. informacje o ruchu pociÄ…gÃ³w). Wheatstone
+i Cook zaÅ‚oÅ¼yli Electric Telegraph Company i w 1850 roku w Anglii byÅ‚o juÅ¼ ponad
+6 000 km linii telegraficznych. Ze wzglÄ™du na obszar, ten interes byÅ‚ jeszcze
+wiÄ™kszy w USA â€“ w 1854 roku byÅ‚o tam ponad 25 000 km linii telegraficznych (ponad
+70% sieci Å›wiatowej). W 1861 roku firma Western Union poÅ‚oÅ¼yÅ‚a transkontynentalnÄ…
+liniÄ™ telegraficznÄ… do Kalifornii miÄ™dzy oboma wybrzeÅ¼ami USA, biegÅ‚a
+ona gÅ‚Ã³wnie wzdÅ‚uÅ¼ linii kolejowych. Wynalazek telegrafu zbiegÅ‚ siÄ™ w czasie
+z ekspansjÄ… na ZachÃ³d â€“ Å›wiat biznesu ze Wschodniego WybrzeÅ¼a USA parÅ‚
+na ZachÃ³d. ByÅ‚ to historyczny zbieg okolicznoÅ›ci â€“ wÅ‚aÅ›ciwa rzecz pojawiÅ‚a siÄ™ we
+wÅ‚aÅ›ciwym czasie. W komunikacji kolejowej telegraf byÅ‚ stosowany jeszcze w latach
 60. XX wieku.
-Pierwszy podmorski kabel pod kana³em La Manche po³o¿ono w 1852 roku,
-a pod Oceanem Atlantyckim – w 1858 roku, ale dopiero w 1866 roku zaczêto oferowaæ
+Pierwszy podmorski kabel pod kanaÅ‚em La Manche poÅ‚oÅ¼ono w 1852 roku,
+a pod Oceanem Atlantyckim â€“ w 1858 roku, ale dopiero w 1866 roku zaczÄ™to oferowaÄ‡
 regularny serwis telegraficzny przez Atlantyk.
-Pocztowe us³ugi telegraficzne oferowano ju¿ w 1881 roku (Postal Telegraph
+Pocztowe usÅ‚ugi telegraficzne oferowano juÅ¼ w 1881 roku (Postal Telegraph
 System).
-Alexander Graham Bell (1847-1922) amerykañski wynalazca i fizyk szkockiego
-pochodzenia, w 1876 opatentowa³ wynalazek elektrycznego telefonu, który nazwa³
-„udoskonaleniem telegrafu”, gdy¿ chcia³ usprawniæ telegraf tak, aby by³o mo¿liwe
-przesy³anie jedn¹ lini¹ telegraficzn¹ wielu wiadomoœci w tej samej chwili. Interesuj¹c
-siê muzyk¹, d¹¿y³ równie¿ do przesy³ania dŸwiêków i g³osu – tak zrodzi³ siê pomys³
-telegrafu harmonicznego. Bell wynalaz³ równie¿ fotofon (1880), instrument s³u-
-¿¹cy do przesy³ania dŸwiêku za pomoc¹ promieni œwietlnych, który mo¿na uznaæ
-za pierwszy telefon bezprzewodowy. Przez wiele lat ten ostatni wynalazek nie by³
-doceniony, a faktycznie mo¿e byæ uznany za prekursora lasera i œwiat³owodu.
-W 1877 A. G. Bell za³o¿y³ firmê Bell Telephone Company, kupion¹ w 1900 roku
-przez American Telephone and Telegraph Company (AT&T), która z latami wyros³a
-na najpotê¿niejsz¹ firmê telekomunikacyjn¹ w USA.
+Alexander Graham Bell (1847-1922) amerykaÅ„ski wynalazca i fizyk szkockiego
+pochodzenia, w 1876 opatentowaÅ‚ wynalazek elektrycznego telefonu, ktÃ³ry nazwaÅ‚
+â€udoskonaleniem telegrafuâ€, gdyÅ¼ chciaÅ‚ usprawniÄ‡ telegraf tak, aby byÅ‚o moÅ¼liwe
+przesyÅ‚anie jednÄ… liniÄ… telegraficznÄ… wielu wiadomoÅ›ci w tej samej chwili. InteresujÄ…c
+siÄ™ muzykÄ…, dÄ…Å¼yÅ‚ rÃ³wnieÅ¼ do przesyÅ‚ania dÅºwiÄ™kÃ³w i gÅ‚osu â€“ tak zrodziÅ‚ siÄ™ pomysÅ‚
+telegrafu harmonicznego. Bell wynalazÅ‚ rÃ³wnieÅ¼ fotofon (1880), instrument sÅ‚u-
+Å¼Ä…cy do przesyÅ‚ania dÅºwiÄ™ku za pomocÄ… promieni Å›wietlnych, ktÃ³ry moÅ¼na uznaÄ‡
+za pierwszy telefon bezprzewodowy. Przez wiele lat ten ostatni wynalazek nie byÅ‚
+doceniony, a faktycznie moÅ¼e byÄ‡ uznany za prekursora lasera i Å›wiatÅ‚owodu.
+W 1877 A. G. Bell zaÅ‚oÅ¼yÅ‚ firmÄ™ Bell Telephone Company, kupionÄ… w 1900 roku
+przez American Telephone and Telegraph Company (AT&T), ktÃ³ra z latami wyrosÅ‚a
+na najpotÄ™Å¼niejszÄ… firmÄ™ telekomunikacyjnÄ… w USA.

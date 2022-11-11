@@ -1,68 +1,68 @@
 6a. Logika matematyczna i komputery
 
 
-George Boole (1815-1864) doprowadzi³ do koñca to, co próbowa³ wynaleŸæ
-G. W. Leibniz – rachunek logiczny, zwany od jego nazwiska algebr¹ Boole’a, która
-umo¿liwia zapisywanie rozumowania logicznego w postaci rachunku algebraicznego,
-czyli rachunku na symbolach, które reprezentuj¹ zdania i formu³y logiczne.
-Algebra Boole’a ma obecnie szerokie zastosowania w informatyce, np. przy projektowaniu
-komputerów (uk³adów logicznych) i sieci telekomunikacyjnych oraz
-w wyszukiwaniu informacji. Rachunek logiczny rozwija³ tak¿e Augustus de Morgan,
-który sformalizowa³ operacje logiczne znane obecnie jako transformacje de
-Morgana. Minê³o oko³o 80 lat, a¿ ten formalizm Boole’a i de Morgana zosta³ zauwa
-¿ony i sta³ siê podstaw¹ dalszych badañ.
-Prze³omowe znaczenie dla rozwoju komputerów i budowy sieci telegraficzno-telefonicznych
-mia³y prace Claude Elwood Shannona (1916-2001). Po³o¿y³ on podstawy
-teoretyczne pod praktyczny rozwój dwóch dziedzin techniki, bêd¹cych motorem
-rozwoju technologicznego i spo³ecznego w XX wieku: konstrukcji komputerów cyfrowych
-i teorii komunikacji. Jego osi¹gniêcia zwiastowa³y póŸniejsze zbli¿enie siê
-obu tych dziedzin w postaci komunikacji cyfrowej. Po zakoñczeniu studiów w 1936
-roku rozpocz¹³ pracê jako asystent w Massachusetts Institute of Technology, gdzie
-m.in. uczestniczy³ przy pracy analizatora ró¿niczkowego (ang. Differential Analyzer),
-zbudowanego w 1930 roku przez Vannevara Busha. Maszyna ta by³a wtedy szczytowym
-osi¹gniêciem wŸród komputerów analogowych – chocia¿ poruszana motorem
-elektrycznym, podstawowe operacje by³y w niej wykonywane mechanicznie, sterowana
-zaŸ by³a uk³adem ponad stu przekaŸników. Shannon zainteresowa³ siê teori¹
-i projektowaniem takich uk³adów i powi¹za³ je z algebr¹ Boole’a. W pracy A Symbolic
+George Boole (1815-1864) doprowadziÅ‚ do koÅ„ca to, co prÃ³bowaÅ‚ wynaleÅºÄ‡
+G. W. Leibniz â€“ rachunek logiczny, zwany od jego nazwiska algebrÄ… Booleâ€™a, ktÃ³ra
+umoÅ¼liwia zapisywanie rozumowania logicznego w postaci rachunku algebraicznego,
+czyli rachunku na symbolach, ktÃ³re reprezentujÄ… zdania i formuÅ‚y logiczne.
+Algebra Booleâ€™a ma obecnie szerokie zastosowania w informatyce, np. przy projektowaniu
+komputerÃ³w (ukÅ‚adÃ³w logicznych) i sieci telekomunikacyjnych oraz
+w wyszukiwaniu informacji. Rachunek logiczny rozwijaÅ‚ takÅ¼e Augustus de Morgan,
+ktÃ³ry sformalizowaÅ‚ operacje logiczne znane obecnie jako transformacje de
+Morgana. MinÄ™Å‚o okoÅ‚o 80 lat, aÅ¼ ten formalizm Booleâ€™a i de Morgana zostaÅ‚ zauwa
+Å¼ony i staÅ‚ siÄ™ podstawÄ… dalszych badaÅ„.
+PrzeÅ‚omowe znaczenie dla rozwoju komputerÃ³w i budowy sieci telegraficzno-telefonicznych
+miaÅ‚y prace Claude Elwood Shannona (1916-2001). PoÅ‚oÅ¼yÅ‚ on podstawy
+teoretyczne pod praktyczny rozwÃ³j dwÃ³ch dziedzin techniki, bÄ™dÄ…cych motorem
+rozwoju technologicznego i spoÅ‚ecznego w XX wieku: konstrukcji komputerÃ³w cyfrowych
+i teorii komunikacji. Jego osiÄ…gniÄ™cia zwiastowaÅ‚y pÃ³Åºniejsze zbliÅ¼enie siÄ™
+obu tych dziedzin w postaci komunikacji cyfrowej. Po zakoÅ„czeniu studiÃ³w w 1936
+roku rozpoczÄ…Å‚ pracÄ™ jako asystent w Massachusetts Institute of Technology, gdzie
+m.in. uczestniczyÅ‚ przy pracy analizatora rÃ³Å¼niczkowego (ang. Differential Analyzer),
+zbudowanego w 1930 roku przez Vannevara Busha. Maszyna ta byÅ‚a wtedy szczytowym
+osiÄ…gniÄ™ciem wÅ›rÃ³d komputerÃ³w analogowych â€“ chociaÅ¼ poruszana motorem
+elektrycznym, podstawowe operacje byÅ‚y w niej wykonywane mechanicznie, sterowana
+zaÅ› byÅ‚a ukÅ‚adem ponad stu przekaÅºnikÃ³w. Shannon zainteresowaÅ‚ siÄ™ teoriÄ…
+i projektowaniem takich ukÅ‚adÃ³w i powiÄ…zaÅ‚ je z algebrÄ… Booleâ€™a. W pracy A Symbolic
 Analysis of Relay and Switching Circuits (1938), opartej na jego pracy magisterskiej,
-uznawanej powszechnie za najwybitniejsz¹ pracê magistersk¹ XX wieku,
-wykaza³, ¿e algebra Boole’a mo¿e byæ zastosowana w analizie i syntezie uk³adów
-prze³¹czaj¹cych i binarnych. Wskaza³ na analogiê miêdzy budow¹ obwodów prze-
-³¹czaj¹cych i algebr¹ Boole’a – prze³¹cznik w stanie ON lub OFF odpowiada stanowi
-(zmiennej o wartoœci) YES lub NO – co umo¿liwia realizacjê funkcji logicznej
-za pomoc¹ sieci prze³¹czników i przekaŸników. Dziêki temu algebra
-Boole’a i arytmetyka binarna mog¹ byæ wykorzystane do upraszczania uk³adów
-przekaŸnikowych w centralach telefonicznych, a z drugiej zaŸ strony uk³ady przekaŸników
-i prze³¹czników mog¹ byæ zastosowane do rozwi¹zywania problemów
-algebry Boole’a i arytmetyki binarnej. W tamtych czasach oznacza³o to przeskok
-z komputerów analogowych do komputerów cyfrowych i spotka³o siê z natychmiastowym
-zainteresowaniem przemys³u telefonicznego.
-Claude E. Shannon jest uznawany równie¿ za ojca wspó³czesnej teorii informacji.
-Przed nim wiadomoœæ by³a uto¿samiana z fal¹, która s³u¿y³a do jej przes³ania
-liniami, na ogó³ innymi dla wiadomoŸci telegraficznych, a innymi dla wiadomoŸci
-g³osowych. Shannon zaŸ przyj¹³, ¿e ka¿da wiadomoŸæ jest ci¹giem cyfr binarnych –
-bitów, jak nazwa³ cyfrê binarn¹ po raz pierwszy – oddzieli³ w ten sposób wiadomoŸæ
-od medium, którym jest ona przekazywana. Znaczenie semantyczne informacji nie
-odgrywa ¿adnej roli w jego teorii. Ponadto, proces komunikacji z natury ma zasadniczo
+uznawanej powszechnie za najwybitniejszÄ… pracÄ™ magisterskÄ… XX wieku,
+wykazaÅ‚, Å¼e algebra Booleâ€™a moÅ¼e byÄ‡ zastosowana w analizie i syntezie ukÅ‚adÃ³w
+przeÅ‚Ä…czajÄ…cych i binarnych. WskazaÅ‚ na analogiÄ™ miÄ™dzy budowÄ… obwodÃ³w prze-
+Å‚Ä…czajÄ…cych i algebrÄ… Booleâ€™a â€“ przeÅ‚Ä…cznik w stanie ON lub OFF odpowiada stanowi
+(zmiennej o wartoÅ›ci) YES lub NO â€“ co umoÅ¼liwia realizacjÄ™ funkcji logicznej
+za pomocÄ… sieci przeÅ‚Ä…cznikÃ³w i przekaÅºnikÃ³w. DziÄ™ki temu algebra
+Booleâ€™a i arytmetyka binarna mogÄ… byÄ‡ wykorzystane do upraszczania ukÅ‚adÃ³w
+przekaÅºnikowych w centralach telefonicznych, a z drugiej zaÅ› strony ukÅ‚ady przekaÅºnikÃ³w
+i przeÅ‚Ä…cznikÃ³w mogÄ… byÄ‡ zastosowane do rozwiÄ…zywania problemÃ³w
+algebry Booleâ€™a i arytmetyki binarnej. W tamtych czasach oznaczaÅ‚o to przeskok
+z komputerÃ³w analogowych do komputerÃ³w cyfrowych i spotkaÅ‚o siÄ™ z natychmiastowym
+zainteresowaniem przemysÅ‚u telefonicznego.
+Claude E. Shannon jest uznawany rÃ³wnieÅ¼ za ojca wspÃ³Å‚czesnej teorii informacji.
+Przed nim wiadomoÅ›Ä‡ byÅ‚a utoÅ¼samiana z falÄ…, ktÃ³ra sÅ‚uÅ¼yÅ‚a do jej przesÅ‚ania
+liniami, na ogÃ³Å‚ innymi dla wiadomoÅ›ci telegraficznych, a innymi dla wiadomoÅ›ci
+gÅ‚osowych. Shannon zaÅ› przyjÄ…Å‚, Å¼e kaÅ¼da wiadomoÅ›Ä‡ jest ciÄ…giem cyfr binarnych â€“
+bitÃ³w, jak nazwaÅ‚ cyfrÄ™ binarnÄ… po raz pierwszy â€“ oddzieliÅ‚ w ten sposÃ³b wiadomoÅ›Ä‡
+od medium, ktÃ³rym jest ona przekazywana. Znaczenie semantyczne informacji nie
+odgrywa Å¼adnej roli w jego teorii. Ponadto, proces komunikacji z natury ma zasadniczo
 charakter stochastyczny. W swej pracy A Mathematical Theory of Communication
-(opublikowanej po raz pierwszy w 1948 roku), od której bierze pocz¹tek teoria
-informacji, przyj¹³ fundamentalne za³o¿enie, ¿e Ÿród³o informacji (np. Ÿród³o
-s³ów z³o¿onych z pojedynczych symboli) dzia³a jako Ÿród³o stacjonarnych procesów
-stochastycznych. Na tym za³o¿eniu opar³ definicjê miary iloŸci informacji, metodê
-pomiaru efektywnoŸci kana³u komunikacyjnego oraz analizê b³êdów wystêpuj¹cych
-w przesy³anych wiadomoŸciach. Wprowadzi³ do teorii informacji pojêcie entropii
-jako miary niepewnoŸci, zawartej w przesy³anej wiadomoŸci.
-Shannon interesowa³ siê równie¿ sztuczn¹ inteligencj¹. Jest autorem jednego
-z pierwszych programów do gry w szachy (z 1950 roku), wykorzystanego w komputerze
-MANIAC w 1956 roku, skonstruowa³ elektroniczn¹ mysz szukaj¹c¹ wyjŸcia z labiryntu
-i uproŸci³ uniwersaln¹ maszynê Turinga. Wniós³ równie¿ wk³ad do kryptografii.
-By³ wielokrotnie nagradzany najwy¿szymi honorami akademickimi i przemys³owymi.
-Po ukazaniu siê pracy Shannona w 1938 roku wzros³o zainteresowanie zbudowaniem
-elektronicznej maszyny logicznej. Faktycznie ka¿dy póŸniejszy komputer
-cyfrowy by³ realizacj¹ algebry Boole’a. W rzeczywistoŸci jednak zaprzestano
-rozwijania specjalnych maszyn logicznych, a skupiono uwagê na komputerach
-ogólnego przeznaczenia, które dziêki m.in. specjalnym jêzykom programowania
-okaza³y siê wystarczaj¹co mocne, by rozwi¹zywaæ problemy pochodz¹ce z logiki.
-Jednym z takich jêzyków jest Occam, tak nazwany dla uhonorowania Williama
-of Ockham (1285-1349), który 500 lat wczeŸniej odkry³ transformacje znane
+(opublikowanej po raz pierwszy w 1948 roku), od ktÃ³rej bierze poczÄ…tek teoria
+informacji, przyjÄ…Å‚ fundamentalne zaÅ‚oÅ¼enie, Å¼e ÅºrÃ³dÅ‚o informacji (np. ÅºrÃ³dÅ‚o
+sÅ‚Ã³w zÅ‚oÅ¼onych z pojedynczych symboli) dziaÅ‚a jako ÅºrÃ³dÅ‚o stacjonarnych procesÃ³w
+stochastycznych. Na tym zaÅ‚oÅ¼eniu oparÅ‚ definicjÄ™ miary iloÅ›ci informacji, metodÄ™
+pomiaru efektywnoÅ›ci kanaÅ‚u komunikacyjnego oraz analizÄ™ bÅ‚Ä™dÃ³w wystÄ™pujÄ…cych
+w przesyÅ‚anych wiadomoÅ›ciach. WprowadziÅ‚ do teorii informacji pojÄ™cie entropii
+jako miary niepewnoÅ›ci, zawartej w przesyÅ‚anej wiadomoÅ›ci.
+Shannon interesowaÅ‚ siÄ™ rÃ³wnieÅ¼ sztucznÄ… inteligencjÄ…. Jest autorem jednego
+z pierwszych programÃ³w do gry w szachy (z 1950 roku), wykorzystanego w komputerze
+MANIAC w 1956 roku, skonstruowaÅ‚ elektronicznÄ… mysz szukajÄ…cÄ… wyjÅ›cia z labiryntu
+i uproÅ›ciÅ‚ uniwersalnÄ… maszynÄ™ Turinga. WniÃ³sÅ‚ rÃ³wnieÅ¼ wkÅ‚ad do kryptografii.
+ByÅ‚ wielokrotnie nagradzany najwyÅ¼szymi honorami akademickimi i przemysÅ‚owymi.
+Po ukazaniu siÄ™ pracy Shannona w 1938 roku wzrosÅ‚o zainteresowanie zbudowaniem
+elektronicznej maszyny logicznej. Faktycznie kaÅ¼dy pÃ³Åºniejszy komputer
+cyfrowy byÅ‚ realizacjÄ… algebry Booleâ€™a. W rzeczywistoÅ›ci jednak zaprzestano
+rozwijania specjalnych maszyn logicznych, a skupiono uwagÄ™ na komputerach
+ogÃ³lnego przeznaczenia, ktÃ³re dziÄ™ki m.in. specjalnym jÄ™zykom programowania
+okazaÅ‚y siÄ™ wystarczajÄ…co mocne, by rozwiÄ…zywaÄ‡ problemy pochodzÄ…ce z logiki.
+Jednym z takich jÄ™zykÃ³w jest Occam, tak nazwany dla uhonorowania Williama
+of Ockham (1285-1349), ktÃ³ry 500 lat wczeÅ›niej odkryÅ‚ transformacje znane
 obecnie jako transformacje de Morgana.

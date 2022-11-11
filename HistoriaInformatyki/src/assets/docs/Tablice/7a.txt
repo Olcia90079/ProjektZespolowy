@@ -1,62 +1,61 @@
-7a. Pocz¹tki przetwarzania danych i noœniki danych
+7a. PoczÄ…tki przetwarzania danych i noÅ›niki danych
 
 
-J.-M. Jacquard na prze³omie XVIII i XIX wieku udoskonali³ kartê perforowan¹
-(dziurkowan¹), s³u¿¹c¹ do sterowania automatycznymi maszynami do przetwarzania
-danych, reprezentowanych na karcie za pomoc¹ otworów (dziurek) lub
-ich braku. Po zapisaniu (zakodowaniu) na kartach deseni materia³ów i po³¹czeniu
-ich w pêtlê s³u¿y³y do automatycznego sterowania krosnami, tkaj¹cymi powtarzaj¹cy
-siê motyw. W podobny sposób karty mog¹ s³u¿yæ do sterowania maszynami
-graj¹cymi – takie automaty muzyczne mo¿na jeszcze spotkaæ na ulicach
+J.-M. Jacquard na przeÅ‚omie XVIII i XIX wieku udoskonaliÅ‚ kartÄ™ perforowanÄ…
+(dziurkowanÄ…), sÅ‚uÅ¼Ä…cÄ… do sterowania automatycznymi maszynami do przetwarzania
+danych, reprezentowanych na karcie za pomocÄ… otworÃ³w (dziurek) lub
+ich braku. Po zapisaniu (zakodowaniu) na kartach deseni materiaÅ‚Ã³w i poÅ‚Ä…czeniu
+ich w pÄ™tlÄ™ sÅ‚uÅ¼yÅ‚y do automatycznego sterowania krosnami, tkajÄ…cymi powtarzajÄ…cy
+siÄ™ motyw. W podobny sposÃ³b karty mogÄ… sÅ‚uÅ¼yÄ‡ do sterowania maszynami
+grajÄ…cymi â€“ takie automaty muzyczne moÅ¼na jeszcze spotkaÄ‡ na ulicach
 wielu miast Europy. Ch. Babbage w projekcie swojej maszyny analitycznej z 1834
-roku przewidzia³ pierwsze informatyczne u¿ycie kart perforowanych, na których
-mia³y byæ zapisane polecenia dla tej maszyny, czyli dzisiejszy program. Pod
-koniec XIX wieku Herman Hollerith rozwin¹³ rzeczywiœcie praktyczne wykorzystanie
-kart perforowanych do zapisywania danych, pochodz¹cych ze spisu powszechnego
-i automatycznego ich przetwarzania za pomoc¹ maszyn tabulacyjnych.
-W jego przypadku, pomys³ kodowania danych za pomoc¹ dziurek na karcie,
-na pocz¹tku okr¹g³ych, wzi¹³ siê z obserwacji konduktora kasuj¹cego bilety. Hollerith
-wynalaz³ urz¹dzenie (pantograf) do dziurkowania kart zawieraj¹ce klawiaturê i 
-urz¹dzenia do kolekcjonowania wybranych danych, zapisanych na kartach.
-Pod koniec lat 20. XX wieku, utrwali³ siê standard karty perforowanej, zaproponowany
-przez IBM. Wprowadzono prostok¹tne dziurki, które umo¿liwi³y umieszczenie
+roku przewidziaÅ‚ pierwsze informatyczne uÅ¼ycie kart perforowanych, na ktÃ³rych
+miaÅ‚y byÄ‡ zapisane polecenia dla tej maszyny, czyli dzisiejszy program. Pod
+koniec XIX wieku Herman Hollerith rozwinÄ…Å‚ rzeczywiÅ›cie praktyczne wykorzystanie
+kart perforowanych do zapisywania danych, pochodzÄ…cych ze spisu powszechnego
+i automatycznego ich przetwarzania za pomocÄ… maszyn tabulacyjnych.
+W jego przypadku, pomysÅ‚ kodowania danych za pomocÄ… dziurek na karcie,
+na poczÄ…tku okrÄ…gÅ‚ych, wziÄ…Å‚ siÄ™ z obserwacji konduktora kasujÄ…cego bilety. Hollerith
+wynalazÅ‚ urzÄ…dzenie (pantograf) do dziurkowania kart zawierajÄ…ce klawiaturÄ™ i urzÄ…dzenia do kolekcjonowania wybranych danych, zapisanych na kartach.
+Pod koniec lat 20. XX wieku, utrwaliÅ‚ siÄ™ standard karty perforowanej, zaproponowany
+przez IBM. Wprowadzono prostokÄ…tne dziurki, ktÃ³re umoÅ¼liwiÅ‚y umieszczenie
 na karcie danych w 80 kolumnach i 12 wierszach.
-Osobn¹ nieco krótsz¹ historiê ma taœma papierowa jako noœnik danych i informacji.
-W telegrafie Morse’a nadchodz¹ce wiadomoœci by³y zapisywane na poruszanej
-mechanizmem zegarowym taœmie papierowej za pomoc¹ sterowanego elektromechanicznie
-o³ówka, który pozostawia³ na papierze krótsze lub d³u¿sze kreski,
-odpowiadaj¹ce kropkom i kreskom w kodzie Morse’a. W 1857 roku, Ch. Wheatstone
-wprowadzi³ stosowanie w telegrafie dwukana³owej taœmy perforowanej do zapisywania
-w kodzie Morse’a wysy³anych wiadomoœci – jeden kana³ by³ przeznaczony
-na kropki, a drugi na kreski – w ten sposób wiadomoœci mog³y byæ przygotowywane
-przed wys³aniem. Pod koniec XIX wieku intensywnie rozwijano pomys³ telegrafu
-drukuj¹cego, w którym przesy³ane wiadomoœci mia³y byæ drukowane w czytelnej
-postaci tekstowej. Znaki (litery, cyfry i inne) zosta³y umieszczone na g³owicy,
-a do sterowania jej ruchami wykorzystano piêciobitowy kod Baudota, znany jako
-International Telegraph Alphabet No. 1 (ITA1), który wprowadzi³ oko³o 1875 roku
-francuski wynalazca Jean Maurice Emile Baudot (1845-1903). Urz¹dzenia dzia³aj¹ce
-w oparciu o kod Baudota (po wielu modyfikacjach i w wielu wersjach) zaczê³y
-zastêpowaæ urz¹dzenia oparte na kodzie Morese’a i zosta³y wyparte dopiero w po-
-³owie lat 60. XX wieku przez kod ASCII. Na pocz¹tku XX wieku z powodzeniem
-rozpoczê³a siê ekspansja systemu telex, opartego na urz¹dzeniach typu teleprinter,
-w których wiadomoœci by³y nadawane za pomoc¹ klawiatury przypominaj¹cej maszyn
-ê do pisania, a odbierano je, drukuj¹c na papierze podawanym z rolki.
-Do transmisji wykorzystywano zarówno linie telegraficzne, jak i telefoniczne.
-Pod koniec XX wieku urz¹dzenia te zosta³y wyparte przez pod³¹czon¹ do komputera
-klawiaturê i ekran monitora, a wiadomoœci przyjê³y postaæ listów elektronicznych
-i faxów.
-Karty i taœmy papierowe jako noœniki danych wziê³y swój pocz¹tek w ró¿nych
-obszarach przetwarzania danych. Pocz¹tkowo by³y odczytywane mechanicznie
-(ig³y trafiaj¹ce na otwór zamyka³y obwód elektryczny), a póŸniej œwiat³o zast¹pi-
-³o ig³y. W drugiej po³owie XX wieku, przez oko³o 20 lat, karty i taœmy by³y podstawowymi
-noœnikami danych komputerowych, s³u¿¹cymi g³ównie do zapisywania
-danych i wprowadzania danych do komputerów (wyniki by³y drukowane na papierze).
-Karty w porównaniu z taœm¹ mia³y niew¹tpliwe zalety – mo¿na by³o stosowaæ
-je w ró¿nych zestawach, ³atwo wymieniaæ b³êdne karty, a ponadto w pierwszym
-wierszu u góry karty mo¿na by³o zapisaæ tekst odpowiadaj¹cy zakodowanej
-na karcie informacji. Karty i taœmy perforowane jako noœniki danych i informacji
-(np. programów) dla komputerów zosta³y wyparte dopiero w po³owie lat 70.
-XX wieku przez coraz tañsze noœniki elektroniczne, ró¿nego rodzaju dyskietki.
-Z czasem, konkurencjê dla dyskietek zaczê³y stanowiæ p³yty CD, a nastêpnie p³yty
-DVD, a na pocz¹tku XXI wieku bardzo popularnym i niezmiernie wygodnym
-noœnikiem informacji w postaci elektronicznej sta³ siê pen-drive.
+OsobnÄ… nieco krÃ³tszÄ… historiÄ™ ma taÅ›ma papierowa jako noÅ›nik danych i informacji.
+W telegrafie Morseâ€™a nadchodzÄ…ce wiadomoÅ›ci byÅ‚y zapisywane na poruszanej
+mechanizmem zegarowym taÅ›mie papierowej za pomocÄ… sterowanego elektromechanicznie
+oÅ‚Ã³wka, ktÃ³ry pozostawiaÅ‚ na papierze krÃ³tsze lub dÅ‚uÅ¼sze kreski,
+odpowiadajÄ…ce kropkom i kreskom w kodzie Morseâ€™a. W 1857 roku, Ch. Wheatstone
+wprowadziÅ‚ stosowanie w telegrafie dwukanaÅ‚owej taÅ›my perforowanej do zapisywania
+w kodzie Morseâ€™a wysyÅ‚anych wiadomoÅ›ci â€“ jeden kanaÅ‚ byÅ‚ przeznaczony
+na kropki, a drugi na kreski â€“ w ten sposÃ³b wiadomoÅ›ci mogÅ‚y byÄ‡ przygotowywane
+przed wysÅ‚aniem. Pod koniec XIX wieku intensywnie rozwijano pomysÅ‚ telegrafu
+drukujÄ…cego, w ktÃ³rym przesyÅ‚ane wiadomoÅ›ci miaÅ‚y byÄ‡ drukowane w czytelnej
+postaci tekstowej. Znaki (litery, cyfry i inne) zostaÅ‚y umieszczone na gÅ‚owicy,
+a do sterowania jej ruchami wykorzystano piÄ™ciobitowy kod Baudota, znany jako
+International Telegraph Alphabet No. 1 (ITA1), ktÃ³ry wprowadziÅ‚ okoÅ‚o 1875 roku
+francuski wynalazca Jean Maurice Emile Baudot (1845-1903). UrzÄ…dzenia dziaÅ‚ajÄ…ce
+w oparciu o kod Baudota (po wielu modyfikacjach i w wielu wersjach) zaczÄ™Å‚y
+zastÄ™powaÄ‡ urzÄ…dzenia oparte na kodzie Moreseâ€™a i zostaÅ‚y wyparte dopiero w po-
+Å‚owie lat 60. XX wieku przez kod ASCII. Na poczÄ…tku XX wieku z powodzeniem
+rozpoczÄ™Å‚a siÄ™ ekspansja systemu telex, opartego na urzÄ…dzeniach typu teleprinter,
+w ktÃ³rych wiadomoÅ›ci byÅ‚y nadawane za pomocÄ… klawiatury przypominajÄ…cej maszyn
+Ä™ do pisania, a odbierano je, drukujÄ…c na papierze podawanym z rolki.
+Do transmisji wykorzystywano zarÃ³wno linie telegraficzne, jak i telefoniczne.
+Pod koniec XX wieku urzÄ…dzenia te zostaÅ‚y wyparte przez podÅ‚Ä…czonÄ… do komputera
+klawiaturÄ™ i ekran monitora, a wiadomoÅ›ci przyjÄ™Å‚y postaÄ‡ listÃ³w elektronicznych
+i faxÃ³w.
+Karty i taÅ›my papierowe jako noÅ›niki danych wziÄ™Å‚y swÃ³j poczÄ…tek w rÃ³Å¼nych
+obszarach przetwarzania danych. PoczÄ…tkowo byÅ‚y odczytywane mechanicznie
+(igÅ‚y trafiajÄ…ce na otwÃ³r zamykaÅ‚y obwÃ³d elektryczny), a pÃ³Ãªniej Å›wiatÅ‚o zastÄ…pi-
+Å‚o igÅ‚y. W drugiej poÅ‚owie XX wieku, przez okoÅ‚o 20 lat, karty i taÅ›my byÅ‚y podstawowymi
+noÅ›nikami danych komputerowych, sÅ‚uÅ¼Ä…cymi gÅ‚Ã³wnie do zapisywania
+danych i wprowadzania danych do komputerÃ³w (wyniki byÅ‚y drukowane na papierze).
+Karty w porÃ³wnaniu z taÅ›mÄ… miaÅ‚y niewÄ…tpliwe zalety â€“ moÅ¼na byÅ‚o stosowaÄ‡
+je w rÃ³Å¼nych zestawach, Å‚atwo wymieniaÄ‡ bÅ‚Ä™dne karty, a ponadto w pierwszym
+wierszu u gÃ³ry karty moÅ¼na byÅ‚o zapisaÄ‡ tekst odpowiadajÄ…cy zakodowanej
+na karcie informacji. Karty i taÅ›my perforowane jako noÅ›niki danych i informacji
+(np. programÃ³w) dla komputerÃ³w zostaÅ‚y wyparte dopiero w poÅ‚owie lat 70.
+XX wieku przez coraz taÅ„sze noÅ›niki elektroniczne, rÃ³Å¼nego rodzaju dyskietki.
+Z czasem, konkurencjÄ™ dla dyskietek zaczÄ™Å‚y stanowiÄ‡ pÅ‚yty CD, a nastÄ™pnie pÅ‚yty
+DVD, a na poczÄ…tku XXI wieku bardzo popularnym i niezmiernie wygodnym
+noÅ›nikiem informacji w postaci elektronicznej staÅ‚ siÄ™ pen-drive.

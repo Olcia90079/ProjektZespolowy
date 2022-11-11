@@ -1,46 +1,46 @@
 1b. Znaki liczbowe, proste sposoby rachowania
 
 
-Rozwój znaków liczbowych
+RozwÃ³j znakÃ³w liczbowych
 
-Krokiem wstecz stosunku do osi¹gniêæ Babilonu by³ wynalazek cyfr greckich
+Krokiem wstecz stosunku do osiÄ…gniÄ™Ä‡ Babilonu byÅ‚ wynalazek cyfr greckich
 z okresu Homera (IX i VIII wiek p.n.e.) i cyfr rzymskich (pochodzenia etruskiego
-z V wieku p.n.e.), popularnych do dzisiaj, które s³u¿y³y g³ównie do zapisywania
-i przechowywania liczb. Przypuszcza siê, ¿e by³y one pozosta³oŸci¹
-po czasach oznaczania liczb jako naciêæ. Trudniej by³o z ich pomoc¹ wykonywaæ
-dzia³ania matematyczne, co spowodowa³o, ¿e w rachunkach pos³ugiwano siê raczej
-abakami z ¿etonami.
-Niektóre systemy oznaczania cyfr i zapisywania liczb powsta³y na bazie pisma alfabetycznego.
-Alfabet wynaleŸli Fenicjanie oko³o roku 1500 p.n.e. i uwa¿a siê, ¿e
-pochodzi od niego wiêkszoŸæ alfabetów, w tym staroarabski, syryjski, ¿ydowski
-i grecki. ¯ydzi wpadli na pomys³ oznaczenia liczb za pomoc¹ liter swojego alfabetu
-i ta notacja jest do dzisiaj stosowana przy pisaniu dat wed³ug ich kalendarza oraz
-przy numerowaniu ustêpów i wersetów Starego Testamentu oraz stronic dzie³ wydanych
-po hebrajsku. Alfabet liczbowy mieli równie¿ Grecy, a tak¿e muzu³manie, którzy
-opierali siê na modelu greckim i rzymskim. Muzu³mañski alfabet liczbowy by³
-stosowany w najnowszych czasach, równoczeŸnie z cyframi, zwanymi arabskimi.
-Nieco inny charakter ma chiñska numeracja pisana, wynaleziona przesz³o 3000 lat
-temu i stosowana do dzisiaj, równie¿ w Japonii.
+z V wieku p.n.e.), popularnych do dzisiaj, ktÃ³re sÅ‚uÅ¼yÅ‚y gÅ‚Ã³wnie do zapisywania
+i przechowywania liczb. Przypuszcza siÄ™, Å¼e byÅ‚y one pozostaÅ‚oÅ›ciÄ…
+po czasach oznaczania liczb jako naciÄ™Ä‡. Trudniej byÅ‚o z ich pomocÄ… wykonywaÄ‡
+dziaÅ‚ania matematyczne, co spowodowaÅ‚o, Å¼e w rachunkach posÅ‚ugiwano siÄ™ raczej
+abakami z Å¼etonami.
+NiektÃ³re systemy oznaczania cyfr i zapisywania liczb powstaÅ‚y na bazie pisma alfabetycznego.
+Alfabet wynaleÅ¼li Fenicjanie okoÅ‚o roku 1500 p.n.e. i uwaÅ¼a siÄ™, Å¼e
+pochodzi od niego wiÄ™kszoÅ›Ä‡ alfabetÃ³w, w tym staroarabski, syryjski, Å¼ydowski
+i grecki. Ëšydzi wpadli na pomysÅ‚ oznaczenia liczb za pomocÄ… liter swojego alfabetu
+i ta notacja jest do dzisiaj stosowana przy pisaniu dat wedÅ‚ug ich kalendarza oraz
+przy numerowaniu ustÄ™pÃ³w i wersetÃ³w Starego Testamentu oraz stronic dzieÅ‚ wydanych
+po hebrajsku. Alfabet liczbowy mieli rÃ³wnieÅ¼ Grecy, a takÅ¼e muzuÅ‚manie, ktÃ³rzy
+opierali siÄ™ na modelu greckim i rzymskim. MuzuÅ‚maÅ„ski alfabet liczbowy byÅ‚
+stosowany w najnowszych czasach, rÃ³wnoczeÅ›nie z cyframi, zwanymi arabskimi.
+Nieco inny charakter ma chiÅ„ska numeracja pisana, wynaleziona przeszÅ‚o 3000 lat
+temu i stosowana do dzisiaj, rÃ³wnieÅ¼ w Japonii.
 
 
-Pierwsze „maszyny” do liczenia
+Pierwsze â€maszynyâ€ do liczenia
 
-Ludzie od dawna w swoich zajêciach praktycznych potrzebowali rachowaæ,
-w znaczeniu odliczaæ, ró¿ne rzeczy, takie jak zdobycze i ³upy z walk czy zwierzêta,
-które hodowali i wymieniali na inne towary. Na pocz¹tku stosowano w tym celu
-palce u r¹k i ich cz³ony, a dla zwiêkszenia zakresu liczb – równie¿ palce u nóg, a tak-
-¿e inne czêŸci cia³a. Z czasem pojawi³a siê naturalna koniecznoŸæ trwa³ego zaznaczania
-liczb i wyników obliczeñ. Najstarsze znane metody polega³y na stosowaniu
-naciêæ na koŸciach, kawa³kach drewna lub wy¿³obieñ na kamieniach. Co ciekawe,
-naciêcia na drewnie dla oznaczania liczb stosowano w Europie jeszcze w XIX wieku.
-Naciêcia i wy¿³obienia w ró¿nych materia³ach nie uznaje siê jednak za pierwowzór
-znaków, które mo¿na by uznaæ za graficzne znaki cyfr.
-Popularnym sposobem zapisywania liczb i wykonywania na nich obliczeñ w wiêkszoŸci
-cywilizacji przesz³oŸci by³o pos³ugiwanie siê sznureczkami z wêze³kami. Stosowano
-je na Bliskim Wschodzie w V wieku p.n.e. i nawet nieco wczeŸniej na Dalekim
-Wschodzie, gdzie ten sposób rachowania do dzisiaj nie ca³kiem zanik³. Najdoskonalsze
-sznureczki z wêze³kami, zwane quipu, stosowano w cywilizacji Inków w pierwszej
-po³owie drugiego tysi¹clecia naszej ery. Oznaczano za ich pomoc¹ liczby przedstawiane
-na bazie systemu dziesiêtnego (ale w sposób addytywny) i u¿ywano ich g³ównie
-w administracji jako archiwa bud¿etowe. Udoskonalonym quipu, zwanym chimpu,
-pos³uguj¹ siê jeszcze dzisiaj Indianie boliwijscy i peruwiañscy.
+Ludzie od dawna w swoich zajÄ™ciach praktycznych potrzebowali rachowaÄ‡,
+w znaczeniu odliczaÄ‡, rÃ³Å¼ne rzeczy, takie jak zdobycze i Å‚upy z walk czy zwierzÄ™ta,
+ktÃ³re hodowali i wymieniali na inne towary. Na poczÄ…tku stosowano w tym celu
+palce u rÄ…k i ich czÅ‚ony, a dla zwiÄ™kszenia zakresu liczb â€“ rÃ³wnieÅ¼ palce u nÃ³g, a tak-
+Å¼e inne czÄ™Å›ci ciaÅ‚a. Z czasem pojawiÅ‚a siÄ™ naturalna koniecznoÅ›Ä‡ trwaÅ‚ego zaznaczania
+liczb i wynikÃ³w obliczeÅ„. Najstarsze znane metody polegaÅ‚y na stosowaniu
+naciÄ™Ä‡ na koÅ›ciach, kawaÅ‚kach drewna lub wyÅ¼Å‚obieÅ„ na kamieniach. Co ciekawe,
+naciÄ™cia na drewnie dla oznaczania liczb stosowano w Europie jeszcze w XIX wieku.
+NaciÄ™cia i wyÅ¼Å‚obienia w rÃ³Å¼nych materiaÅ‚ach nie uznaje siÄ™ jednak za pierwowzÃ³r
+znakÃ³w, ktÃ³re moÅ¼na by uznaÄ‡ za graficzne znaki cyfr.
+Popularnym sposobem zapisywania liczb i wykonywania na nich obliczeÅ„ w wiÄ™kszoÅ›ci
+cywilizacji przeszÅ‚oÅ›ci byÅ‚o posÅ‚ugiwanie siÄ™ sznureczkami z wÄ™zeÅ‚kami. Stosowano
+je na Bliskim Wschodzie w V wieku p.n.e. i nawet nieco wczeÅ›niej na Dalekim
+Wschodzie, gdzie ten sposÃ³b rachowania do dzisiaj nie caÅ‚kiem zanikÅ‚. Najdoskonalsze
+sznureczki z wÄ™zeÅ‚kami, zwane quipu, stosowano w cywilizacji InkÃ³w w pierwszej
+poÅ‚owie drugiego tysiÄ…clecia naszej ery. Oznaczano za ich pomocÄ… liczby przedstawiane
+na bazie systemu dziesiÄ™tnego (ale w sposÃ³b addytywny) i uÅ¼ywano ich gÅ‚Ã³wnie
+w administracji jako archiwa budÅ¼etowe. Udoskonalonym quipu, zwanym chimpu,
+posÅ‚ugujÄ… siÄ™ jeszcze dzisiaj Indianie boliwijscy i peruwiaÅ„scy.

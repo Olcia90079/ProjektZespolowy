@@ -1,40 +1,40 @@
-3b. Rozwój kalkulatorów mechanicznych
+3b. RozwÃ³j kalkulatorÃ³w mechanicznych
 
 
-Prawdziw¹ erê kalkulatorów rozpocz¹³ francuski wynalazca i producent Charles
-Xavier Thomas de Colmar (1785-1870). W 1820 roku opatentowa³ on pierwsz¹ wersjê 
-swojego kalkulatora, który nazwa³ Arithmometre – st¹d pochodzi póŸniej u¿ywana
-nazwa arytmometr. Zastosowa³ w nim udoskonalone bêbny schodkowe
+PrawdziwÄ… erÄ™ kalkulatorÃ³w rozpoczÄ…Å‚ francuski wynalazca i producent Charles
+Xavier Thomas de Colmar (1785-1870). W 1820 roku opatentowaÅ‚ on pierwszÄ… wersj
+Ä™ swojego kalkulatora, ktÃ³ry nazwaÅ‚ Arithmometre â€“ stÄ…d pochodzi pÃ³Åºniej uÅ¼ywana
+nazwa arytmometr. ZastosowaÅ‚ w nim udoskonalone bÄ™bny schodkowe
 Leibnitza.
-Prawdziwie masowa produkcja arytmometrów Thomasa rozpoczê³a siê dopiero
-w drugiej po³owie XIX wieku. Thomas wyprodukowa³ oko³o 1500 arytmometrów,
-a po jego œmierci zajmowa³ siê tym L. Payen i szacuje siê, ¿e arytmometrów w „stylu
-Thomasa” znalaz³o siê na rynku ponad 5000 (niektórzy autorzy szacuj¹, ¿e by³o
-ich 8000, wliczaj¹c w to wersje zmodyfikowane przez L. Payena, z czego tylko mniej
-ni¿ 50% zosta³o sprzedanych we Francji, a reszta trafi³a do innych krajów. Arytmometry
-te znalaz³y zastosowanie w handlu, pracy biurowej, a tak¿e w nauce. Jednym
-z g³ównych ich odbiorców by³a firma ubezpieczeniowa Prudential.
-Bêbny schodkowe zajmowa³y w kalkulatorach doœæ du¿o miejsca, zwiêksza³y
-tak¿e ciê¿ar tych maszyn. Pod koniec XIX wieku pojawi³a siê ca³kiem nowa konstrukcja
-kalkulatorów, w których wykorzystano ko³o zêbate, a dok³adniej ko³o z ruchomymi
-zêbami (ang. pinwheel). Wynalazcami takich kalkulatorów byli Frank
-S. Baldwin w USA i Szwed Willgotd T. Odhner w Rosji. Baldwin opatentowa³ swój
-wynalazek w 1872 roku, a pierwszy model kalkulatora wed³ug tego patentu pojawi³
-siê na rynku w 1875 roku. Z kolei Odhner zbudowa³ pierwszy model swojego kalkulatora
-w 1874 roku, a produkcjê kalkulatorów rozpocz¹³ w 1886 roku. Kalkulatory
-Baldwina nie mia³y zbyt du¿ej popularnoœci, natomiast kalkulatory Odhnera
-cieszy³y siê du¿¹ popularnoœci¹ a¿ do lat 70. XX wieku. Jeszcze w XIX wieku Odhner
-sprzeda³ prawa do swojej konstrukcji w Niemczech i tak w 1892 roku w Braunschweigu
-rozpoczê³a siê produkcja kalkulatorów Odhnera pod nazw¹ Brunsviga
-(niektóre z nich mia³y dodatkowo w nazwie Trinks, od nazwiska g³ównego in¿yniera
-S. Trinksa, który wprowadza³ udoskonalenia w tych modelach) Dla odró¿nienia
-od innych marek, kalkulatory produkowane przez Odhnera i jego nastêpców nosz¹
-nazwê Original Odhner. Od 1886 roku produkowano je w fabryce w St. Petersburgu,
-a w 1917 roku podczas Rewolucji PaŸdziernikowej przeniesiono produkcjê
+Prawdziwie masowa produkcja arytmometrÃ³w Thomasa rozpoczÄ™Å‚a siÄ™ dopiero
+w drugiej poÅ‚owie XIX wieku. Thomas wyprodukowaÅ‚ okoÅ‚o 1500 arytmometrÃ³w,
+a po jego Å›mierci zajmowaÅ‚ siÄ™ tym L. Payen i szacuje siÄ™, Å¼e arytmometrÃ³w w â€stylu
+Thomasaâ€ znalazÅ‚o siÄ™ na rynku ponad 5000 (niektÃ³rzy autorzy szacujÄ…, Å¼e byÅ‚o
+ich 8000, wliczajÄ…c w to wersje zmodyfikowane przez L. Payena, z czego tylko mniej
+niÅ¼ 50% zostaÅ‚o sprzedanych we Francji, a reszta trafiÅ‚a do innych krajÃ³w. Arytmometry
+te znalazÅ‚y zastosowanie w handlu, pracy biurowej, a takÅ¼e w nauce. Jednym
+z gÅ‚Ã³wnych ich odbiorcÃ³w byÅ‚a firma ubezpieczeniowa Prudential.
+BÄ™bny schodkowe zajmowaÅ‚y w kalkulatorach doÅ›Ä‡ duÅ¼o miejsca, zwiÄ™kszaÅ‚y
+takÅ¼e ciÄ™Å¼ar tych maszyn. Pod koniec XIX wieku pojawiÅ‚a siÄ™ caÅ‚kiem nowa konstrukcja
+kalkulatorÃ³w, w ktÃ³rych wykorzystano koÅ‚o zÄ™bate, a dokÅ‚adniej koÅ‚o z ruchomymi
+zÄ™bami (ang. pinwheel). Wynalazcami takich kalkulatorÃ³w byli Frank
+S. Baldwin w USA i Szwed Willgotd T. Odhner w Rosji. Baldwin opatentowaÅ‚ swÃ³j
+wynalazek w 1872 roku, a pierwszy model kalkulatora wedÅ‚ug tego patentu pojawiÅ‚
+siÄ™ na rynku w 1875 roku. Z kolei Odhner zbudowaÅ‚ pierwszy model swojego kalkulatora
+w 1874 roku, a produkcjÄ™ kalkulatorÃ³w rozpoczÄ…Å‚ w 1886 roku. Kalkulatory
+Baldwina nie miaÅ‚y zbyt duÅ¼ej popularnoÅ›ci, natomiast kalkulatory Odhnera
+cieszyÅ‚y siÄ™ duÅ¼Ä… popularnoÅ›ciÄ… aÅ¼ do lat 70. XX wieku. Jeszcze w XIX wieku Odhner
+sprzedaÅ‚ prawa do swojej konstrukcji w Niemczech i tak w 1892 roku w Braunschweigu
+rozpoczÄ™Å‚a siÄ™ produkcja kalkulatorÃ³w Odhnera pod nazwÄ… Brunsviga
+(niektÃ³re z nich miaÅ‚y dodatkowo w nazwie Trinks, od nazwiska gÅ‚Ã³wnego inÅ¼yniera
+S. Trinksa, ktÃ³ry wprowadzaÅ‚ udoskonalenia w tych modelach) Dla odrÃ³Å¼nienia
+od innych marek, kalkulatory produkowane przez Odhnera i jego nastÄ™pcÃ³w noszÄ…
+nazwÄ™ Original Odhner. Od 1886 roku produkowano je w fabryce w St. Petersburgu,
+a w 1917 roku podczas Rewolucji PaÅºdziernikowej przeniesiono produkcjÄ™
 do Goeteborga.
-Wlatach 20. XX wieku rozpoczêto produkcjê kalkulatorów Odhnera pod nazw¹
-Facit i przerwano j¹ dopiero w 1977 roku. Ciekawa jest dalsza historia tych kalkulatorów
-w Rosji. Zainteresowa³ siê nimi Feliks Dzier¿yñski, szef Czeka w czasach
-bezpoœrednio po rewolucji. Z jego inicjatywy rozpoczêto ich produkcjê w fabryce
-jego imienia, które nosi³y nazwê Feliks Dzier¿yñski Arytmometr, póŸniej uproszczon¹
+W latach 20. XX wieku rozpoczÄ™to produkcjÄ™ kalkulatorÃ³w Odhnera pod nazwÄ…
+Facit i przerwano jÄ… dopiero w 1977 roku. Ciekawa jest dalsza historia tych kalkulatorÃ³w
+w Rosji. ZainteresowaÅ‚ siÄ™ nimi Feliks DzierÅ¼yÅ„ski, szef Czeka w czasach
+bezpoÅ›rednio po rewolucji. Z jego inicjatywy rozpoczÄ™to ich produkcjÄ™ w fabryce
+jego imienia, ktÃ³re nosiÅ‚y nazwÄ™ Feliks DzierÅ¼yÅ„ski Arytmometr, pÃ³Åºniej uproszczonÄ…
 do Felix.
