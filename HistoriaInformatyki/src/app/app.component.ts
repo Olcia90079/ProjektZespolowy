@@ -8,16 +8,15 @@ import { HttpClient } from '@angular/common/http';
 })
 export class AppComponent {
   title = 'HistoriaInformatyki';
+  currentBoard?: string;
 
   constructor(private httpClient: HttpClient) {
-    this.httpClient.get('.link/do/pliku.txt').subscribe(() => 
-    {
-      console.log('ODEBRALEM WIADOMOSC HTTP')
-    })
-  }
-
-  tekstJakiejsTablicy(parametr:string)
-  {
-    
+    this.httpClient.get('assets/docs/Tablice/1a.txt',  {
+      responseType: 'text',
+    }).subscribe(
+      (dane) => {
+        this.currentBoard = dane;
+      }
+    )
   }
 }
