@@ -12,9 +12,9 @@ miały postać piktogramów, zwanych hieroglifami, uproszczonych następnie
 do postaci znaków hieratycznych. Pochodzące z XV wieku p.n.e. znaleziska
 zapisane znakami hieratycznymi, takie jak Papirus Rhinda (zwany też papirusem
 Ahmesa, od nazwiska pisarza, który go skopiował ze starszego papirusu) wskazują
-na wysoki poziom matematyki egipskiej. Potrafiono mnożyć i dzielić liczby cał-
-kowite posługując się podwajaniem i dodawaniem – jakby drugi argument dzia-
-łania był przedstawiony w postaci binarnej – posługiwano się również ułamkami,
+na wysoki poziom matematyki egipskiej. Potrafiono mnożyć i dzielić liczby całkowite
+posługując się podwajaniem i dodawaniem – jakby drugi argument działania
+był przedstawiony w postaci binarnej – posługiwano się również ułamkami,
 w tym ułamkami o liczniku 1 (znanymi obecnie jako ułamki egipskie). Podobne
 systemy znaków liczbowych wynalazły niezależnie również inne cywilizacje w innych
 okresach czasu, m.in. minojska (Kreta, 2200 – 1400 r. p.n.e.) i aztecka (Meksyk,
@@ -23,8 +23,8 @@ XV wiek n.e.).
 
 Abak
 
-Największą rolę w rozwoju pierwszych narzędzi służących do obliczeń odegra-
-ły kamyki. Kamyk, kamyczek to po łacinie calculus – co brzmi jak rdzeń wielu
+Największą rolę w rozwoju pierwszych narzędzi służących do obliczeń odegrały
+kamyki. Kamyk, kamyczek to po łacinie calculus – co brzmi jak rdzeń wielu
 słów w wielu językach, związanych z obliczeniami, np. kalkulować, gdyż oznacza
 również rachunek. Początkowo kamyki układano w stosy. Z czasem zaczęto je
 układać na „planszach”, które służyły do wykonywania obliczeń – były to pierwsze

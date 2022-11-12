@@ -35,19 +35,19 @@ a do sterowania jej ruchami wykorzystano pięciobitowy kod Baudota, znany jako
 International Telegraph Alphabet No. 1 (ITA1), który wprowadził około 1875 roku
 francuski wynalazca Jean Maurice Emile Baudot (1845-1903). Urządzenia działające
 w oparciu o kod Baudota (po wielu modyfikacjach i w wielu wersjach) zaczęły
-zastępować urządzenia oparte na kodzie Morese’a i zostały wyparte dopiero w po-
-łowie lat 60. XX wieku przez kod ASCII. Na początku XX wieku z powodzeniem
+zastępować urządzenia oparte na kodzie Morese’a i zostały wyparte dopiero w połowie
+lat 60. XX wieku przez kod ASCII. Na początku XX wieku z powodzeniem
 rozpoczęła się ekspansja systemu telex, opartego na urządzeniach typu teleprinter,
-w których wiadomości były nadawane za pomocą klawiatury przypominającej maszyn
-ę do pisania, a odbierano je, drukując na papierze podawanym z rolki.
+w których wiadomości były nadawane za pomocą klawiatury przypominającej maszynę
+do pisania, a odbierano je, drukując na papierze podawanym z rolki.
 Do transmisji wykorzystywano zarówno linie telegraficzne, jak i telefoniczne.
 Pod koniec XX wieku urządzenia te zostały wyparte przez podłączoną do komputera
 klawiaturę i ekran monitora, a wiadomości przyjęły postać listów elektronicznych
 i faxów.
 Karty i taśmy papierowe jako nośniki danych wzięły swój początek w różnych
 obszarach przetwarzania danych. Początkowo były odczytywane mechanicznie
-(igły trafiające na otwór zamykały obwód elektryczny), a póêniej światło zastąpi-
-ło igły. W drugiej połowie XX wieku, przez około 20 lat, karty i taśmy były podstawowymi
+(igły trafiające na otwór zamykały obwód elektryczny), a póêniej światło zastąpiło
+igły. W drugiej połowie XX wieku, przez około 20 lat, karty i taśmy były podstawowymi
 nośnikami danych komputerowych, służącymi głównie do zapisywania
 danych i wprowadzania danych do komputerów (wyniki były drukowane na papierze).
 Karty w porównaniu z taśmą miały niewątpliwe zalety – można było stosować

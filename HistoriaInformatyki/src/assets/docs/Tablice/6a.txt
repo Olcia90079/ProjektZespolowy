@@ -9,8 +9,8 @@ Algebra Boole’a ma obecnie szerokie zastosowania w informatyce, np. przy proje
 komputerów (układów logicznych) i sieci telekomunikacyjnych oraz
 w wyszukiwaniu informacji. Rachunek logiczny rozwijał także Augustus de Morgan,
 który sformalizował operacje logiczne znane obecnie jako transformacje de
-Morgana. Minęło około 80 lat, aż ten formalizm Boole’a i de Morgana został zauwa
-żony i stał się podstawą dalszych badań.
+Morgana. Minęło około 80 lat, aż ten formalizm Boole’a i de Morgana został zauważony
+i stał się podstawą dalszych badań.
 Przełomowe znaczenie dla rozwoju komputerów i budowy sieci telegraficzno-telefonicznych
 miały prace Claude Elwood Shannona (1916-2001). Położył on podstawy
 teoretyczne pod praktyczny rozwój dwóch dziedzin techniki, będących motorem
@@ -27,8 +27,8 @@ i projektowaniem takich układów i powiązał je z algebrą Boole’a. W pracy 
 Analysis of Relay and Switching Circuits (1938), opartej na jego pracy magisterskiej,
 uznawanej powszechnie za najwybitniejszą pracę magisterską XX wieku,
 wykazał, że algebra Boole’a może być zastosowana w analizie i syntezie układów
-przełączających i binarnych. Wskazał na analogię między budową obwodów prze-
-łączających i algebrą Boole’a – przełącznik w stanie ON lub OFF odpowiada stanowi
+przełączających i binarnych. Wskazał na analogię między budową obwodów przełączających
+i algebrą Boole’a – przełącznik w stanie ON lub OFF odpowiada stanowi
 (zmiennej o wartości) YES lub NO – co umożliwia realizację funkcji logicznej
 za pomocą sieci przełączników i przekaźników. Dzięki temu algebra
 Boole’a i arytmetyka binarna mogą być wykorzystane do upraszczania układów
