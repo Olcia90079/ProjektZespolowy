@@ -10,8 +10,8 @@ Nieco później (wiek VIII n.e.) Hindusi zaczęli stosować liczby ujemne, choci
 przez wiele wieków nie uznawano na przykład rozwiązań równań w liczbach ujemnych.
 Następne pięć wieków (VIII – XIII) to okres świetności nauki w świecie muzułmańskim.
 Arabowie interesowali się osiągnięciami świata starożytnego, poznali
-odkrycia Hindusów (de numero Indorum – indyjską sztukę rachowania) i sami rozwin
-ęli wiele pomysłów matematycznych. Jednym z czołowych matematyków arabskich
+odkrycia Hindusów (de numero Indorum – indyjską sztukę rachowania) i sami rozwinęli
+wiele pomysłów matematycznych. Jednym z czołowych matematyków arabskich
 był Muhammad ibn Musa al-Khwarizmi (ok. 787 – ok. 847 n.e.), który przyczynił
 się do rozpowszechnienia dziesiętnego systemu pozycyjnego i metod rachunkowych
 pochodzenia indyjskiego zarówno w świecie arabskim, jak i później w Europie.
@@ -19,8 +19,8 @@ Same cyfry (nazwa pochodzi o słowa arabskiego as sifr) pochodzą od Arabów,
 którzy zamieszkiwali w Afryce północnej i w Hiszpanii. Wprowadził je w Europie
 papież Sylwester II (Gerbert d’Aurillac, ok. 947 – ok. 1003 n.e.), ale musiało
 upłynąć ponad 200 lat, zanim w Europie zaczęto w pełni korzystać z dziesiętnego
-systemu zapisu liczb i zera oraz z metod rachunkowych pochodzących z Indii. Przysłu
-żył się temu wielce Fibonacci (Leonardo z Pizy, ok. 1180 – ok. 1250 n.e.) swoim
+systemu zapisu liczb i zera oraz z metod rachunkowych pochodzących z Indii. Przysłużył
+się temu wielce Fibonacci (Leonardo z Pizy, ok. 1180 – ok. 1250 n.e.) swoim
 dziełem Liber abaci.
 
 
@@ -58,8 +58,8 @@ Napier opublikował pierwsze tablice logarytmiczne w 1614 roku. Swój początkow
 pomysł udoskonalił później wspólnie z matematykiem Henry Briggsem, który
 główne dzieło na temat logarytmów wydał już po śmierci Napiera. Logarytmami
 Napiera zainteresował się astronom Johannes Kepler, pracujący nad tablicami
-astronomicznymi (opublikował je jako Rudolphine Tables w 1628 roku). Niezależ-
-nie od Napiera, ale w nieco inny sposób, logarytmy wprowadził również szwajcarski
+astronomicznymi (opublikował je jako Rudolphine Tables w 1628 roku). Niezależnie
+od Napiera, ale w nieco inny sposób, logarytmy wprowadził również szwajcarski
 konstruktor zegarów i aparatów matematycznych Jost Bürgi, którego pomysł
 spisał J. Kepler w 1620 roku. Kepler podał również ścisłe uzasadnienie poprawności
 zasad logarytmowania. Jak napisał francuski matematyk Pierre S. de Laplace
@@ -72,7 +72,7 @@ Kilka wieków trwał spór między „abacystami”, którzy starali się zachow
 (czyli wykonywanie rachunków za pomocą żetonów na planszach), a „algorystami”,
 którzy dążyli do wprowadzenia rachunków na piśmie za pomocą cyfr arabskich
 („algoryzmem” nazywano rachunki pisane, spopularyzowane przez al-Khwarizmiego).
-Âredniowieczną wiarę w to, co jest oparte na sztuce liczenia, określano słowami
+Średniowieczną wiarę w to, co jest oparte na sztuce liczenia, określano słowami
 dixit algorizmi, czyli „tak powiada algorytm”, a oznaczało to jasność prezentacji
 i gwarantowało poprawność wykonania. Od tych słów rozpoczyna się jeden z łacińskich
 przekładów księgi do rachunków al-Khwarizmiego. Wielu autorów księgi

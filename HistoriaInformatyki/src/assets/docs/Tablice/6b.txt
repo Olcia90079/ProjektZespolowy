@@ -46,7 +46,7 @@ się dopiero w XVII wieku. Za jego wynalazcę uważa się G. W. Leibniza, który
 za młodu (w roku 1679) interesował się tym systemem i jego wykorzystaniem w maszynie
 liczącej. W pracy z 1703 objaśnił ten system i zademonstrował jego wykorzystanie
 do wykonywania podstawowych działań arytmetycznych.
-Âlady systemu binarnego znaleźć można w zapisach przed Leibnizem. Angielski
+Ślady systemu binarnego znaleźć można w zapisach przed Leibnizem. Angielski
 astronom i geograf Thomas Hariot (1560-1621) ok. roku 1600 przedstawił kolejne
 liczby naturalne jako sumy potęg liczby 2. Angielski filozof Francis Bacon
 (1561-1626) ujawnił pod koniec swojego życia sposób szyfrowania liter za pomocą

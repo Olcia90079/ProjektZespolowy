@@ -26,12 +26,12 @@ Eclair (kalkulator Odhnera produkowany we Francji, 1912), Mercedes-Euklid
 (1913), Monroe (1922), Burroughs (wszystkie modele, 1925). Przed 1940 rokiem
 niemal wszystkie kalkulatory biurowe były napędzane motorem elektrycznym.
 Jako sumatory, popularne były już w połowie XIX wieku urządzenia, o których
-można powiedzieć, że pierwowzorem były dla nich... abakusy i liczydła. Guziki i prę-
-ty zostały w nich zastąpione przez suwaki i nacięcia lub otwory. Do posługiwania się
+można powiedzieć, że pierwowzorem były dla nich... abakusy i liczydła. Guziki i pręty
+zostały w nich zastąpione przez suwaki i nacięcia lub otwory. Do posługiwania się
 takimi sumatorami w niektórych modelach był potrzebny wskaźnik. Niektóre z modeli
 przypominały bardziej rozbudowaną linijkę (np. Addiator). Te proste sumatory
-były bardzo poręczne, na ogół miały charakter urządzeń kieszonkowych. Ze wzglę-
-du na swoją prostą konstrukcję były one również znacznie tańsze niż urządzenia
+były bardzo poręczne, na ogół miały charakter urządzeń kieszonkowych. Ze względu
+na swoją prostą konstrukcję były one również znacznie tańsze niż urządzenia
 do użytku biurowego.
 W czasie II Wojny Światowej, powstała jeszcze jedna konstrukcja kalkulatora,
 w której wykorzystano bębny schodkowe Leibniza. Chociaż wydawało się, że to rozwiązanie
