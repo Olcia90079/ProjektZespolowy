@@ -1,5 +1,4 @@
 import { Component } from '@angular/core';
-import { HttpClient } from '@angular/common/http';
 
 @Component({
   selector: 'app-root',
@@ -8,15 +7,4 @@ import { HttpClient } from '@angular/common/http';
 })
 export class AppComponent {
   title = 'HistoriaInformatyki';
-  currentBoard?: string;
-
-  constructor(private httpClient: HttpClient) {
-    this.httpClient.get('assets/docs/Tablice/1a.txt',  {
-      responseType: 'text',
-    }).subscribe(
-      (dane) => {
-        this.currentBoard = dane;
-      }
-    )
-  }
 }

@@ -1,0 +1,46 @@
+1b. Znaki liczbowe, proste sposoby rachowania
+
+
+Rozwój znaków liczbowych
+
+Krokiem wstecz stosunku do osiągnięć Babilonu był wynalazek cyfr greckich
+z okresu Homera (IX i VIII wiek p.n.e.) i cyfr rzymskich (pochodzenia etruskiego
+z V wieku p.n.e.), popularnych do dzisiaj, które służyły głównie do zapisywania
+i przechowywania liczb. Przypuszcza się, że były one pozostałością
+po czasach oznaczania liczb jako nacięć. Trudniej było z ich pomocą wykonywać
+działania matematyczne, co spowodowało, że w rachunkach posługiwano się raczej
+abakami z żetonami.
+Niektóre systemy oznaczania cyfr i zapisywania liczb powstały na bazie pisma alfabetycznego.
+Alfabet wynależli Fenicjanie około roku 1500 p.n.e. i uważa się, że
+pochodzi od niego większość alfabetów, w tym staroarabski, syryjski, żydowski
+i grecki. ˚ydzi wpadli na pomysł oznaczenia liczb za pomocą liter swojego alfabetu
+i ta notacja jest do dzisiaj stosowana przy pisaniu dat według ich kalendarza oraz
+przy numerowaniu ustępów i wersetów Starego Testamentu oraz stronic dzieł wydanych
+po hebrajsku. Alfabet liczbowy mieli również Grecy, a także muzułmanie, którzy
+opierali się na modelu greckim i rzymskim. Muzułmański alfabet liczbowy był
+stosowany w najnowszych czasach, równocześnie z cyframi, zwanymi arabskimi.
+Nieco inny charakter ma chińska numeracja pisana, wynaleziona przeszło 3000 lat
+temu i stosowana do dzisiaj, również w Japonii.
+
+
+Pierwsze „maszyny” do liczenia
+
+Ludzie od dawna w swoich zajęciach praktycznych potrzebowali rachować,
+w znaczeniu odliczać, różne rzeczy, takie jak zdobycze i łupy z walk czy zwierzęta,
+które hodowali i wymieniali na inne towary. Na początku stosowano w tym celu
+palce u rąk i ich człony, a dla zwiększenia zakresu liczb – również palce u nóg, a także
+inne części ciała. Z czasem pojawiła się naturalna konieczność trwałego zaznaczania
+liczb i wyników obliczeń. Najstarsze znane metody polegały na stosowaniu
+nacięć na kościach, kawałkach drewna lub wyżłobień na kamieniach. Co ciekawe,
+nacięcia na drewnie dla oznaczania liczb stosowano w Europie jeszcze w XIX wieku.
+Nacięcia i wyżłobienia w różnych materiałach nie uznaje się jednak za pierwowzór
+znaków, które można by uznać za graficzne znaki cyfr.
+Popularnym sposobem zapisywania liczb i wykonywania na nich obliczeń w większości
+cywilizacji przeszłości było posługiwanie się sznureczkami z węzełkami. Stosowano
+je na Bliskim Wschodzie w V wieku p.n.e. i nawet nieco wcześniej na Dalekim
+Wschodzie, gdzie ten sposób rachowania do dzisiaj nie całkiem zanikł. Najdoskonalsze
+sznureczki z węzełkami, zwane quipu, stosowano w cywilizacji Inków w pierwszej
+połowie drugiego tysiąclecia naszej ery. Oznaczano za ich pomocą liczby przedstawiane
+na bazie systemu dziesiętnego (ale w sposób addytywny) i używano ich głównie
+w administracji jako archiwa budżetowe. Udoskonalonym quipu, zwanym chimpu,
+posługują się jeszcze dzisiaj Indianie boliwijscy i peruwiańscy.

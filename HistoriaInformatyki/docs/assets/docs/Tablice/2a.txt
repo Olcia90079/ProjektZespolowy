@@ -1,0 +1,79 @@
+2a. Rozwój liczb i sposobów rachowania
+
+
+Cyfry arabskie
+
+Za kolebkę używanych obecnie cyfr, zwanych arabskimi, w tym zera, i pozycyjnego
+systemu zapisywania liczb, uważa się powszechnie Indie, gdzie te odkrycia pojawiły
+się w V – I wieku p.n.e. a osiągnęły swoją dojrzałą postać w V – VI wieku n.e.
+Nieco później (wiek VIII n.e.) Hindusi zaczęli stosować liczby ujemne, chociaż
+przez wiele wieków nie uznawano na przykład rozwiązań równań w liczbach ujemnych.
+Następne pięć wieków (VIII – XIII) to okres świetności nauki w świecie muzułmańskim.
+Arabowie interesowali się osiągnięciami świata starożytnego, poznali
+odkrycia Hindusów (de numero Indorum – indyjską sztukę rachowania) i sami rozwinęli
+wiele pomysłów matematycznych. Jednym z czołowych matematyków arabskich
+był Muhammad ibn Musa al-Khwarizmi (ok. 787 – ok. 847 n.e.), który przyczynił
+się do rozpowszechnienia dziesiętnego systemu pozycyjnego i metod rachunkowych
+pochodzenia indyjskiego zarówno w świecie arabskim, jak i później w Europie.
+Same cyfry (nazwa pochodzi o słowa arabskiego as sifr) pochodzą od Arabów,
+którzy zamieszkiwali w Afryce północnej i w Hiszpanii. Wprowadził je w Europie
+papież Sylwester II (Gerbert d’Aurillac, ok. 947 – ok. 1003 n.e.), ale musiało
+upłynąć ponad 200 lat, zanim w Europie zaczęto w pełni korzystać z dziesiętnego
+systemu zapisu liczb i zera oraz z metod rachunkowych pochodzących z Indii. Przysłużył
+się temu wielce Fibonacci (Leonardo z Pizy, ok. 1180 – ok. 1250 n.e.) swoim
+dziełem Liber abaci.
+
+
+Sposoby rachowania
+
+Mnożenie przez siebie liczb wielocyfrowych i działanie odwrotne, dzielenie,
+od zarania dziejów sprawiały człowiekowi wiele trudności. Próbowano więc radzić
+sobie na wiele różnych sposobów, również za pomocą różnorodnych diagramów
+i przyborów. Podstawą większości wczesnych metod obliczania iloczynu liczb
+wielocyfrowych było w oczywisty sposób zastąpienie mnożenia przez wielokrotne
+dodawanie. Składniki tego dodawania wyznaczano na różne sposoby, np. jako iloczyny
+jednego z czynników przez odpowiednie potęgi liczby 2 (otrzymywane w wyniku
+wielokrotnego podwajania czynnika, czyli dodawania do siebie) lub jako iloczyny jednego
+z czynników przez pojedyncze cyfry. Ten pierwszy sposób jest czasem nazywany
+metodą rosyjskich chłopów, ten drugi zaś odnajdujemy w bardzo starych tabliczkach
+mnożenia, stosowanych do mnożenia, zwanych obecnie gelosia. Tabliczki do mnożenia
+były tak oczywistym sposobem, że obecnie odnaleźć je można niemal w każdej cywilizacji
+starożytnej i późniejszych, jak również w Europie. Na przełomie
+XVI i XVII wieku, John Napier (Neper) 1550-1617, dla uproszczenia złożonych obliczeń
+m.in. w astronomii i geodezji, wynalazł proste narzędzie służące do szybkiego
+wykonywania mnożeń wielocyfrowych liczb przez jednocyfrową liczbę za pomocą ciągu
+dodawań. Składało się ono z pałeczek zrobionych z drewna, stąd pałeczki Napiera.
+Dla bogatszych użytkowników zaś wytwarzano je z kości słoniowej – stąd kości
+Napiera. Często te pałeczki (kości) układano w pudełkach lub skrzyneczkach – tworzyły
+one w ten sposób tabliczki Napiera. W pałeczkach Napiera odnaleźć można
+fizyczną realizację znacznie wcześniej używanych tabliczek mnożenia.
+Opis swojego wynalazku Napier zawarł w dziele Rabdologiae, które wydał tuż
+przed swoją śmiercią, bał się bowiem, że ktoś mógłby przypisać sobie jego wynalazek.
+Pałeczki Napiera były popularne przez 200 lat, wykorzystało je również wielu
+konstruktorów w swoich urządzeniach liczących, m.in. Wilhelm Schickard.
+John Napier jest uznawany również za wynalazcę logarytmów (logarytm, od gr.
+słów logos i arithmos), dzięki którym mnożenie i dzielenie można zastąpić dodawaniem
+i odejmowaniem. Do tego przydatne są tablice, zawierające logarytmy z liczb.
+Napier opublikował pierwsze tablice logarytmiczne w 1614 roku. Swój początkowy
+pomysł udoskonalił później wspólnie z matematykiem Henry Briggsem, który
+główne dzieło na temat logarytmów wydał już po śmierci Napiera. Logarytmami
+Napiera zainteresował się astronom Johannes Kepler, pracujący nad tablicami
+astronomicznymi (opublikował je jako Rudolphine Tables w 1628 roku). Niezależnie
+od Napiera, ale w nieco inny sposób, logarytmy wprowadził również szwajcarski
+konstruktor zegarów i aparatów matematycznych Jost Bürgi, którego pomysł
+spisał J. Kepler w 1620 roku. Kepler podał również ścisłe uzasadnienie poprawności
+zasad logarytmowania. Jak napisał francuski matematyk Pierre S. de Laplace
+(1749-1827), wynalazek logarytmów podwoił długość życia astronomów.
+
+
+Abakus czy algorytm
+
+Kilka wieków trwał spór między „abacystami”, którzy starali się zachować abaki
+(czyli wykonywanie rachunków za pomocą żetonów na planszach), a „algorystami”,
+którzy dążyli do wprowadzenia rachunków na piśmie za pomocą cyfr arabskich
+(„algoryzmem” nazywano rachunki pisane, spopularyzowane przez al-Khwarizmiego).
+Średniowieczną wiarę w to, co jest oparte na sztuce liczenia, określano słowami
+dixit algorizmi, czyli „tak powiada algorytm”, a oznaczało to jasność prezentacji
+i gwarantowało poprawność wykonania. Od tych słów rozpoczyna się jeden z łacińskich
+przekładów księgi do rachunków al-Khwarizmiego. Wielu autorów księgi
+do rachunków tytułowało Algorismus, a po polsku – Algoritmus lub Algorithm.
