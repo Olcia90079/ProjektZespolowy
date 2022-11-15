@@ -1,0 +1,112 @@
+9a. Pierwsze komputery
+
+
+Z1 (1938), Z2 (1939), Z3 (1941), Z4 (1945) to komputery zbudowane przez
+Konrada Zuse. Najbardziej zaawansowaną i niezawodną konstrukcją była maszy-
+na Z3, uważana obecnie przez wielu za pierwszy sterowany programem komputer
+ogólnego przeznaczenia. Był to programowalny kalkulator binarny, w którym za-
+równo pamięć, jak i logika były oparte na algebrze Boole’a. Zbudowany był z 2400
+przekaźników telefonicznych. W jego pamięci można było przechowywać binarnie
+64 liczby w postaci zmiennopozycyjnej, złożone z 22 bitów (16 bitów na mantysę
+i 8 bitów na cechę, wykładnik). Program i dane były czytane z taśmy perforowanej.
+Dane były wprowadzane także z klawiatury numerycznej, a wyniki można było od-
+czytać z lamp elektrycznych. Z3 był komputerem programowalnym przez program
+zewnętrzny (czyli przez program nie przechowywany w komputerze), który mógł
+realizować obliczenia w pętli, ale nie było możliwości prowadzenia obliczeń wa-
+runkowych (taka możliwość pojawiła się w komputerze Z4, przekazanym w 1950
+roku Politechnice ETH w Zurychu). Warto wspomnieć o innych maszynach K. Zu-
+se, które miały podobną budowę jak Z3. Z1 była maszyną w pełni mechaniczną,
+zamiast przekaźników użyte zostały specjalne blaszki z wycięciami, które umożli-
+wiały ustawienie dwóch stanów, 0 oraz 1 – takie rozwiązanie stosował jedynie
+K. Zuse w swoich komputerach, głównie ze względów oszczędnościowych. Prąd
+elektryczny był wykorzystany jedynie w silniku, który generował impulsy, niezbęd-
+ne do synchronizacji maszyny. W maszynie Z2, by zwiększyć jej niezawodność,
+Zuse użył 800 przekaźników do budowy jednostki arytmetycznej i sterującej, pa-
+mięć nadal była jednak mechaniczna. W maszynie Z4 Zuse powrócił do pamięci
+mechanicznej z powodu trudności zdobycia bardziej zaawansowanych technolo-
+gicznie elementów. Maszyny Z1 – Z3 uległy zniszczeniu podczas działań wojen-
+nych, zaś maszynę Z4 udało się uchronić przed zniszczeniem i w 1950 roku, po nie-
+zbędnych naprawach i modyfikacjach, Zuse odsprzedał ją politechnice w Zurychu
+– był to pierwszy przypadek sprzedaży komputera. Repliki maszyn Z1 (wykonana
+w latach 1987-1989) i Z3 (wykonana w latach 1960-1961) wykonane pod kierun-
+kiem K. Zuse znajdują się w muzeach w Niemczech.
+Pierwszy komputer (Z1) Zuse zaczął konstruować w 1936 roku w pokoju swo-
+ich rodziców w Berlinie, a ukończył go w 1938 roku. Komputer Z1 był w pełni me-
+chaniczny, w Z2 przekaźniki zostały użyte przy budowie jednostki sterującej i aryt-
+metycznej, Z3 był komputerem w pełni przekaźnikowym, a w Z4 Zuse przywrócił
+pamięć mechaniczną. W 1949 roku K. Zuse założył firmę Zuse KG, pierwszą firmę
+komputerową w Niemczech, w której do 1967 roku wyprodukowano ponad 251
+komputerów. Ze względu na kłopoty finansowe, firmę tę wykupił Siemens AG.
+ENIAC (ang. Electronic Numerical Integrator and Computer – elektroniczny in-
+tegrator numeryczny i komputer), pierwszy w pełni elektroniczny komputer zbudo-
+wany w latach 1943-1946 na Uniwersytecie w Pensylwanii (w Moore School of Elec-
+trical Engineering tego Uniwersytetu), którego pierwotnym przeznaczeniem były
+obliczenia do tablic balistycznych (zasięg pocisków) dla armii USA, a w później-
+szych latach również wspierano za pomocą tej maszyny prace nad budową bomby
+atomowej, a także cywilne obliczenia naukowe i inżynierskie. Maszyna ENIAC wy-
+konywała obliczenia w systemie dziesiętnym. Nie była to jednak maszyna z progra-
+mem przechowywanym w pamięci. Jej programowanie polegało początkowo
+na zmianie okablowania, a od 1948 roku nie wymagało już ingerencji w budowę. Ja-
+ko wejście stosowano czytnik kart IBM, a jako wyjście – dziurkarkę kart, również
+IBM. Zbudowana była na lampach próżniowych (bardzo zawodnych) – było ich 18
+tysięcy, ponadto wykorzystano dziesiątki tysięcy innych elementów (diod, przekaź-
+ników, oporników, kondensatorów). Konstruktorami maszyny ENIAC byli John
+William Mauchly (1907-1980) i John Presper Eckert (1919-1995), którzy w później-
+szych latach zaprojektowali maszynę EDVAC i skonstruowali dla National Bureau
+of Standards (USA) maszynę UNIVAC I. Maszyna ENIAC wywarła wpływ na ów-
+czesnych konstruktorów maszyn (np. na Johna von Neumanna) i na projekty in-
+nych komputerów budowanych w tamtych czasach (EDVAC, EDSAC, SEAC).
+W 1973 roku, w procesie wytoczonym Sperry Rand przez Honeywell, Sąd Federal-
+ny w USA uznał, że twórcy maszyny ENIAC zapożyczyli wiele pomysłów i rozwią-
+zań od Johna Atanasoffa, konstruktora maszyny ABC i unieważnił wiele ich paten-
+tów. Faktycznie J. W. Mauchly odwiedził J. Atanasoffa w 1941 roku. Miał więc oka-
+zję zapoznać się z pracami prowadzonymi nad jego maszyną.
+EDSAC (ang. Electronic Delay Storage Automatic Computer – elektroniczny
+komputer automatyczny z opóźnionym przechowywaniem danych), zbudowany
+w 1949 roku przez zespół kierowany przez Maurice Wilkes’a w Laboratorium Ma-
+tematycznym Uniwersytetu w Cambridge w Wielkiej Brytanii. EDSAC oparty był
+na architekturze von Neumanna – jego działaniem sterował program wewnętrzny,
+czyli program przechowywany w pamięci. Pamięć w EDSAC, utworzoną z rur wy-
+pełnionych rtęcią (ang. mercury delay lines), tworzyło 512 słów złożonych z 35 bitów
+każde. W jednostce logicznej użyto około 3000 lamp próżniowych. W tym kompu-
+terze stosowano jeden z pierwszych asemblerów, a na początku lat 60. XX wieku,
+dla kolejnego modelu tej maszyny, zaprojektowano autokod, język wyższego rzędu
+(podobny do języka Algol). Program był wczytywany z taśmy papierowej, a wyniki
+drukowane za pomocą urządzenia teleksowego.
+EDVAC (ang. Electronic Discrete Variable Automatic Computer – automatyczny
+komputer elektroniczny posługujący się dyskretnymi zmiennymi), elektroniczny
+komputer zaprojektowany przez zespół, w skład którego weszli m.in. konstruktorzy
+komputera ENIAC, John W. Mauchly i J. Prosper Eckert, oraz John von Neu-
+mann, autor słynnego raportu The First Draft, w którym przedstawił architekturę
+komputera z programem w pamięci i projekt komputera EDVAC. Był to kompu-
+ter binarny, zawierał ponad 1000 komórek pamięci, dodawanie trwało 846 mikro-
+sekund, a mnożenie – 2900 mikrosekund. Jeden z pierwszych komputerów, w któ-
+rym użyto taśmy magnetycznej jako nośnika danych i programów dla tej maszyny.
+Zawierał około 5000 lamp i 10000 krystalicznych diod, ważył prawie 8 ton i zajmo-
+wał blisko 50 m2 . Budowany w latach 1946-1951, początkowo na Uniwersytecie
+w Pensylwanii a później w IAS (Princeton), był sponsorowany również (jak
+ENIAC) przez armię USA. Pracował aż do 1961 roku, przechodząc w tym czasie
+wiele modyfikacji.
+SEAC (ang. Standards Electronic/Eastern Automatic Computer) Elektroniczny
+komputer zbudowany w 1950 roku przez National Bureau of Standards (USA),
+w oparciu o architekturę maszyny EDVAC, zawierał więc program w pamięci.
+Do jego budowy wykorzystano blisko 750 lamp próżniowych (głównie jako wzmac-
+niaczy) i ponad 15000 diod germanowych (w jednostce logicznej). Pamięć, złożona
+z 512 słów, każde zawierające 45 bity, była zbudowana z 64 rur akustycznych. Cza-
+sy wykonywania operacji były podobne jak w maszynie EDVAC. Komputer SEAC
+pracował do 1964 roku.
+Harvard Mark III znany również jako ADEC – ang. Aiken Dahlgren Electronic
+Calculator) to kolejny z serii komputerów, zbudowany w 1950 roku przez
+zespół kierowany przez Howarda H. Aikena na Uniwersytecie Harvarda. Jak po-
+przednie modele, była to maszyna oparta na architekturze Harvard, w której da-
+ne były oddzielone od programu. Szesnastocyfrowe liczby dziesiętne były repre-
+zentowane przez 36-bitowe słowa. Maszyna zawierała 5000 lamp próżniowych,
+1500 diod i dziewięć bębnów magnetycznych, każdy o pojemności 4350 słów. Je-
+den bęben zawierał instrukcje – był to więc komputer przechowujący program
+w pamięci – a dwa zawierały stałe i zmienne. Sześć pozostałych bębnów było prze-
+znaczonych na dane. Słabym punktem tej maszyny był brak bezpośredniego dostę-
+pu do danych na bębnie i dość długi czas dostępu do bębnów. Kolejny komputer
+z tej serii, Harvard Mark IV, również w architekturze Harvard, został ukończony
+w 1952 roku. Była to maszyna już w pełni elektroniczna, zbudowana z elementów
+solid-state z programem przechowywanym w pamięci. Wykorzystywała również
+bębny magnetyczne.

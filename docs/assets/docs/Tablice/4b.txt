@@ -1,0 +1,40 @@
+4b. Kalkulatory i sumatory
+
+
+Pod koniec XIX wieku pojawiły się kalkulatory, w których ustawienia danych
+dokonywało się za pomocą klawiszy. Pierwszym, czterodziałaniowym kalkulatorem
+klawiszowym był Comtometer z 1885, opatentowany w 1887 roku, którego konstruktorem
+był Dorr Eugene Felt (1862 – 1930). W 1889 roku, Felt uzyskał patent
+na Comptograph, który w porównaniu z Comptometrem został wzbogacony o mechanizm
+drukujący. W obu kalkulatorach Felt zastosował tzw. pełną klawiaturę,
+wynalezioną przez Thomasa Hilla w 1857 roku, która składa się z 9 rzędów klawiszy,
+po jednym dla każdej cyfry na każdej pozycji (nie było klawisza, odpowiadającego
+cyfrze 0, zero było reprezentowane przez brak wyboru klawisza). Pełny układ
+klawiszy na kalkulatorze był bardzo popularny aż do połowy XX wieku.
+Jeden z najważniejszych w historii sumatorów skonstruował William Seward
+Burroughs (1857-1898) w 1884 roku. Był to sumator z pełną klawiaturą, wyposażony
+w mechanizm drukowania. Pierwszy patent na swój sumator otrzymał w 1888 roku,
+a w pełni funkcjonalny model opatentował w 1892 roku.
+Na początku XX wieku powstały również sumatory tylko z dziesięcioma klawiszami.
+Jeden z nich zaprojektował w 1901 roku William W. Hopkins.
+Na początku XX wieku zaczęły pojawiać się kalkulatory biurowe, napędzane
+motorem elektrycznym. Konstruktorem pierwszej takiej maszyny, opartej na arytmometrze
+Thomasa, był w 1902 roku Czech Alexander Rechnitzer. W następnych
+latach, niemal każda firma produkująca mechaniczne kalkulatory zaczęła włączać
+do swoich produktów modele z motorem elektrycznym. Były wśród nich kalkulatory:
+Eclair (kalkulator Odhnera produkowany we Francji, 1912), Mercedes-Euklid
+(1913), Monroe (1922), Burroughs (wszystkie modele, 1925). Przed 1940 rokiem
+niemal wszystkie kalkulatory biurowe były napędzane motorem elektrycznym.
+Jako sumatory, popularne były już w połowie XIX wieku urządzenia, o których
+można powiedzieć, że pierwowzorem były dla nich... abakusy i liczydła. Guziki i pręty
+zostały w nich zastąpione przez suwaki i nacięcia lub otwory. Do posługiwania się
+takimi sumatorami w niektórych modelach był potrzebny wskaźnik. Niektóre z modeli
+przypominały bardziej rozbudowaną linijkę (np. Addiator). Te proste sumatory
+były bardzo poręczne, na ogół miały charakter urządzeń kieszonkowych. Ze względu
+na swoją prostą konstrukcję były one również znacznie tańsze niż urządzenia
+do użytku biurowego.
+W czasie II Wojny Światowej, powstała jeszcze jedna konstrukcja kalkulatora,
+w której wykorzystano bębny schodkowe Leibniza. Chociaż wydawało się, że to rozwiązanie
+powinno znacznie powiększyć wielkość i wagę kalkulatora, powstał kalkulator
+niemal kieszonkowy! Skonstruował go w 1943 roku Curt Herzstark (1902-1988)
+będąc więźniem obozu koncentracyjnego w Buchenwaldzie.
