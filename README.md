@@ -2,7 +2,7 @@
 ## Członkowie zespołu
 - Agnieszka Kamińska
 - Aleksandra Panek
-- Karolina Panek
+- Karolina Pomian
 
 ### Deploytment aplikacji:
 1.Należy zbudować projekt użwając poniższej komendy: \
