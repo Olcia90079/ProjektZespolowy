@@ -15,4 +15,5 @@
  https://Olcia90079.github.io/ProjektZespolowy 
 
 ### Potrzebne linki:
--https://angular.io/guide/deployment#deploy-to-github-pages
+- https://angular.io/guide/setup-local
+- https://angular.io/guide/deployment#deploy-to-github-pages
