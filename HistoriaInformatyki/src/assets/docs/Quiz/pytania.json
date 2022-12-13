@@ -1,0 +1,12 @@
+[
+    {
+    "pytanie": "Co to PC?",
+    "pr_odpowiedz": "Personal Computer",
+    "npr_opd": ["Project Coordinator", "Personal Code"]
+    },
+    {
+        "pytanie": "Co to USB?",
+        "pr_odpowiedz": "Personal Computer",
+        "npr_opd": ["Project Coordinator", "Personal Code"]
+    }
+]
