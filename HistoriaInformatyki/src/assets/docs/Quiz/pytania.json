@@ -152,5 +152,12 @@
         "pytanie": "Jak brzmiała pierwsza przesłana kodem Morse'a wiadomość?",
         "pr_odpowiedz": ["What hath God wrought?", "Co Bóg uczynił?"],
         "npr_opd": ["Have faith in God.", "Gdzie Bóg, tam wszystko możliwe."]
+    },
+    {
+        "nr": 5,
+        "strona": "A",
+        "pytanie": "Kto wynalaz telegraf elektryczny?",
+        "pr_odpowiedz": ["Charles Wheatstone", "William Fothergill Cooke", "Samuel Finley Morse"],
+        "npr_opd": ["John Ricardo", "Pavel Schilling"]
     }
 ]
