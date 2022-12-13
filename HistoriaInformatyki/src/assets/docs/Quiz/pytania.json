@@ -1,12 +1,156 @@
 [
     {
-    "pytanie": "Co to PC?",
-    "pr_odpowiedz": "Personal Computer",
-    "npr_opd": ["Project Coordinator", "Personal Code"]
+        "nr": 0,
+        "strona": "0",
+        "pytanie": "test",
+        "pr_odpowiedz": ["test"],
+        "npr_opd": ["test"]
     },
     {
-        "pytanie": "Co to USB?",
-        "pr_odpowiedz": "Personal Computer",
-        "npr_opd": ["Project Coordinator", "Personal Code"]
+    "nr": 1,
+    "strona": "A",
+    "pytanie": "Co to abak?",
+    "pr_odpowiedz": ["starożytna plansza do rachowania"],
+    "npr_opd": ["gra logiczna", "system zapisu nut"]
+    },
+    {
+        "nr": 1,
+        "strona": "A",
+        "pytanie": "Co wyznacza sito Eratostenesa?",
+        "pr_odpowiedz": ["kolejne liczby pierwsze"],
+        "npr_opd": ["kolejne liczby parzyste", "kolejne liczby nieparzyste"]
+    },
+    {
+        "nr": 1,
+        "strona": "A",
+        "pytanie": "Co wyznacza algorytm Euklidesa?",
+        "pr_odpowiedz": ["największy wspólny dzielnik"],
+        "npr_opd": ["najmniejszy wspólny dzielnik", "a do potęgi b"]
+    },
+    {
+        "nr": 1,
+        "strona": "B",
+        "pytanie": "VII.IV.MCCCXCIX to data?",
+        "pr_odpowiedz": ["07.04.1399"],
+        "npr_opd": ["test"]
+    },
+    {
+        "nr": 1,
+        "strona": "B",
+        "pytanie": "W jakim systemie odliczało się używając węzełki na sznurkach (Kipu)?",
+        "pr_odpowiedz": ["systemie pozycyjnym"],
+        "npr_opd": ["systemie topologicznym", "systemie odległości"]
+    },
+    {
+        "nr": 2,
+        "strona": "A",
+        "pytanie": "Z jakiego obszaru wywodzą się liczby arabskie?",
+        "pr_odpowiedz": ["Indie"],
+        "npr_opd": ["Półwysep Arabski", "Afryka Północna"]
+    },
+    {
+        "nr": 2,
+        "strona": "A",
+        "pytanie": "Słowo algorytm pochodzi od nazwiska?",
+        "pr_odpowiedz": ["Muhammad ibn Musa al-Khwarizmi"],
+        "npr_opd": ["Muhammad ibn Zakariya al-Razi", "Pierre Omidyar"]
+    },
+    {
+        "nr": 2,
+        "strona": "A",
+        "pytanie": "Kto wprowadził do powszechnego użytku logarytmy i tablice logarytmiczne?",
+        "pr_odpowiedz": ["John Napier"],
+        "npr_opd": ["Henry Briggs", "Edward Sang"]
+    },
+    {
+        "nr": 2,
+        "strona": "B",
+        "pytanie": "Jak nazywają się w innych krajach liczydła?",
+        "pr_odpowiedz": ["suan-pan(Chiny)", "soroban(Japonia)", "szczoty(Rosja)"],
+        "npr_opd": ["san-gin(Chiny)", "sato(Japonia)", "tabuliczki(Rosja)"]
+    },
+    {
+        "nr": 3,
+        "strona": "A",
+        "pytanie": "W jakim rozwinięciu sumy dwóch składników trójkąt Pascala oblicza współczynniki?",
+        "pr_odpowiedz": ["potęgi"],
+        "npr_opd": ["iloczynu", "logarymu"]
+    },
+    {
+        "nr": 3,
+        "strona": "A",
+        "pytanie": "Kto zbudował żywą ławę do obliczeń?",
+        "pr_odpowiedz": ["Willgodt Theophil Odhner"],
+        "npr_opd": ["Salomon August Andree", "Georg Theodor Chiewitz"]
+    },
+    {
+        "nr": 3,
+        "strona": "A",
+        "pytanie": "Kto zbudował pierwszą maszynę obliczeniową nazwaną zegarem liczącym?",
+        "pr_odpowiedz": ["Wilhelm Schickard"],
+        "npr_opd": ["Willgodt Theophil Odhner", "John Napier"]
+    },
+    {
+        "nr": 3,
+        "strona": "B",
+        "pytanie": "Kto stworzył kalkulator kręciołek?",
+        "pr_odpowiedz": ["Willgodt Theophil Odhner"],
+        "npr_opd": ["Wilhelm Schickard", "Georg Theodor Chiewitz"]
+    },
+    {
+        "nr": 3,
+        "strona": "B",
+        "pytanie": "Jakie mechanizmy były ważne w konstrukcji kalkulatorów mechanicznych",
+        "pr_odpowiedz": ["bębny schodkowe Leibniza", "koło z ruchomymi zębami"],
+        "npr_opd": ["wahadło Schickard", "zapadki klepkowe"]
+    },
+    {
+        "nr": 3,
+        "strona": "B",
+        "pytanie": "Do jakich kalkulacji używano arytmometru (kalkulatora mechanicznego)?",
+        "pr_odpowiedz": ["ubezpieczeniowych"],
+        "npr_opd": ["giełdowych", "wytrzymałościowych"]
+    },
+    {
+        "nr": 4,
+        "strona": "A",
+        "pytanie": "Kto wynalazł karty perforowane?",
+        "pr_odpowiedz": ["Joseph Marie Jacquard"],
+        "npr_opd": ["Daisy Taugelchee", "Monique Demazière"]
+    },
+    {
+        "nr": 4,
+        "strona": "A",
+        "pytanie": "Jak nazywała się pierwsza programistka?",
+        "pr_odpowiedz": ["Ada Augusta Lovelace"],
+        "npr_opd": ["Jean Jennings Bartik", "Frances Snyder Holder"]
+    },
+    {
+        "nr": 4,
+        "strona": "A",
+        "pytanie": "Jaką maszynę zaprojektował Charles Babbage?",
+        "pr_odpowiedz": ["różnicowa", "analityczna ogólnego przeznaczenia"],
+        "npr_opd": ["logarytmizująca", "całkowania szczególnego przeznaczenia"]
+    },
+    {
+        "nr": 4,
+        "strona": "B",
+        "pytanie": "Czy sumator i kalkulator to synonimy?",
+        "pr_odpowiedz": ["nie"],
+        "npr_opd": ["tak"]
+    },
+    {
+        "nr": 4,
+        "strona": "B",
+        "pytanie": "Czy kalkulatory zawsze posiadały pełną klawiaturę?",
+        "pr_odpowiedz": ["nie"],
+        "npr_opd": ["tak"]
+    },
+    {
+        "nr": 5,
+        "strona": "A",
+        "pytanie": "Jak brzmiała pierwsza przesłana kodem Morse'a wiadomość?",
+        "pr_odpowiedz": ["What hath God wrought?", "Co Bóg uczynił?"],
+        "npr_opd": ["Have faith in God.", "Gdzie Bóg, tam wszystko możliwe."]
     }
 ]
