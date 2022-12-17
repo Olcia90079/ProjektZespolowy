@@ -478,8 +478,267 @@
   {
     "nr": 9,
     "strona": "B",
-    "pytanie": "?",
-    "pr_odpowiedz": [ "" ],
-    "npr_opd": [ "", "", "" ]
+    "pytanie": "Czym zajmowała się firma Cray Research?",
+    "pr_odpowiedz": [ "superkomputerami" ],
+    "npr_opd": [ "kompilatorami", "kalkulatorami", "telekomunikacją" ]
+  },
+  {
+    "nr": 9,
+    "strona": "B",
+    "pytanie": "Co symulował superkomputer Earth Simulator?",
+    "pr_odpowiedz": [ "pogodę i zjawiska przyrodnicze" ],
+    "npr_opd": [ "globalną gospodarkę", "przyrost naturalny", "ruch w telekomunikacji" ]
+  },
+  {
+    "nr": 9,
+    "strona": "B",
+    "pytanie": "Jak nazywał się najszybszy superkomuter w 2005?",
+    "pr_odpowiedz": [ "Blue Gene/L" ],
+    "npr_opd": [ "Fugaku", "Earth Simulator", "Summit" ]
+  },
+  {
+    "nr": 10,
+    "strona": "A",
+    "pytanie": "Gdzie pierwszy raz zastosowano przekaźnik?",
+    "pr_odpowiedz": [ "w telegrafie" ],
+    "npr_opd": [ "w telewizorze", "w samochodzie", "w mikrofalówce" ]
+  },
+  {
+    "nr": 10,
+    "strona": "A",
+    "pytanie": "Jak nazywa się który może być przełącznikiem lub wzmacniaczem sygnału?",
+    "pr_odpowiedz": [ "tranzystor" ],
+    "npr_opd": [ "opornik", "dioda", "multimetr" ]
+  },
+  {
+    "nr": 10,
+    "strona": "A",
+    "pytanie": "Jaka jednostka jest blokiem funkcjonalnym mikroprocesora?",
+    "pr_odpowiedz": [ "arytmetyczno-logiczna ALU", "sterowania CU", "rejestr(komórek pamięci)" ],
+    "npr_opd": [ "logarytmiczna", "rejestrowania CPU", "pamięci" ]
+  },
+  {
+    "nr": 10,
+    "strona": "A",
+    "pytanie": "Kto opatentował lampę elektronową?",
+    "pr_odpowiedz": [ "Nikola Tesla" ],
+    "npr_opd": [ "Thomas Edison", "Wilhelm Röntgen", "Édouard-Léon Scott de Martinville" ]
+  },
+  {
+    "nr": 10,
+    "strona": "A",
+    "pytanie": "Kto wynalazł radio?",
+    "pr_odpowiedz": [ "Nikola Tesla" ],
+    "npr_opd": [ "Thomas Edison", "Samuel Morse", "Guglielmo Marconi" ]
+  },
+  {
+    "nr": 10,
+    "strona": "A",
+    "pytanie": "Jack C. Kilby otrzymał Nagrodę Nobla za wynalezienie?",
+    "pr_odpowiedz": [ "układu scalonego" ],
+    "npr_opd": [ "lampy tranzystorowej", "hashowania", "półprzewodnika krzemowego" ]
+  },
+  {
+    "nr": 10,
+    "strona": "A",
+    "pytanie": "W jakiej dziedzinie Jack C. Kilby otrzymał Nagrodę Nobla w 2000 roku?",
+    "pr_odpowiedz": [ "fizyki" ],
+    "npr_opd": [ "matematyki", "biologii", "chemii" ]
+  },
+  {
+    "nr": 10,
+    "strona": "A",
+    "pytanie": "Jak nazywa się prawo: liczba tranzystorów w układzie scalony, podwaja się co 18 miesięcy?",
+    "pr_odpowiedz": [ "prawo Moore'a" ],
+    "npr_opd": [ "prawo Marconi", "prawo Bessel'a", "prawo Hagena" ]
+  },
+  {
+    "nr": 10,
+    "strona": "B",
+    "pytanie": "Jak nazywał się pierwszy elektroniczny kalkulator biurowy?",
+    "pr_odpowiedz": [ "Anita" ],
+    "npr_opd": [ "Agata", "Beata", "Helena" ]
+  },
+  {
+    "nr": 10,
+    "strona": "B",
+    "pytanie": "Jak nazywał się pierwszy w pełni kieszonkowy elektroniczny kalkulator czterodziałowy?",
+    "pr_odpowiedz": [ "BUSICOM LE-120A" ],
+    "npr_opd": [ "ZABACOM LE-120A", "KALCOM LE-120A", "ZUPICOM LE-120A" ]
+  },
+  {
+    "nr": 10,
+    "strona": "B",
+    "pytanie": "Jak nazywał się pierwszy programowalny elektroniczny kalkulator?",
+    "pr_odpowiedz": [ "HP-65" ],
+    "npr_opd": [ "HP-35", "XYZ", "MOORE" ]
+  },
+  {
+    "nr": 10,
+    "strona": "B",
+    "pytanie": "Ile ważył kalkulator elektryczny SHARP Compet CS10A?",
+    "pr_odpowiedz": [ "25kg" ],
+    "npr_opd": [ "5kg", "7kg", "15kg" ]
+  },
+  {
+    "nr": 11,
+    "strona": "A",
+    "pytanie": "Jak nazywał się pierwszy komputer osobisty z graficznym interfejsem użytkownika?",
+    "pr_odpowiedz": [ "XEROX PARC ALTO" ],
+    "npr_opd": [ "PDP-8", "VAX", "LINC" ]
+  },
+  {
+    "nr": 11,
+    "strona": "A",
+    "pytanie": "Jak nazywał się pierwszy wysokopoziomowy język w mikrokomputerach?",
+    "pr_odpowiedz": [ "BASIC" ],
+    "npr_opd": [ "C", "JAVA", "PERL" ]
+  },
+  {
+    "nr": 11,
+    "strona": "A",
+    "pytanie": "Jak nazywał się pierwszy arkusz kalkulacyjny Apple?",
+    "pr_odpowiedz": [ "VISICALC" ],
+    "npr_opd": [ "APPLE II", "CALKAC", "EXCELL" ]
+  },
+  {
+    "nr": 11,
+    "strona": "B",
+    "pytanie": "Erę komputerów osobistych zapoczątkowało wydanie komputera?",
+    "pr_odpowiedz": [ "IBM PC (IBM 5150)" ],
+    "npr_opd": [ "SCAMP", "IBM 5100 Portable Computer", "IBM 1401" ]
+  },
+  {
+    "nr": 11,
+    "strona": "B",
+    "pytanie": "Kiedy rozpoczęła się era komputerów osobistych?",
+    "pr_odpowiedz": [ "1981" ],
+    "npr_opd": [ "1970", "1990", "1937" ]
+  },
+  {
+    "nr": 11,
+    "strona": "B",
+    "pytanie": "Jak nazywał się wynalazca komputerów SPECTRUM?",
+    "pr_odpowiedz": [ "Clive Sinclair" ],
+    "npr_opd": [ "Vannevar Bush", "Charles Babbage", "John Hadley" ]
+  },
+  {
+    "nr": 11,
+    "strona": "B",
+    "pytanie": "Co otrzymał Clive Sinclair za swoje wynalazki od Królowej Brytyjskiej?",
+    "pr_odpowiedz": [ "tytuł szlachecki" ],
+    "npr_opd": [ "dofinansowanie", "ziemie", "medal" ]
+  },
+  {
+    "nr": 11,
+    "strona": "B",
+    "pytanie": "Jak nazywała się sieć polskich komputerów JUNIOR i komputera nauczycielskiego?",
+    "pr_odpowiedz": [ "JUNET" ],
+    "npr_opd": [ "JUNGEN", "JUNIORNET", "JURNET" ]
+  },
+  {
+    "nr": 11,
+    "strona": "B",
+    "pytanie": "Jak nazywał się oficjalnie uznany przez Ministerstwo Oświaty i Szkolnictwa w latach XX polski komputer?",
+    "pr_odpowiedz": [ "ELWRO 800 JUNIOR" ],
+    "npr_opd": [ "XYZ", "ENIGMA 107", "VISICALC" ]
+  },
+  {
+    "nr": 12,
+    "strona": "A",
+    "pytanie": "Nieliniowa i rozproszona organizacja danych połączonych odsyłaczami (linkami) to?",
+    "pr_odpowiedz": [ "hipertekst" ],
+    "npr_opd": [ "hiperlink", "hiperdata", "hipermeta" ]
+  },
+  {
+    "nr": 12,
+    "strona": "A",
+    "pytanie": "Co może zawierać hipermedium?",
+    "pr_odpowiedz": [ "obraz, dźwięk i film" ],
+    "npr_opd": [ "obraz", "dźwięk", "film" ]
+  },
+  {
+    "nr": 12,
+    "strona": "A",
+    "pytanie": "Kto wynalazł myszkę komputerową?",
+    "pr_odpowiedz": [ "Douglas Engelbart" ],
+    "npr_opd": [ "Paul Buchheit", "Ron Watkins", "Mike Krieger" ]
+  },
+  {
+    "nr": 12,
+    "strona": "A",
+    "pytanie": "Kto wynalazł pocztę elektroniczną?",
+    "pr_odpowiedz": [ "Ray Tomlinson" ],
+    "npr_opd": [ "Paul Buchheit", "Ron Watkins", "Douglas Engelbart" ]
+  },
+  {
+    "nr": 12,
+    "strona": "A",
+    "pytanie": "Kto stworzył serwis WWW?",
+    "pr_odpowiedz": [ "Timothy J. Berners-Lee" ],
+    "npr_opd": [ "Vannevar Bush", "Tom linson", "Mike Krieger" ]
+  },
+  {
+    "nr": 12,
+    "strona": "A",
+    "pytanie": "W jakich miastac znajdowały się uczelnie połączone siecią ARPANET?",
+    "pr_odpowiedz": [ "Utah, Santa Barbara, Los Angeles" ],
+    "npr_opd": [ "Utah, Waszyngton, Los Angeles", "Nowy York, Santa Barbara, Los Angeles", "Utah, Santa Barbara, Chicago" ]
+  },
+  {
+    "nr": 12,
+    "strona": "A",
+    "pytanie": "Na jakie części podzieliła się ARPANET?",
+    "pr_odpowiedz": [ "ARPANET i MILNET" ],
+    "npr_opd": [ "ARPANET I i ARPANET II", "ARPACIV i ARPAMIL", "WWW i MILNET" ]
+  },
+  {
+    "nr": 12,
+    "strona": "A",
+    "pytanie": "Kto stworzył protokół TCP/IP?",
+    "pr_odpowiedz": [ "Vinton G. Cerf i Robert E. Kahn" ],
+    "npr_opd": [ "Tom linson i Robert E. Kahn", "Vinton G. Cerf i Paul Buchheit", "Vinton G. Cerf i Timothy J. Berners-Lee" ]
+  },
+  {
+    "nr": 12,
+    "strona": "B",
+    "pytanie": "Jak nazywał się pierwszy poski konstruktor komputerow?",
+    "pr_odpowiedz": [ "Leon Łukaszewicz" ],
+    "npr_opd": [ "Mirosław Dymek", "Jan Pikul", "MArcin Borkowski" ]
+  },
+  {
+    "nr": 12,
+    "strona": "B",
+    "pytanie": "Jak sterowano maszyną analogową ARR?",
+    "pr_odpowiedz": [ "kręcąc gałkami" ],
+    "npr_opd": [ "przesuwając dźwigniami", "tablicami perforowanymi", "za pomocą myszki" ]
+  },
+  {
+    "nr": 12,
+    "strona": "B",
+    "pytanie": "Z jakiego języka symbolicznego korzystała maszyna XYZ?",
+    "pr_odpowiedz": [ "SAS" ],
+    "npr_opd": [ "SUS", "SOS", "ANSYS" ]
+  },
+  {
+    "nr": 12,
+    "strona": "B",
+    "pytanie": "Z jakiego systemu automatycznego kodowania korzystała maszyna ZAM?",
+    "pr_odpowiedz": [ "SAKO" ],
+    "npr_opd": [ "SUKO", "SAKE", "ASYS" ]
+  },
+  {
+    "nr": 12,
+    "strona": "B",
+    "pytanie": "Jakich generacji komputery nosiły w Polsce nazwę ODRA?",
+    "pr_odpowiedz": [ "drugiej i trzeciej" ],
+    "npr_opd": [ "pierwszej i drugiej", "trzeciej i czwartej", "pierwszej i trzeciej" ]
+  },
+  {
+    "nr": 12,
+    "strona": "B",
+    "pytanie": "Jakich nazywała się ostatnia seria komputerów wyprodukowanych przez polski przemysł komputerowy?",
+    "pr_odpowiedz": [ "KOMPUTER JS EMC R-32" ],
+    "npr_opd": [ "KOMPUTER JJ MNE T-22", "KOMPUTER CS AGA T-32", "KOPERNIK JS EMC R-32" ]
   }
 ]
