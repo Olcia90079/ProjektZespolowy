@@ -1,2 +1,19 @@
-<p>{{pytania | json}}</p>
-ssssss
+<button (click)="selectRandomElements(2)">Select Random Elements</button>
+
+<div *ngIf="selected">
+  <div *ngFor="let item of selected">
+    <div class="square">
+      <h2>{{ item.pytanie }}</h2>
+    </div>
+    <div *ngFor="let pr of item.pr_odpowiedz">
+      <div class="square">
+        <p>{{ pr }}</p>
+      </div>
+    </div>
+    <div *ngFor="let npr of item.npr_opd">
+      <div class="square">
+        <p>{{ npr }}</p>
+      </div>
+    </div>
+  </div>
+</div>
