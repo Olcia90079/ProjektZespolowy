@@ -3,10 +3,11 @@
     "",
     "\\HistoriaInformatyki",
     "\\HistoriaInformatyki\\src",
-    "\\HistoriaInformatyki\\src\\assets",
+    "\\HistoriaInformatyki\\src\\app",
+    "\\HistoriaInformatyki\\src\\app\\quiz",
     "\\HistoriaInformatyki\\src\\assets\\docs",
     "\\HistoriaInformatyki\\src\\assets\\docs\\Quiz"
   ],
-  "SelectedNode": "\\HistoriaInformatyki\\src\\assets\\docs\\Quiz\\pytania.json",
+  "SelectedNode": "\\HistoriaInformatyki\\src\\app\\quiz",
   "PreviewInSolutionExplorer": false
 }

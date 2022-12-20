@@ -20,10 +20,10 @@ p {
   width: 100%;
 }
 
-.selected-green {
+.square[question='pr'] {
   background-color: green;
 }
 
-.selected-red {
+.square[question='npr'] {
   background-color: red;
 }

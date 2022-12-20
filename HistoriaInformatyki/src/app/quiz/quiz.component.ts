@@ -37,6 +37,17 @@ export class QuizComponent implements OnInit{
     this.selected = this.getRandomElements(this.pytania, numElements);
   }
 
+  getRandomPosition(questionNumbers: number): number {
+    /*let random = Math.random() * (questionNumbers - 1);*/
+    let random = Math.floor(Math.random() * (questionNumbers));
+    console.log(questionNumbers)
+    return random
+  }
+
+  getCorrectAnswer(item: any) {
+    return this.getRandomElements(item.pr_odpowiedz, 1);
+  }
+
   ngOnInit() {
     this.sendRequest();
   }
