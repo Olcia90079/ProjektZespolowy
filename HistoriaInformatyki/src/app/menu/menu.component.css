@@ -1,0 +1,12 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Style the buttons as desired */
+button {
+  color: white;
+  background-color: #3f51b5;
+  flex: 1; /* This will make the buttons take up equal amounts of space */
+}
