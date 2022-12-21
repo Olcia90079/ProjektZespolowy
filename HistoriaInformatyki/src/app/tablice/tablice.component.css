@@ -15,8 +15,11 @@
   background-color: #eee; /* Add a background color to the paginator */
 }
 
-
-
 .currentBoard {
   margin-bottom: 56px; /* Add a bottom margin equal to the height of the paginator */
+}
+
+.mat-toolbar {
+  display: flex; /* Enable flex layout for the mat-toolbar element */
+  justify-content: center; /* Center the mat-paginator element horizontally within the mat-toolbar element */
 }
