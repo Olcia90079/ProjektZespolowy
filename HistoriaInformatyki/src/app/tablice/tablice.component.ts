@@ -1,6 +1,9 @@
 import { Component, OnInit } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
-import { ActivatedRoute} from '@angular/router';
+import { ActivatedRoute } from '@angular/router';
+import { PageEvent } from '@angular/material/paginator';
+
+
 
 @Component({
   selector: 'app-tablice',
@@ -9,6 +12,10 @@ import { ActivatedRoute} from '@angular/router';
 })
 export class TabliceComponent implements OnInit {
   currentBoard?: string;
+  totalPages = 10;
+  pageSize = 1;
+  pageSizeOptions = [1, 2, 5, 10];
+
 
   constructor(private httpClient: HttpClient,private route: ActivatedRoute) {
       const idtablicy = this.route.snapshot.params['id'];
@@ -21,7 +28,19 @@ export class TabliceComponent implements OnInit {
       }
     )
 
-   }
+  }
+
+  changePage(event: PageEvent) {
+    const pageIndex = event.pageIndex + 1;
+    this.httpClient.get(`assets/docs/Tablice/${pageIndex}.txt`, {
+      responseType: 'text',
+    }).subscribe(
+      (dane) => {
+        this.currentBoard = dane;
+      }
+    );
+  }
+
 
   ngOnInit(): void {
   }

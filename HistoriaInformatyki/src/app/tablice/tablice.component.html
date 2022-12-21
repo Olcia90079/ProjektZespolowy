@@ -1,2 +1,6 @@
-<pre>{{  currentBoard }}</pre>
-
+<div class="container">
+  <pre>{{  currentBoard }}</pre>
+  <mat-toolbar class="paginator">
+    <mat-paginator [length]="totalPages" [pageSize]="pageSize" [pageSizeOptions]="pageSizeOptions" (page)="changePage($event)"></mat-paginator>
+  </mat-toolbar>
+</div>

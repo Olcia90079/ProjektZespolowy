@@ -1,0 +1,22 @@
+.container {
+  display: flex; /* Enable flex layout for the container */
+  flex-direction: column; /* Place child elements in a column */
+  height: 100%; /* Make the container fill the entire window */
+}
+
+.paginator {
+  position: sticky; /* Fix the paginator to the bottom of the visible part of the website */
+  bottom: 0; /* Position the paginator at the bottom of the window */
+  left: 0;
+  right: 0;
+  margin: auto; /* Center the paginator horizontally */
+  text-align: center;
+  z-index: 1; /* Set the z-index to a value higher than the z-index of other elements */
+  background-color: #eee; /* Add a background color to the paginator */
+}
+
+
+
+.currentBoard {
+  margin-bottom: 56px; /* Add a bottom margin equal to the height of the paginator */
+}
