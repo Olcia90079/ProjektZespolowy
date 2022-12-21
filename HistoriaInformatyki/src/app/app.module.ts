@@ -6,12 +6,18 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { TabliceComponent } from './tablice/tablice.component';
 import { QuizComponent } from './quiz/quiz.component';
+import { QuizWelcomeComponent } from './quiz-welcome/quiz-welcome.component';
+import { HomeComponent } from './home/home.component';
+import { MenuComponent } from './menu/menu.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     TabliceComponent,
-    QuizComponent
+    QuizComponent,
+    QuizWelcomeComponent,
+    HomeComponent,
+    MenuComponent
   ],
   imports: [
     BrowserModule,
