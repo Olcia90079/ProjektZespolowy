@@ -1,0 +1,63 @@
+[
+  {
+    "header": "Liczby",
+    "text": "Wiele wieków p.n.e. w Mezopotamii, Sumerowie i Elamici oznaczali cyfry
+    za pomocą kamyków lub glinianych żetonów, a około 3000 lat p.n.e. w charakterze
+    znaków liczbowych zaczęli stosować piktogramy, które były uproszczonymi
+    obrazkami m.in. części ciała, narzędzi i różnych elementów przyrody martwej
+    i ożywionej. Mniej więcej w tym samym czasie, przypadającym na epokę faraonów,
+    również Egipcjanie niezależnie wynaleźli pismo i znaki liczbowe, które podobnie
+    miały postać piktogramów, zwanych hieroglifami, uproszczonych następnie
+    do postaci znaków hieratycznych. Pochodzące z XV wieku p.n.e. znaleziska
+    zapisane znakami hieratycznymi, takie jak Papirus Rhinda (zwany też papirusem
+    Ahmesa, od nazwiska pisarza, który go skopiował ze starszego papirusu) wskazują
+    na wysoki poziom matematyki egipskiej. Potrafiono mnożyć i dzielić liczby całkowite
+    posługując się podwajaniem i dodawaniem – jakby drugi argument działania
+    był przedstawiony w postaci binarnej – posługiwano się również ułamkami,
+    w tym ułamkami o liczniku 1 (znanymi obecnie jako ułamki egipskie). Podobne
+    systemy znaków liczbowych wynalazły niezależnie również inne cywilizacje w innych
+    okresach czasu, m.in. minojska (Kreta, 2200 – 1400 r. p.n.e.) i aztecka (Meksyk,
+    XV wiek n.e.)."
+  },
+  {
+    "header": "Abak",
+    "text": "Największą rolę w rozwoju pierwszych narzędzi służących do obliczeń odegrały
+    kamyki. Kamyk, kamyczek to po łacinie calculus – co brzmi jak rdzeń wielu
+    słów w wielu językach, związanych z obliczeniami, np. kalkulować, gdyż oznacza
+    również rachunek. Początkowo kamyki układano w stosy. Z czasem zaczęto je
+    układać na „planszach”, które służyły do wykonywania obliczeń – były to pierwsze
+    abaki. Mogła to być odpowiednio przygotowana powierzchnia piasku lub kamienia
+    (np. marmuru), na której zaznaczano pionowe lub poziome rowki i w nich
+    układano kamyki – poszczególne rzędy odpowiadały zwykle (np. w starorzymskich
+    abakach) określonej potędze liczby 10. Abaki nie wymagały wprowadzenia
+    zera – odpowiadało mu puste miejsce w rzędzie."
+  },
+  {
+    "header": "Algorytmy",
+    "text": "Można powiedzieć, że algorytm jest zbiorem poleceń wykonywanych dość automatycznie,
+    krok po kroku, aby otrzymać pożądany wynik. Algorytm może
+    występować jako: zbiór zasad, przepis, technika, metoda, procedura, proces itp.
+
+    Wykonujemy często algorytmy nie zdając sobie nawet z tego sprawy. Szczegółowy
+    opis algorytmu może być przekazywany innym do stosowania, dzisiaj wiele algorytmów
+    jest wykonywanych przez komputery.
+    Algorytmami posługiwano się znacznie wcześniej niż wymyślono dla nich nazwę.
+    Już Babilończycy używali algorytmów nie tylko w obliczeniach matematycznych, ale
+    również w innych dziedzinach życia, takich jak stosowanie prawa, nauka gramatyki
+    języka, przewidywanie przyszłości, porady medyczne i przygotowywanie potraw.
+    Wśród osiągnięć matematyków greckich, żyjących w ostatnich pięciu wiekach
+    przed naszą erą, znajdują się przepisy służące do wykonania pewnych obliczeń.
+    Do najpopularniejszych algorytmów, wynalezionych w starożytności należą algorytm
+    Euklidesa i sito Eratostenesa. W obu tych algorytmach obliczenia są wykonywane
+    na liczbach naturalnych, a celem ich działania jest znalezienie pewnych liczb
+    związanych z podzielnością."
+  }
+]
+
+
+
+
+
+
+
+

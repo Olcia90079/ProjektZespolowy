@@ -20,7 +20,7 @@ export class TabliceComponent implements OnInit {
   constructor(private httpClient: HttpClient,private route: ActivatedRoute) {
       const idtablicy = this.route.snapshot.params['id'];
       console.log(idtablicy)
-    this.httpClient.get('assets/docs/Tablice/'+ idtablicy +".txt",  {
+    this.httpClient.get('assets/docs/Tablice/'+ idtablicy +".json",  {
       responseType: 'text',
     }).subscribe(
       (dane) => {
@@ -32,7 +32,7 @@ export class TabliceComponent implements OnInit {
 
   changePage(event: PageEvent) {
     const pageIndex = event.pageIndex + 1;
-    this.httpClient.get(`assets/docs/Tablice/${pageIndex}.txt`, {
+    this.httpClient.get(`assets/docs/Tablice/${pageIndex}.json`, {
       responseType: 'text',
     }).subscribe(
       (dane) => {
