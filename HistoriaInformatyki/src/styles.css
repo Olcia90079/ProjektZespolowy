@@ -2,6 +2,8 @@
 /* @import "~@angular/material/prebuilt-themes/indigo-pink.css"; */
 
 body {
+
+    /* every page has the same background */
     color: white;
 
     background: linear-gradient(182.03deg, #06046A -0.97%, #030316 98.29%);
@@ -10,4 +12,11 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+
+    /* trying to get all items in the center */
+    /* display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    width: 100vw; */
 }
