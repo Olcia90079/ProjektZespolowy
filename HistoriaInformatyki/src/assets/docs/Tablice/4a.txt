@@ -1,77 +1,9 @@
 4a. Wczesne początki komputerów
 
 
-Konstruktor kalkulatora mechamicznego Johann H. Müller, w dodatku
-do opisu swojej maszyny zaproponował nowy typ maszyny, która automatycznie
-obliczałaby ciągi liczb jako sumy różnic otrzymywanych na kilku poziomach, ze
-stałą różnicą na najniższym poziomie. Uzależnił realizację swojego projektu
-od wsparcia finansowego, którego jednak nigdy nie otrzymał i jego projekt nie
-doczekał się nawet próby realizacji. Francuski baron Marie-Riche de Prony
-(1755-1839) pod koniec XVIII wieku nie czekał na maszynę, która wyręczyłaby
-go w pracy, tylko wzorując się na ideach szkockiego ekonomisty Adama Smitha
-zastosował podział pracy i utworzył specjalną „manufakturę logarytmów” dla
-sporządzenia tablic logarytmicznych i trygonometrycznych metodą różnic skończonych.
-W tym celu wynajął 6 wybitnych matematyków (wśród nich był Legendre
-i Carnot) do opracowywania formuł obliczeń, 8 przeszkolonych matematyków
-do przygotowywania poszczególnych etapów obliczeń i 60 rachmistrzów. Ci
-ostatni mieli jedynie dodawać i odejmować. Dzięki temu praca, która zajęłaby
-całe jedno życie, została ukończona w ciągu kilku lat (w 1801 roku).
-Charles Babbage około 1820 roku spotkał barona de Prony, ale wydaje się, że
-podobnie jak baron, nie znał prac Müllera. W swoich działaniach posunął się jednak
-znacznie dalej niż jego poprzednicy i postanowił zbudować maszynę liczącą,
-która mogłaby wyręczyć człowieka i automatycznie wykonywać powtarzające się
-działania, związane z obliczaniem tablic matematycznych (o tym marzył już jako
-student w 1812 roku). Projekt swojej pierwszej maszyny, maszyny różnicowej (ang.
-difference engine) przeznaczonej do obliczania i drukowania tablic matematycznych,
-oparł na metodzie różnic skończonych, której zaletą jest wyeliminowanie
-z obliczeń mnożenia i dzielenia liczb w przypadku obliczania wartości wielomianów.
-Miała to więc być maszyna specjalnego przeznaczenia, której mechanizm miał
-być realizacją matematycznej zasady. Metoda różnicowa znacznie wcześniej została
-wykorzystana zarówno w projekcie maszyny, jak i przy automatyzacji konkretnych
-obliczeń. W 1822 roku ukończył ją i przystąpił do projektowania i realizacji
-dużej maszyny, której obliczenia byłyby wykonywane na różnicach do szóstego poziomu
-i liczbach o dwudziestu cyfrach. W przeciwieństwie do Müllera, Babbage był
-wspierany finansowo z rządowej kasy. Trapiony jednak wieloma kłopotami rodzinnymi
-i finansowymi oraz nie mogąc do końca porozumieć się ze swoim głównym
-wykonawcą-konstruktorem Josephem Clementem, po ponad 10 latach zaprzestał
-dalszych prac nad maszyną różnicową w 1834 roku. Zmontowaną, działającą część
-pierwszej maszyny różnicowej można oglądać w Muzeum Nauk w Londynie. W latach
-1847-1849 Babbage stworzył projekt maszyny różnicowej nr 2, który wiele zawdzięczał
-doświadczeniom zdobytym przy prowadzonych wtedy pracach nad maszyną
-analityczną. Na podstawie tego projektu, w 1991 roku, z okazji 200 rocznicy
-urodzin Babbage’a, w Muzeum Nauk w Londynie zbudowano maszynę różnicową
-nr 2 według oryginalnego projektu.
-W odróżnieniu od maszyn Pascala, Leibniza i innych, po ręcznym ustawieniu
-początkowego stanu, dalsze działania maszyny różnicowej Babbage’a nie wymagają
-już żadnej ingerencji użytkownika poza kręceniem korbą.
-Babbage nie poprzestał na próbie skonstruowania maszyny różnicowej, która
-z założenia była przeznaczona tylko do specjalnych obliczeń. W 1834 roku, jeszcze
-w trakcie prac nad maszyną różnicową, przedstawił pomysł zbudowania maszyny
-analitycznej (ang. analitycal engine). Było to przedsięwzięcie czysto abstrakcyjne –
-przewidywane przeszkody techniczne i trudności finansowe nie pozwoliły nawet
-na rozpoczęcie prac konstrukcyjnych (po śmierci Babbage’a, projekty maszyny analitycznej
-odziedziczył jego syn Henry, który na ich podstawie skonstruował tzw. młyn
-maszyny, odpowiadający jednostce liczącej w dzisiejszych komputerach; projekty
-maszyny analitycznej i prototyp młyna są przechowywane w Muzeum Nauk w Londynie).
-W swoim projekcie Babbage zawarł jednak wiele pomysłów zrealizowanych
-dopiero we współczesnych komputerach – projekt maszyny analitycznej zawiera bowiem
-podstawowe elementy logiki współczesnych komputerów. Między innymi rozdzielił
-pamięć (zwaną magazynem – ang. store) od jednostki liczącej (młyna – ang.
-mill), czyli miejsce przechowywania danych od jednostki wykonującej na nich działania.
-Obie te części maszyny analitycznej miały być sterowane za pomocą dodatkowego
-urządzenia kontrolnego, które otrzymywało polecenia na kartach perforowanych,
-połączonych w pętlę, udoskonalonych i rozpowszechnionych przez Josepha
-Marie Jacquarda do programowania maszyn tkackich. Jej konstruktor przewidywał,
-że będzie dodawać dwie liczby kilkudziesięciocyfrowe w ciągu 3 sekund, a mnożyć –
-w ciągu 2-4 minut. Maszynę analityczną Babbege'a można uznać za pierwszy pomysł
-kalkulatora sterowanego programem zewnętrznym (na kartach).
-Opis działania maszyny analitycznej trafił w ręce Ady Augusty Lovelace, córki
-Byrona, znanej z błyskotliwego umysłu. Urzeczona doskonałością projektu uważała,
-że „maszyna analityczna tkać będzie wzory algebraiczne, tak jak krosna Jacquarda
-tkają liście i kwiaty”, chociaż była również realistką twierdząc, że „maszyna
-analityczna nie ma ambicji wynalezienia czegokolwiek”. Nie czekając na skonstruowanie
-maszyny (czego jak wiemy i tak by się nie doczekała), Ada zajęła się sporządzaniem
-opisów jej używania do rozwiązywania konkretnych zadań obliczeniowych.
-Opisy te nazwalibyśmy dzisiaj programami, dlatego uważa się ją za pierwszą
-programistkę komputerów. Dla uczczenia zasług Ady na tym polu nazwano jej
-imieniem jeden z najbardziej uniwersalnych języków programowania.
+Konstruktor kalkulatora mechamicznego Johann H. Müller, w dodatku do opisu swojej maszyny zaproponował nowy typ maszyny, która automatycznie obliczałaby ciągi liczb jako sumy różnic otrzymywanych na kilku poziomach, ze stałą różnicą na najniższym poziomie. Uzależnił realizację swojego projektu od wsparcia finansowego, którego jednak nigdy nie otrzymał i jego projekt nie doczekał się nawet próby realizacji. Francuski baron Marie-Riche de Prony (1755-1839) pod koniec XVIII wieku nie czekał na maszynę, która wyręczyłaby go w pracy, tylko wzorując się na ideach szkockiego ekonomisty Adama Smitha zastosował podział pracy i utworzył specjalną „manufakturę logarytmów” dla sporządzenia tablic logarytmicznych i trygonometrycznych metodą różnic skończonych. W tym celu wynajął 6 wybitnych matematyków (wśród nich był Legendre i Carnot) do opracowywania formuł obliczeń, 8 przeszkolonych matematyków do przygotowywania poszczególnych etapów obliczeń i 60 rachmistrzów. Ci ostatni mieli jedynie dodawać i odejmować. Dzięki temu praca, która zajęłaby całe jedno życie, została ukończona w ciągu kilku lat (w 1801 roku).
+Charles Babbage około 1820 roku spotkał barona de Prony, ale wydaje się, że podobnie jak baron, nie znał prac Müllera. W swoich działaniach posunął się jednak znacznie dalej niż jego poprzednicy i postanowił zbudować maszynę liczącą, która mogłaby wyręczyć człowieka i automatycznie wykonywać powtarzające się działania, związane z obliczaniem tablic matematycznych (o tym marzył już jako student w 1812 roku). Projekt swojej pierwszej maszyny, maszyny różnicowej (ang. difference engine) przeznaczonej do obliczania i drukowania tablic matematycznych, oparł na metodzie różnic skończonych, której zaletą jest wyeliminowanie z obliczeń mnożenia i dzielenia liczb w przypadku obliczania wartości wielomianów. Miała to więc być maszyna specjalnego przeznaczenia, której mechanizm miał być realizacją matematycznej zasady. Metoda różnicowa znacznie wcześniej została wykorzystana zarówno w projekcie maszyny, jak i przy automatyzacji konkretnych obliczeń. W 1822 roku ukończył ją i przystąpił do projektowania i realizacji dużej maszyny, której obliczenia byłyby wykonywane na różnicach do szóstego poziomu i liczbach o dwudziestu cyfrach. W przeciwieństwie do Müllera, Babbage był wspierany finansowo z rządowej kasy. Trapiony jednak wieloma kłopotami rodzinnymi i finansowymi oraz nie mogąc do końca porozumieć się ze swoim głównym wykonawcą-konstruktorem Josephem Clementem, po ponad 10 latach zaprzestał dalszych prac nad maszyną różnicową w 1834 roku. Zmontowaną, działającą część pierwszej maszyny różnicowej można oglądać w Muzeum Nauk w Londynie. W latach 1847-1849 Babbage stworzył projekt maszyny różnicowej nr 2, który wiele zawdzięczał doświadczeniom zdobytym przy prowadzonych wtedy pracach nad maszyną analityczną. Na podstawie tego projektu, w 1991 roku, z okazji 200 rocznicy urodzin Babbage’a, w Muzeum Nauk w Londynie zbudowano maszynę różnicową nr 2 według oryginalnego projektu.
+W odróżnieniu od maszyn Pascala, Leibniza i innych, po ręcznym ustawieniu początkowego stanu, dalsze działania maszyny różnicowej Babbage’a nie wymagają już żadnej ingerencji użytkownika poza kręceniem korbą. Babbage nie poprzestał na próbie skonstruowania maszyny różnicowej, która z założenia była przeznaczona tylko do specjalnych obliczeń. W 1834 roku, jeszcze w trakcie prac nad maszyną różnicową, przedstawił pomysł zbudowania maszyny analitycznej (ang. analitycal engine). Było to przedsięwzięcie czysto abstrakcyjne – przewidywane przeszkody techniczne i trudności finansowe nie pozwoliły nawet na rozpoczęcie prac konstrukcyjnych (po śmierci Babbage’a, projekty maszyny analitycznej odziedziczył jego syn Henry, który na ich podstawie skonstruował tzw. młyn maszyny, odpowiadający jednostce liczącej w dzisiejszych komputerach; projekty maszyny analitycznej i prototyp młyna są przechowywane w Muzeum Nauk w Londynie).
+W swoim projekcie Babbage zawarł jednak wiele pomysłów zrealizowanych dopiero we współczesnych komputerach – projekt maszyny analitycznej zawiera bowiem podstawowe elementy logiki współczesnych komputerów. Między innymi rozdzielił pamięć (zwaną magazynem – ang. store) od jednostki liczącej (młyna – ang. mill), czyli miejsce przechowywania danych od jednostki wykonującej na nich działania.
+Obie te części maszyny analitycznej miały być sterowane za pomocą dodatkowego urządzenia kontrolnego, które otrzymywało polecenia na kartach perforowanych, połączonych w pętlę, udoskonalonych i rozpowszechnionych przez Josepha Marie Jacquarda do programowania maszyn tkackich. Jej konstruktor przewidywał, że będzie dodawać dwie liczby kilkudziesięciocyfrowe w ciągu 3 sekund, a mnożyć – w ciągu 2-4 minut. Maszynę analityczną Babbege'a można uznać za pierwszy pomysł kalkulatora sterowanego programem zewnętrznym (na kartach).
+Opis działania maszyny analitycznej trafił w ręce Ady Augusty Lovelace, córki Byrona, znanej z błyskotliwego umysłu. Urzeczona doskonałością projektu uważała, że „maszyna analityczna tkać będzie wzory algebraiczne, tak jak krosna Jacquarda tkają liście i kwiaty”, chociaż była również realistką twierdząc, że „maszyna analityczna nie ma ambicji wynalezienia czegokolwiek”. Nie czekając na skonstruowanie maszyny (czego jak wiemy i tak by się nie doczekała), Ada zajęła się sporządzaniem opisów jej używania do rozwiązywania konkretnych zadań obliczeniowych. Opisy te nazwalibyśmy dzisiaj programami, dlatego uważa się ją za pierwszą programistkę komputerów. Dla uczczenia zasług Ady na tym polu nazwano jej imieniem jeden z najbardziej uniwersalnych języków programowania.
