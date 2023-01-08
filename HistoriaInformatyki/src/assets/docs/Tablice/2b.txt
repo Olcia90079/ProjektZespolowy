@@ -3,45 +3,11 @@
 
 Abaki, liczydła
 
-Największą rolę w rozwoju pierwszych narzędzi służących do obliczeń odegrały
-kamyki. Kamyk, kamyczek to po łacinie calculus – co brzmi jak rdzeń wielu słów
-w wielu językach, związanych z obliczeniami, np. kalkulować, gdyż oznacza również
-rachunek. Początkowo kamyki układano w stosy. Z czasem zaczęto je układać
-na „planszach”, które służyły do wykonywania obliczeń – były to pierwsze abaki.
-Mogła to być odpowiednio przygotowana powierzchnia piasku lub kamienia (np.
-marmuru), na której zaznaczano pionowe lub poziome rowki i w nich układano kamyki
-– poszczególne rzędy odpowiadały zwykle (np. w starorzymskich abakach)
-określonej potędze liczby 10. Abaki nie wymagały wprowadzenia zera – odpowiadało
-mu puste miejsce w rzędzie. Z czasem abaki stały się przenośne dzięki zmniejszeniu
-ich wielkości – przykładem jest tutaj abak z Salamis (V – IV w. p.n.e.). Później
-wprowadzono pręty, na które nawlekano żetony zrobione z różnych materiałów,
-co umożliwiało utrzymywanie ich w odpowiednich miejscach względem siebie,
-stan obliczeń w abakach określa bowiem rozmieszczenie elementów ruchomych
-(kamieni, żetonów) na piasku lub na prętach. Abaki rozwinęły się niezależnie
-w różnych częściach świata, istnieje wiele różnych ich odmian i na ogół są znane
-pod swoimi lokalnymi nazwami. W Chinach jest to suan-pan, w Rosji – szczoty (wynalezione
-w XVII wieku), a w Japonii – soroban.
-Współczesne abaki stosowane w Polsce, jak również różne ich odmiany używane
-w innych krajach, są nazywane liczydłami. W wielu krajach liczydła były powszechnie
-stosowane jeszcze w drugiej połowie XX wieku i do dzisiaj np. w Japonii i w Rosji nie
-całkowicie zostały wyparte przez kalkulatory elektroniczne. W Japonii, uznawanej
-za kraj powszechnej elektronizacji, soroban jest nadal wykorzystywany w małych sklepikach
-rodzinnych oraz w niektórych urzędach (np. na poczcie) i zapoznają się z jego
-stosowaniem dzieci w szkołach.
+Największą rolę w rozwoju pierwszych narzędzi służących do obliczeń odegrały kamyki. Kamyk, kamyczek to po łacinie calculus – co brzmi jak rdzeń wielu słów w wielu językach, związanych z obliczeniami, np. kalkulować, gdyż oznacza również rachunek. Początkowo kamyki układano w stosy. Z czasem zaczęto je układać na „planszach”, które służyły do wykonywania obliczeń – były to pierwsze abaki.
+Mogła to być odpowiednio przygotowana powierzchnia piasku lub kamienia (np. marmuru), na której zaznaczano pionowe lub poziome rowki i w nich układano kamyki – poszczególne rzędy odpowiadały zwykle (np. w starorzymskich abakach) określonej potędze liczby 10. Abaki nie wymagały wprowadzenia zera – odpowiadało mu puste miejsce w rzędzie. Z czasem abaki stały się przenośne dzięki zmniejszeniu ich wielkości – przykładem jest tutaj abak z Salamis (V – IV w. p.n.e.). Później wprowadzono pręty, na które nawlekano żetony zrobione z różnych materiałów, co umożliwiało utrzymywanie ich w odpowiednich miejscach względem siebie, stan obliczeń w abakach określa bowiem rozmieszczenie elementów ruchomych (kamieni, żetonów) na piasku lub na prętach. Abaki rozwinęły się niezależnie w różnych częściach świata, istnieje wiele różnych ich odmian i na ogół są znane pod swoimi lokalnymi nazwami. W Chinach jest to suan-pan, w Rosji – szczoty (wynalezione w XVII wieku), a w Japonii – soroban.
+Współczesne abaki stosowane w Polsce, jak również różne ich odmiany używane w innych krajach, są nazywane liczydłami. W wielu krajach liczydła były powszechnie stosowane jeszcze w drugiej połowie XX wieku i do dzisiaj np. w Japonii i w Rosji nie całkowicie zostały wyparte przez kalkulatory elektroniczne. W Japonii, uznawanej za kraj powszechnej elektronizacji, soroban jest nadal wykorzystywany w małych sklepikach rodzinnych oraz w niektórych urzędach (np. na poczcie) i zapoznają się z jego stosowaniem dzieci w szkołach.
 
 
 Suwak logarytmiczny
 
-Krótko po wynalezieniu logarytmów, w 1624 roku matematyk angielski
-Edmund Gunter (1581 – 1626) opisał linijkę logarytmiczną, czyli linijkę ze skalą logarytmiczną.
-W 1632 roku inny matematyk angielski William Oughtred (1575-
-1660), skonstruował pierwszy suwak logarytmiczny w postaci walca (ang. Circle of
-Proportion), a dwa lata później wykorzystał dwie linijki Guntera do zbudowania
-suwaka logarytmicznego w postaci dwóch przesuwających się wzdłuż siebie linijek
-logarytmicznych, co umożliwiło wykonywanie mnożeń i dzieleń za pomocą dodawań
-i odejmowań.
-Suwak logarytmiczny jest przykładem analogowego narzędzia matematycznego
-(obliczeniowego), w którym wielkości występujące w obliczeniach i wyniki obliczeń
-określa się na podstawie pomiarów długości odpowiednich odcinków. Innym przykładem
-urządzenia analogowego jest tradycyjny zegarek ze wskazówkami – położenie
-wskazówek i wielkość kąta między nimi określają godziny i minuty.
+Krótko po wynalezieniu logarytmów, w 1624 roku matematyk angielski Edmund Gunter (1581 – 1626) opisał linijkę logarytmiczną, czyli linijkę ze skalą logarytmiczną. W 1632 roku inny matematyk angielski William Oughtred (1575 - 1660), skonstruował pierwszy suwak logarytmiczny w postaci walca (ang. Circle of Proportion), a dwa lata później wykorzystał dwie linijki Guntera do zbudowania suwaka logarytmicznego w postaci dwóch przesuwających się wzdłuż siebie linijek logarytmicznych, co umożliwiło wykonywanie mnożeń i dzieleń za pomocą dodawań i odejmowań. Suwak logarytmiczny jest przykładem analogowego narzędzia matematycznego (obliczeniowego), w którym wielkości występujące w obliczeniach i wyniki obliczeń określa się na podstawie pomiarów długości odpowiednich odcinków. Innym przykładem urządzenia analogowego jest tradycyjny zegarek ze wskazówkami – położenie wskazówek i wielkość kąta między nimi określają godziny i minuty.
