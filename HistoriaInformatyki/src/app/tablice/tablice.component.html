@@ -1,6 +1,13 @@
 <div class="container">
-  <pre>{{  currentBoard }}</pre>
-  <mat-toolbar class="paginator">
-    <mat-paginator [length]="totalPages" [pageSize]="pageSize" [pageSizeOptions]="pageSizeOptions" (page)="changePage($event)"></mat-paginator>
-  </mat-toolbar>
+  <pre>{{ currentBoard }}</pre>
+
+  <!-- strzałki nawigacyjne -->
+  <div class="arrows">
+    <div (click)="previousTextFile()" class="left-arrow">&lt;</div>
+    <div (click)="nextTextFile()" class="right-arrow">&gt;</div>
+  </div>
+  
+  <!-- <mat-toolbar class="paginator">
+    <mat-paginator [length]="12" [pageSize]="1" [pageSizeOptions]="pageSizeOptions" (page)="changePage($event)"></mat-paginator>
+  </mat-toolbar> -->
 </div>

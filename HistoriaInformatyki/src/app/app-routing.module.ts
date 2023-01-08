@@ -11,7 +11,7 @@ const routes: Routes = [
   { path: 'tablica/:id', component: TabliceComponent },
   { path: 'quiz-welcome', component: QuizWelcomeComponent },
   { path: 'quiz', component: QuizComponent },
-  { path: 'tablica', redirectTo: 'tablica/1a' }
+  { path: 'tablica', redirectTo: 'tablica/0' }
 ];
 
 @NgModule({
