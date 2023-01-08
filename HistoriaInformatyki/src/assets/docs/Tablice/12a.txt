@@ -1,39 +1,16 @@
 12a. Internet
 
 
-Za poprzedniczki sieci komputerowych należy uznać wcześniejsze sieci telegra-
-ficzne i sieci telefoniczne. Największymi kompaniami, oferującymi połączenia tymi
-sieciami, były w USA Western Union i AT&T.
-Pomysły łączenia ze sobą komputerów by ich użytkownicy mogli komunikować
-się ze sobą pojawiały się już we wczesnym okresie ich budowania, w latach 50.
-XX wieku.
-Na początku komunikację między komputerami zapewniały Interface Message
-Processors (IMP), zbudowane przez firmę Bolt Beranek and Newman, Inc.
-(BBN). W 1970 roku N. Abramson z Uniwersytetu na Hawajach zbudował pierw-
-szą radiową sieć pakietową ALOHAnet, która w 1972 roku została przyłączona
-do ARPANET.
-Pierwsze teoretyczne podstawy sieci komputerowych stworzyli na początku lat
-60. XX wieku L. Kleinrock (MIT, 1961) – opublikował pierwszą pracę na temat sie-
-ci pakietowych; J. C. R. Licklider i W. Clark (MIT i BBN, 1962) – opisali „sieć ga-
-laktyczną” (ang. Galactic Network), której realizacją jest obecny Internet; P. Baran
-(RAND, 1964) – przedstawił koncepcję sieci rozproszonej, bez centralnego punk-
-tu zarządzania; L. G. Roberts (MIT, 1966) – przedstawił pierwszy projekt sieci AR-
-PANET; D. W. Davies (NPL Anglia, 1967) – nadzorował uruchomienie pierwszej
-eksperymentalnej sieci pakietowej w NPL (ang. National Physical Laboratory)
-w Anglii, wprowadził określenie pakiet.
-Działanie sieci ARPANET i obecnie Internetu opiera się na przesyłaniu pakie-
-tów informacji. Dane lub informacje są formowane w pakiety, które następnie nie-
-zależnie krążą w sieci, by wreszcie osiągnąć punkt przeznaczenia. Połączeniami ko-
-munikacyjnymi może być jednocześnie przekazywanych wiele pakietów.
-W 1973 roku określono specyfikację i zaimplementowano protokół przesyłania
-plików FTP (ang. File Transfer Protocol) w sieci ARPANET, a także protokół komu-
-nikacji głosowej w sieci NVP (ang. Network Voice Protocol). Obecnie najczęściej wy-
-korzystywanymi usługami w sieci Internet są poczta elektroniczna i serwis (sieć)
-WWW. Serwis WWW jest realizowany w sieci WWW, funkcjonującej na bazie sie-
-ci Internet i składającej się z serwerów stron, zrealizowanych w postaci hipertekstu,
-przybierającego coraz częściej postać hipermediów.
+Za poprzedniczki sieci komputerowych należy uznać wcześniejsze sieci telegraficzne i sieci telefoniczne. Największymi kompaniami, oferującymi połączenia tymi sieciami, były w USA Western Union i AT&T. Pomysły łączenia ze sobą komputerów by ich użytkownicy mogli komunikować się ze sobą pojawiały się już we wczesnym okresie ich budowania, w latach 50. XX wieku.
+
+Na początku komunikację między komputerami zapewniały Interface Message Processors (IMP), zbudowane przez firmę Bolt Beranek and Newman, Inc. (BBN). W 1970 roku N. Abramson z Uniwersytetu na Hawajach zbudował pierwszą radiową sieć pakietową ALOHAnet, która w 1972 roku została przyłączona do ARPANET.
+
+Pierwsze teoretyczne podstawy sieci komputerowych stworzyli na początku lat 60. XX wieku L. Kleinrock (MIT, 1961) – opublikował pierwszą pracę na temat sieci pakietowych; J. C. R. Licklider i W. Clark (MIT i BBN, 1962) – opisali „sieć galaktyczną” (ang. Galactic Network), której realizacją jest obecny Internet; P. Baran (RAND, 1964) – przedstawił koncepcję sieci rozproszonej, bez centralnego punktu zarządzania; L. G. Roberts (MIT, 1966) – przedstawił pierwszy projekt sieci ARPANET; D. W. Davies (NPL Anglia, 1967) – nadzorował uruchomienie pierwszej eksperymentalnej sieci pakietowej w NPL (ang. National Physical Laboratory) w Anglii, wprowadził określenie pakiet.
+
+Działanie sieci ARPANET i obecnie Internetu opiera się na przesyłaniu pakietów informacji. Dane lub informacje są formowane w pakiety, które następnie niezależnie krążą w sieci, by wreszcie osiągnąć punkt przeznaczenia. Połączeniami komunikacyjnymi może być jednocześnie przekazywanych wiele pakietów. W 1973 roku określono specyfikację i zaimplementowano protokół przesyłania plików FTP (ang. File Transfer Protocol) w sieci ARPANET, a także protokół komunikacji głosowej w sieci NVP (ang. Network Voice Protocol). Obecnie najczęściej wykorzystywanymi usługami w sieci Internet są poczta elektroniczna i serwis (sieć) WWW. Serwis WWW jest realizowany w sieci WWW, funkcjonującej na bazie sieci Internet i składającej się z serwerów stron, zrealizowanych w postaci hipertekstu, przybierającego coraz częściej postać hipermediów.
+
 1968 – The Rand Corp. przedstawia zdecentralizowaną sieć ARPA
-1969 – Departament Obrony USA tworzy ARPANET do badaƒ nad sieciami; 4
-węzły sieci rozpoczynają działanie: UCLA, UC Santa Barbara, SRI, the University
-of Utah
+
+1969 – Departament Obrony USA tworzy ARPANET do badaƒ nad sieciami; 4 węzły sieci rozpoczynają działanie: UCLA, UC Santa Barbara, SRI, the University of Utah
+
 1970 – powstanie protokołu TCP/IP
