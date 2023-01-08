@@ -37,7 +37,7 @@ pre {
 
 .arrows {
   width: 100%;
-  position: absolute;
+  position: fixed;
   top: 50%;
   transform: translateY(-50%);
 }

@@ -50,7 +50,7 @@ export class TabliceComponent implements OnInit {
 
   nextTextFile() {
     if (this.index < this.spisTablic.length - 1) {
-      this.router.navigate(['/tablica', this.index + 1]);
+      this.router.navigate(['/tablica', ++this.index]);
     } else {
       this.router.navigate(['/tablica', 0]);
     }
