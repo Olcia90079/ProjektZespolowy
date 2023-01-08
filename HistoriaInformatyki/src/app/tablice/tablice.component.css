@@ -18,14 +18,45 @@
   margin-left: auto;
 }
 
-pre {
-  margin-left: 5px;
-  margin-right: 5px;
+.topbar {
+  width: 100%;
+  height: 20%;
+  border-radius: 10px;
 
+  background-color: #162054;
+}
+
+pre {
   white-space:break-spaces;
 
-  width: 100%;
+  width: 90%;
   font-family: 'Roboto', sans-serif;
+}
+
+/* Sekcja dot strzałek nawigacyjnych */
+
+.arrows {
+  width: 100%;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.left-arrow,
+.right-arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.left-arrow {
+  left: 0;
+}
+
+.right-arrow {
+  right: 0;
 }
 
 /* .paginator { */
