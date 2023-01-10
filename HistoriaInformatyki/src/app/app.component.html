@@ -1,9 +1,11 @@
-<div style="text-align:center">
+<div class="main-contener">
+    <div class="logo-title">
 
-    <img src="/app/assets/docs/Menu/Vector.jpg"/>
-    {{ title }}
-    
+        <img src="assets\docs\Menu\Vector.png" />
+        <h1>{{ title }}</h1>
+
+    </div>
+
+    <app-menu></app-menu>
+    <router-outlet></router-outlet>
 </div>
-
-<app-menu></app-menu>
-<router-outlet></router-outlet>
