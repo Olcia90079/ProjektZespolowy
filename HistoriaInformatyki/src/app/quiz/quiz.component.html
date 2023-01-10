@@ -1,15 +1,9 @@
-<!--<button (click)="selectRandomElements(4)">Select Random Elements</button>-->
+<button (click)="next()">Select Random Elements</button>
 
-<div *ngIf="questions">
-  <div *ngFor="let item of questions">
+<div *ngIf="questions[active_question] as item">
     <div class="square">
       <h2>{{ item.pytanie }}</h2>
     </div>
-    <!--<div *ngFor="let pr of item.pr_odpowiedz">
-      <div class="square">
-        <p>{{ pr }}</p>
-      </div>
-    </div>-->
 
   <div *ngIf="{ randomPositon: getRandomPosition(item.npr_odp.length) } as variable">
     <div *ngFor="let npr of item.npr_odp; index as i">
@@ -26,4 +20,3 @@
   </div>
 
 </div>
-  </div>

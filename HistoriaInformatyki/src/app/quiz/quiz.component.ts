@@ -15,10 +15,10 @@ interface QuizzQuestion {
   templateUrl: './quiz.component.html',
   styleUrls: ['./quiz.component.css']
 })
-export class QuizComponent implements OnInit{
+export class QuizComponent implements OnInit {
   questions: QuizzQuestion[] = [];
   selected: string[] = [];
-  active_question?: QuizzQuestion;
+  active_question: number = 0;
 
   constructor(private http: HttpClient) { }
 
@@ -58,5 +58,18 @@ export class QuizComponent implements OnInit{
 
   getCorrectAnswer(item: any) {
     return this.getRandomElements(item.pr_odpowiedz, 1);
+  }
+
+  next() {
+    if (this.active_question + 1 <= this.questions.length) {
+      this.active_question += 1;
+    }
+
+  }
+
+  previous() {
+    if (this.active_question - 1 <= this.questions.length) {
+      this.active_question += 1;
+    }
   }
 }
