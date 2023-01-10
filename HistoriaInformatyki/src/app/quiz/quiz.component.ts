@@ -1,6 +1,14 @@
 import { HttpClient } from '@angular/common/http';
 import { Component, OnInit } from '@angular/core';
 
+interface QuizzQuestion {
+  nr: number;
+  strona: string;
+  pytanie: string;
+  pr_odpowiedz: string[];
+  npr_odp: string[];
+}
+
 
 @Component({
   selector: 'app-quiz',
@@ -8,14 +16,19 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./quiz.component.css']
 })
 export class QuizComponent implements OnInit{
-  pytania: any;
-  selected: any[] = [];
+  questions: QuizzQuestion[] = [];
+  selected: string[] = [];
+  active_question?: QuizzQuestion;
 
   constructor(private http: HttpClient) { }
 
-  sendRequest() {
-    this.http.get('assets/docs/Quiz/pytania.json', {responseType: 'json'}).subscribe(response => {
-      this.pytania = response;
+  ngOnInit() {
+    this.sendRequest();
+  }
+
+  private sendRequest() {
+    this.http.get<QuizzQuestion[]>('assets/docs/Quiz/pytania.json').subscribe(response => {
+      this.questions = this.selectRandomElements(5, response);
     })
   }
 
@@ -33,12 +46,11 @@ export class QuizComponent implements OnInit{
     return copy.slice(0, numElements);
   }
 
-  selectRandomElements(numElements: number) {
-    this.selected = this.getRandomElements(this.pytania, numElements);
+  selectRandomElements(numElements: number, questions: QuizzQuestion[]) {
+    return this.getRandomElements(questions, numElements);
   }
 
   getRandomPosition(questionNumbers: number): number {
-    /*let random = Math.random() * (questionNumbers - 1);*/
     let random = Math.floor(Math.random() * (questionNumbers));
     console.log(questionNumbers)
     return random
@@ -46,9 +58,5 @@ export class QuizComponent implements OnInit{
 
   getCorrectAnswer(item: any) {
     return this.getRandomElements(item.pr_odpowiedz, 1);
-  }
-
-  ngOnInit() {
-    this.sendRequest();
   }
 }

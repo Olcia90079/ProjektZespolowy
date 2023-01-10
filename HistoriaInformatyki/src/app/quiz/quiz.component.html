@@ -1,7 +1,7 @@
-<button (click)="selectRandomElements(2)">Select Random Elements</button>
+<!--<button (click)="selectRandomElements(4)">Select Random Elements</button>-->
 
-<div *ngIf="selected">
-  <div *ngFor="let item of selected">
+<div *ngIf="questions">
+  <div *ngFor="let item of questions">
     <div class="square">
       <h2>{{ item.pytanie }}</h2>
     </div>
@@ -26,3 +26,4 @@
   </div>
 
 </div>
+  </div>
