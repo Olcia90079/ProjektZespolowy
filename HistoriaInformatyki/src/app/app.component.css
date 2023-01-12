@@ -1,0 +1,15 @@
+img {
+  /* max-width: 100%;
+  height: auto; */
+}
+
+.main-contener {
+  display: flex;
+  flex-direction: column;
+}
+
+.logo-title {
+  display: flex;
+  justify-content: space-between;
+  font-family: Roboto, sans-serif;
+}
