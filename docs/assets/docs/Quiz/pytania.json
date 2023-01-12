@@ -1,0 +1,744 @@
+[
+  {
+      "nr": 0,
+      "strona": "0",
+      "pytanie": "test",
+      "pr_odpowiedz": ["test"],
+      "npr_odp": ["test"]
+  },
+  {
+  "nr": 1,
+  "strona": "A",
+  "pytanie": "Co to abak?",
+  "pr_odpowiedz": ["starożytna plansza do rachowania"],
+  "npr_odp": ["gra logiczna", "system zapisu nut"]
+  },
+  {
+      "nr": 1,
+      "strona": "A",
+      "pytanie": "Co wyznacza sito Eratostenesa?",
+      "pr_odpowiedz": ["kolejne liczby pierwsze"],
+      "npr_odp": ["kolejne liczby parzyste", "kolejne liczby nieparzyste"]
+  },
+  {
+      "nr": 1,
+      "strona": "A",
+      "pytanie": "Co wyznacza algorytm Euklidesa?",
+      "pr_odpowiedz": ["największy wspólny dzielnik"],
+      "npr_odp": ["najmniejszy wspólny dzielnik", "a do potęgi b"]
+  },
+  {
+      "nr": 1,
+      "strona": "B",
+      "pytanie": "VII.IV.MCCCXCIX to data?",
+      "pr_odpowiedz": ["07.04.1399"],
+    "npr_odp": [ "07.06.1390", "03.04.1899" ]
+  },
+  {
+      "nr": 1,
+      "strona": "B",
+      "pytanie": "W jakim systemie odliczało się używając węzełki na sznurkach (Kipu)?",
+      "pr_odpowiedz": ["systemie pozycyjnym"],
+      "npr_odp": ["systemie topologicznym", "systemie odległości"]
+  },
+  {
+      "nr": 2,
+      "strona": "A",
+      "pytanie": "Z jakiego obszaru wywodzą się liczby arabskie?",
+      "pr_odpowiedz": ["Indie"],
+      "npr_odp": ["Półwysep Arabski", "Afryka Północna"]
+  },
+  {
+      "nr": 2,
+      "strona": "A",
+      "pytanie": "Słowo algorytm pochodzi od nazwiska?",
+      "pr_odpowiedz": ["Muhammad ibn Musa al-Khwarizmi"],
+      "npr_odp": ["Muhammad ibn Zakariya al-Razi", "Pierre Omidyar"]
+  },
+  {
+      "nr": 2,
+      "strona": "A",
+      "pytanie": "Kto wprowadził do powszechnego użytku logarytmy i tablice logarytmiczne?",
+      "pr_odpowiedz": ["John Napier"],
+      "npr_odp": ["Henry Briggs", "Edward Sang"]
+  },
+  {
+      "nr": 2,
+      "strona": "B",
+      "pytanie": "Jak nazywają się w innych krajach liczydła?",
+      "pr_odpowiedz": ["suan-pan(Chiny)", "soroban(Japonia)", "szczoty(Rosja)"],
+      "npr_odp": ["san-gin(Chiny)", "sato(Japonia)", "tabuliczki(Rosja)"]
+  },
+  {
+      "nr": 3,
+      "strona": "A",
+      "pytanie": "W jakim rozwinięciu sumy dwóch składników trójkąt Pascala oblicza współczynniki?",
+      "pr_odpowiedz": ["potęgi"],
+      "npr_odp": ["iloczynu", "logarymu"]
+  },
+  {
+      "nr": 3,
+      "strona": "A",
+      "pytanie": "Kto zbudował żywą ławę do obliczeń?",
+      "pr_odpowiedz": ["Willgodt Theophil Odhner"],
+      "npr_odp": ["Salomon August Andree", "Georg Theodor Chiewitz"]
+  },
+  {
+      "nr": 3,
+      "strona": "A",
+      "pytanie": "Kto zbudował pierwszą maszynę obliczeniową nazwaną zegarem liczącym?",
+      "pr_odpowiedz": ["Wilhelm Schickard"],
+      "npr_odp": ["Willgodt Theophil Odhner", "John Napier"]
+  },
+  {
+      "nr": 3,
+      "strona": "B",
+      "pytanie": "Kto stworzył kalkulator kręciołek?",
+      "pr_odpowiedz": ["Willgodt Theophil Odhner"],
+      "npr_odp": ["Wilhelm Schickard", "Georg Theodor Chiewitz"]
+  },
+  {
+      "nr": 3,
+      "strona": "B",
+      "pytanie": "Jakie mechanizmy były ważne w konstrukcji kalkulatorów mechanicznych",
+      "pr_odpowiedz": ["bębny schodkowe Leibniza", "koło z ruchomymi zębami"],
+      "npr_odp": ["wahadło Schickard", "zapadki klepkowe"]
+  },
+  {
+      "nr": 3,
+      "strona": "B",
+      "pytanie": "Do jakich kalkulacji używano arytmometru (kalkulatora mechanicznego)?",
+      "pr_odpowiedz": ["ubezpieczeniowych"],
+      "npr_odp": ["giełdowych", "wytrzymałościowych"]
+  },
+  {
+      "nr": 4,
+      "strona": "A",
+      "pytanie": "Kto wynalazł karty perforowane?",
+      "pr_odpowiedz": ["Joseph Marie Jacquard"],
+      "npr_odp": ["Daisy Taugelchee", "Monique Demazière"]
+  },
+  {
+      "nr": 4,
+      "strona": "A",
+      "pytanie": "Jak nazywała się pierwsza programistka?",
+      "pr_odpowiedz": ["Ada Augusta Lovelace"],
+      "npr_odp": ["Jean Jennings Bartik", "Frances Snyder Holder"]
+  },
+  {
+      "nr": 4,
+      "strona": "A",
+      "pytanie": "Jaką maszynę zaprojektował Charles Babbage?",
+      "pr_odpowiedz": ["różnicowa", "analityczna ogólnego przeznaczenia"],
+      "npr_odp": ["logarytmizująca", "całkowania szczególnego przeznaczenia"]
+  },
+  {
+      "nr": 4,
+      "strona": "B",
+      "pytanie": "Czy sumator i kalkulator to synonimy?",
+      "pr_odpowiedz": ["nie"],
+      "npr_odp": ["tak"]
+  },
+  {
+      "nr": 4,
+      "strona": "B",
+      "pytanie": "Czy kalkulatory zawsze posiadały pełną klawiaturę?",
+      "pr_odpowiedz": ["nie"],
+      "npr_odp": ["tak"]
+  },
+  {
+      "nr": 5,
+      "strona": "A",
+      "pytanie": "Jak brzmiała pierwsza przesłana kodem Morse'a wiadomość?",
+      "pr_odpowiedz": ["What hath God wrought?", "Co Bóg uczynił?"],
+      "npr_odp": ["Have faith in God.", "Gdzie Bóg, tam wszystko możliwe."]
+  },
+  {
+      "nr": 5,
+      "strona": "A",
+      "pytanie": "Kto wynalaz telegraf elektryczny?",
+      "pr_odpowiedz": ["Charles Wheatstone", "William Fothergill Cooke", "Samuel Finley Morse"],
+      "npr_odp": ["John Ricardo", "Pavel Schilling"]
+  },
+  {
+      "nr": 5,
+      "strona": "A",
+      "pytanie": "Jakie informacje i za pomocą jakiego medium fototon przesya informacje?",
+      "pr_odpowiedz": ["dzwiękowe za pomocą światła"],
+      "npr_odp": ["świetlne za pomocą dźwięku", "świetlne za pomocą światła"]
+  },
+  {
+      "nr": 5,
+      "strona": "A",
+      "pytanie": "Kto wynalazł fototon?",
+      "pr_odpowiedz": ["Alexander Graham Bell"],
+      "npr_odp": ["Charles Wheatstone", "Samuel Finley Morse"]
+  },
+  {
+      "nr": 5,
+      "strona": "A",
+      "pytanie": "Kto w 1876 opatentował elektryczny telefon?",
+      "pr_odpowiedz": ["Alexander Graham Bell", "Elisha Gray"],
+      "npr_odp": ["Pavel Schilling", "Samuel Finley Morse"]
+  },
+  {
+      "nr": 5,
+      "strona": "B",
+      "pytanie": "Do czego służy łącznica telefoniczna?",
+      "pr_odpowiedz": ["łączenia rozmów telefonicznych", "utrzymywania rozmów telefonicznych"],
+      "npr_odp": ["propagowania numerów telefonicznych", "przechowywania poczty głosowej"]
+  },
+  {
+      "nr": 5,
+      "strona": "B",
+      "pytanie": "Do czego służyła korba w aparacie telefonicznym?",
+      "pr_odpowiedz": ["wywoływania centrali"],
+      "npr_odp": ["utrzymywania połączenia", "generowania prądu"]
+  },
+  {
+      "nr": 5,
+      "strona": "B",
+      "pytanie": "Jaki system wykorzystywał dalekopis?",
+      "pr_odpowiedz": ["TELEX"],
+      "npr_odp": ["VISTEX", "TEXSEND"]
+  },
+  {
+      "nr": 5,
+      "strona": "B",
+      "pytanie": "Do przesyłania czego służył dalekopis?",
+      "pr_odpowiedz": ["tekstu"],
+      "npr_odp": ["obrazu", "dźwięku"]
+  },
+  {
+      "nr": 5,
+      "strona": "B",
+      "pytanie": "Kiedy wynaleziono FAX?",
+      "pr_odpowiedz": ["lata 30 XX wieku"],
+      "npr_odp": ["lata 20 XX wieku", "lata 40 XX wieku"]
+  },
+  {
+      "nr": 6,
+      "strona": "A",
+      "pytanie": "Jakie badania zapoczątkował George Boole?",
+      "pr_odpowiedz": ["algebry logiki"],
+      "npr_odp": ["analizy matematycznej", "ciągów i szeregów"]
+  },
+  {
+      "nr": 6,
+      "strona": "A",
+      "pytanie": "Jakiej dziedziny matematyki dotyczą prawa De Morgana?",
+      "pr_odpowiedz": ["logiki"],
+      "npr_odp": ["geometrii", "arytmetyki"]
+  },
+  {
+      "nr": 6,
+      "strona": "A",
+      "pytanie": "Które opracował Augustus De Morgan?",
+      "pr_odpowiedz": ["NOT(a OR b)=(NOT a) AND (NOT b)", "NOT(a AND b)=(NOT a) OR (NOT b)"],
+      "npr_odp": ["NOT(a OR b)=(NOT a) OR (NOT b)", "NOT(a AND b)=(NOT a) AND (NOT b)"]
+  },
+  {
+      "nr": 6,
+      "strona": "A",
+      "pytanie": "Kto opracował notację polską?",
+      "pr_odpowiedz": ["Jan Łukasiewicz"],
+      "npr_odp": ["Stefan Mazurkiewicz","Wacław Sierpiński"]
+  },
+  {
+      "nr": 6,
+      "strona": "A",
+      "pytanie": "Notacja polska pozwala opisać każde wyrażenie matematyczne w sposób...",
+      "pr_odpowiedz": ["jednoznaczny i bez nawiasów"],
+      "npr_odp": ["jednoznaczny i z nawiasami", "niejednoznaczny i bez nawiasów"]
+  },
+  {
+      "nr": 6,
+      "strona": "A",
+      "pytanie": "W odwrotnej notacji polskiej...",
+      "pr_odpowiedz": ["argumenty poprzedzają znaki działań"],
+      "npr_odp": ["znaki działań poprzedzają argumenty", "występują nawiasy"]
+  },
+  {
+      "nr": 6,
+      "strona": "A",
+      "pytanie": "Jak przegląda się drzewo binarne odwrotnej notacji polskiej?",
+      "pr_odpowiedz": ["od lewej do prawej"],
+      "npr_odp": ["od prawej do lewej", "w obie strony"]
+  },
+  {
+      "nr": 6,
+      "strona": "B",
+      "pytanie": "Kto pierwszy próbował zbudować maszynę logiczną (XIII wiek)?",
+      "pr_odpowiedz": ["Ramon Llull"],
+      "npr_odp": ["Alexander of Hales", "Roger Bacon"]
+  },
+  {
+      "nr": 6,
+      "strona": "B",
+      "pytanie": "Kto zbudował pierwszą maszynę logiczną?",
+      "pr_odpowiedz": ["Charles Stanhope"],
+      "npr_odp": ["Ramon Llull", "John Montagu"]
+  },
+  {
+      "nr": 6,
+      "strona": "B",
+      "pytanie": "Jak nazywała się maszyna zbudowana przez Charles'a Stanhope'a?",
+      "pr_odpowiedz": ["demonstrator"],
+      "npr_odp": ["wyznacznik", "wskaźnik"]
+  },
+  {
+      "nr": 6,
+      "strona": "B",
+      "pytanie": "Który przykład diagramu logicznego?",
+      "pr_odpowiedz": ["drzewo", "mapa karaugha", "diagram venny"],
+      "npr_odp": ["diagram llulla", "graf cykliczny", "pajęczyna"]
+  },
+  {
+      "nr": 6,
+      "strona": "B",
+      "pytanie": "Kto rozpowszechnił system binarny w Europie?",
+      "pr_odpowiedz": ["Gottfried Wilhelm Leibniz"],
+      "npr_odp": ["George Cantor", "Friedrich Bessel"]
+  },
+  {
+      "nr": 6,
+      "strona": "B",
+      "pytanie": "Z jakiego kraju wywodzi się system binarny?",
+      "pr_odpowiedz": ["Chiny"],
+      "npr_odp": ["Włochy", "Egipt"]
+  },
+  {
+      "nr": 7,
+      "strona": "A",
+      "pytanie": "W którym roku odkryto promieniowanie X?",
+      "pr_odpowiedz": ["1895"],
+      "npr_odp": ["1875", "1905"]
+  },
+  {
+      "nr": 7,
+      "strona": "A",
+      "pytanie": "Kto odkrył promieniowanie X?",
+      "pr_odpowiedz": ["Wilhelm Röntgen"],
+      "npr_odp": ["Georg Wilhelm de Gennin", "Karl Christian von Langsdorf"]
+  },
+  {
+      "nr": 7,
+      "strona": "A",
+      "pytanie": "Jak zapisywano nadchodzące telegraficznie wiadomości?",
+      "pr_odpowiedz": ["elektromechanicznie sterowanym ołówkiem"],
+      "npr_odp": ["elektrycznie sterowanym piórem", "nagrywano na cylindry"]
+  },
+  {
+      "nr": 7,
+      "strona": "A",
+      "pytanie": "Co przechowywały taśmy perforowane w komputerach?",
+      "pr_odpowiedz": ["dane", "programy"],
+      "npr_odp": ["układy scalone", "styki"]
+  },
+  {
+      "nr": 7,
+      "strona": "A",
+      "pytanie": "Jakie było pierwsze zastosowanie kart  perforowanych?",
+      "pr_odpowiedz": ["sterowanie wzorem tkackim"],
+      "npr_odp": ["kalkulacje", "odtwarzanie muzyki"]
+  },
+  {
+      "nr": 7,
+      "strona": "A",
+      "pytanie": "Jaki kod przesyłu wiadomości tekstowych poprzedzał ASCII?",
+      "pr_odpowiedz": ["pięciobitowy kod Baudota"],
+      "npr_odp": ["czterobitowy kod Baudota", "trójbitowy kod Baudota"]
+  },
+  {
+      "nr": 7,
+      "strona": "A",
+      "pytanie": "Jaki system opracował Helman Hollerith?",
+      "pr_odpowiedz": ["tabulacyjny"],
+      "npr_odp": ["bitowy", "interpretacyjny"]
+  },
+  {
+      "nr": 7,
+      "strona": "B",
+      "pytanie": "Jaki wynalazek jest znany ze względu na rozwój drukarstwa, czytelnictwa i oświaty?",
+      "pr_odpowiedz": ["maszyna drukarska Gutenberga"],
+      "npr_odp": ["kalka techniczna", "camera obscura "]
+  },
+  {
+      "nr": 7,
+      "strona": "B",
+      "pytanie": "Jak nazywa się  pierwszą książkę w Europie wykonaną za pomocą druku?",
+      "pr_odpowiedz": ["Biblia Gutenberga"],
+      "npr_odp": ["Słownik Gutenberga", "Encyklopedia Gutenberga"]
+  },
+  {
+      "nr": 8,
+      "strona": "A",
+      "pytanie": "Z czego zasłynął Turing?",
+      "pr_odpowiedz": ["maszyny Turinga", "testu Turinga", "Maszyny Collosum"],
+      "npr_odp": [ "cylindra Turinga", "skanera Turinga", "Maszyny Tytanium" ]
+  },
+  {
+      "nr": 8,
+      "strona": "A",
+      "pytanie": "Jak inaczej nazywano architekturę Von Neumana?",
+      "pr_odpowiedz": ["komputer z programem w pamięci"],
+      "npr_odp": ["komputer z autozapisem", "maszyna z pamięcią", "komputer z pamięcią"]
+  },
+  {
+    "nr": 8,
+    "strona": "A",
+    "pytanie": "Od kogo pochodzi pojęcie architektury komputerów?",
+    "pr_odpowiedz": [ "John von Neumann" ],
+    "npr_odp": [ " Lipót Fejér", "Alfréd Haar", "George Pólya" ]
+  },
+  {
+    "nr": 8,
+    "strona": "A",
+    "pytanie": "Który polski kryptolog pracował przy enigmie?",
+    "pr_odpowiedz": [ "Marian Rejewski", "Jerzy Różycki", "Henryk Zygalski" ],
+    "npr_odp": [ "Antoni Zygmund", "Izabela Abramowicz", "Stefan Bergman" ]
+  },
+  {
+    "nr": 8,
+    "strona": "B",
+    "pytanie": "W ktorym roku zaczęto używać Enigmy?",
+    "pr_odpowiedz": [ "1926" ],
+    "npr_odp": [ "1936", "1930", "1920" ]
+  },
+  {
+    "nr": 8,
+    "strona": "B",
+    "pytanie": "Jak nazywała się słynna elektryczno-mechaniczna maszyna rotacyjna używana do szyfrowania przez armię niemiecką?",
+    "pr_odpowiedz": [ "Enigma" ],
+    "npr_odp": [ "Typex", "ECM Mark II", "Sigaba" ]
+  },
+  {
+    "nr": 8,
+    "strona": "B",
+    "pytanie": "Jak nazywała się maszyna deszyfrująca kody Enigmy?",
+    "pr_odpowiedz": [ "Bomba", "Colossus" ],
+    "npr_odp": [ "Typex", "Tytan", "Sigaba" ]
+  },
+  {
+    "nr": 8,
+    "strona": "B",
+    "pytanie": "Na podstawie maszyny Bomba z jakiego kraju zbudowano Brytyjską Bombę?",
+    "pr_odpowiedz": [ "Polski" ],
+    "npr_odp": [ "Czechosłowacji", "Szwajcarii", "USA" ]
+  },
+  {
+    "nr": 9,
+    "strona": "A",
+    "pytanie": "Data pierwszego przekazu ruchomego obrazu telewizyjnego?",
+    "pr_odpowiedz": [ "1925" ],
+    "npr_odp": [ "1924", "1926", "1928" ]
+  },
+  {
+    "nr": 9,
+    "strona": "A",
+    "pytanie": "Jak nazywał się pierwszy w pełni elektroniczny komputer?",
+    "pr_odpowiedz": [ "ENIAC" ],
+    "npr_odp": [ "BRINAC", "XEROX", "WHIRLWIND" ]
+  },
+  {
+    "nr": 9,
+    "strona": "A",
+    "pytanie": "Jak nazywał się pierwszy komercyjnie dostępny komputer?",
+    "pr_odpowiedz": [ "UNIVAC I" ],
+    "npr_odp": [ "XYZ", "COLOSSUM", "ENIAC" ]
+  },
+  {
+    "nr": 9,
+    "strona": "A",
+    "pytanie": "Na jakim komputerze wzorowano pierszy polski komputer XYZ?",
+    "pr_odpowiedz": [ "IBM 701" ],
+    "npr_odp": [ "ENIAC", "UNIVAC I", "XEROX" ]
+  },
+  {
+    "nr": 9,
+    "strona": "A",
+    "pytanie": "Jak nazywał się konstruktor wczesnych komputerów Z1, Z2 i Z3?",
+    "pr_odpowiedz": [ "Konrad Zuse" ],
+    "npr_odp": [ "Jonathan Zenneck", "Moritz Schröter", "Gotthilf Hagen" ]
+  },
+  {
+    "nr": 9,
+    "strona": "B",
+    "pytanie": "Kto zbudowa pierwszy superkomputer?",
+    "pr_odpowiedz": [ "Seymour Cray" ],
+    "npr_odp": [ "Jack Kilby", "Charles F. Kettering", "Eugene Cernan" ]
+  },
+  {
+    "nr": 9,
+    "strona": "B",
+    "pytanie": "Kto zbudowa CDC 6600?",
+    "pr_odpowiedz": [ "Seymour Cray" ],
+    "npr_odp": [ "Konrad Zuse", "Jerzy Różycki", "Friedrich Bessel" ]
+  },
+  {
+    "nr": 9,
+    "strona": "B",
+    "pytanie": "Czym zajmowała się firma Cray Research?",
+    "pr_odpowiedz": [ "superkomputerami" ],
+    "npr_odp": [ "kompilatorami", "kalkulatorami", "telekomunikacją" ]
+  },
+  {
+    "nr": 9,
+    "strona": "B",
+    "pytanie": "Co symulował superkomputer Earth Simulator?",
+    "pr_odpowiedz": [ "pogodę i zjawiska przyrodnicze" ],
+    "npr_odp": [ "globalną gospodarkę", "przyrost naturalny", "ruch w telekomunikacji" ]
+  },
+  {
+    "nr": 9,
+    "strona": "B",
+    "pytanie": "Jak nazywał się najszybszy superkomuter w 2005?",
+    "pr_odpowiedz": [ "Blue Gene/L" ],
+    "npr_odp": [ "Fugaku", "Earth Simulator", "Summit" ]
+  },
+  {
+    "nr": 10,
+    "strona": "A",
+    "pytanie": "Gdzie pierwszy raz zastosowano przekaźnik?",
+    "pr_odpowiedz": [ "w telegrafie" ],
+    "npr_odp": [ "w telewizorze", "w samochodzie", "w mikrofalówce" ]
+  },
+  {
+    "nr": 10,
+    "strona": "A",
+    "pytanie": "Jak nazywa się który może być przełącznikiem lub wzmacniaczem sygnału?",
+    "pr_odpowiedz": [ "tranzystor" ],
+    "npr_odp": [ "opornik", "dioda", "multimetr" ]
+  },
+  {
+    "nr": 10,
+    "strona": "A",
+    "pytanie": "Jaka jednostka jest blokiem funkcjonalnym mikroprocesora?",
+    "pr_odpowiedz": [ "arytmetyczno-logiczna ALU", "sterowania CU", "rejestr(komórek pamięci)" ],
+    "npr_odp": [ "logarytmiczna", "rejestrowania CPU", "pamięci" ]
+  },
+  {
+    "nr": 10,
+    "strona": "A",
+    "pytanie": "Kto opatentował lampę elektronową?",
+    "pr_odpowiedz": [ "Nikola Tesla" ],
+    "npr_odp": [ "Thomas Edison", "Wilhelm Röntgen", "Édouard-Léon Scott de Martinville" ]
+  },
+  {
+    "nr": 10,
+    "strona": "A",
+    "pytanie": "Kto wynalazł radio?",
+    "pr_odpowiedz": [ "Nikola Tesla" ],
+    "npr_odp": [ "Thomas Edison", "Samuel Morse", "Guglielmo Marconi" ]
+  },
+  {
+    "nr": 10,
+    "strona": "A",
+    "pytanie": "Jack C. Kilby otrzymał Nagrodę Nobla za wynalezienie?",
+    "pr_odpowiedz": [ "układu scalonego" ],
+    "npr_odp": [ "lampy tranzystorowej", "hashowania", "półprzewodnika krzemowego" ]
+  },
+  {
+    "nr": 10,
+    "strona": "A",
+    "pytanie": "W jakiej dziedzinie Jack C. Kilby otrzymał Nagrodę Nobla w 2000 roku?",
+    "pr_odpowiedz": [ "fizyki" ],
+    "npr_odp": [ "matematyki", "biologii", "chemii" ]
+  },
+  {
+    "nr": 10,
+    "strona": "A",
+    "pytanie": "Jak nazywa się prawo: liczba tranzystorów w układzie scalony, podwaja się co 18 miesięcy?",
+    "pr_odpowiedz": [ "prawo Moore'a" ],
+    "npr_odp": [ "prawo Marconi", "prawo Bessel'a", "prawo Hagena" ]
+  },
+  {
+    "nr": 10,
+    "strona": "B",
+    "pytanie": "Jak nazywał się pierwszy elektroniczny kalkulator biurowy?",
+    "pr_odpowiedz": [ "Anita" ],
+    "npr_odp": [ "Agata", "Beata", "Helena" ]
+  },
+  {
+    "nr": 10,
+    "strona": "B",
+    "pytanie": "Jak nazywał się pierwszy w pełni kieszonkowy elektroniczny kalkulator czterodziałowy?",
+    "pr_odpowiedz": [ "BUSICOM LE-120A" ],
+    "npr_odp": [ "ZABACOM LE-120A", "KALCOM LE-120A", "ZUPICOM LE-120A" ]
+  },
+  {
+    "nr": 10,
+    "strona": "B",
+    "pytanie": "Jak nazywał się pierwszy programowalny elektroniczny kalkulator?",
+    "pr_odpowiedz": [ "HP-65" ],
+    "npr_odp": [ "HP-35", "XYZ", "MOORE" ]
+  },
+  {
+    "nr": 10,
+    "strona": "B",
+    "pytanie": "Ile ważył kalkulator elektryczny SHARP Compet CS10A?",
+    "pr_odpowiedz": [ "25kg" ],
+    "npr_odp": [ "5kg", "7kg", "15kg" ]
+  },
+  {
+    "nr": 11,
+    "strona": "A",
+    "pytanie": "Jak nazywał się pierwszy komputer osobisty z graficznym interfejsem użytkownika?",
+    "pr_odpowiedz": [ "XEROX PARC ALTO" ],
+    "npr_odp": [ "PDP-8", "VAX", "LINC" ]
+  },
+  {
+    "nr": 11,
+    "strona": "A",
+    "pytanie": "Jak nazywał się pierwszy wysokopoziomowy język w mikrokomputerach?",
+    "pr_odpowiedz": [ "BASIC" ],
+    "npr_odp": [ "C", "JAVA", "PERL" ]
+  },
+  {
+    "nr": 11,
+    "strona": "A",
+    "pytanie": "Jak nazywał się pierwszy arkusz kalkulacyjny Apple?",
+    "pr_odpowiedz": [ "VISICALC" ],
+    "npr_odp": [ "APPLE II", "CALKAC", "EXCELL" ]
+  },
+  {
+    "nr": 11,
+    "strona": "B",
+    "pytanie": "Erę komputerów osobistych zapoczątkowało wydanie komputera?",
+    "pr_odpowiedz": [ "IBM PC (IBM 5150)" ],
+    "npr_odp": [ "SCAMP", "IBM 5100 Portable Computer", "IBM 1401" ]
+  },
+  {
+    "nr": 11,
+    "strona": "B",
+    "pytanie": "Kiedy rozpoczęła się era komputerów osobistych?",
+    "pr_odpowiedz": [ "1981" ],
+    "npr_odp": [ "1970", "1990", "1937" ]
+  },
+  {
+    "nr": 11,
+    "strona": "B",
+    "pytanie": "Jak nazywał się wynalazca komputerów SPECTRUM?",
+    "pr_odpowiedz": [ "Clive Sinclair" ],
+    "npr_odp": [ "Vannevar Bush", "Charles Babbage", "John Hadley" ]
+  },
+  {
+    "nr": 11,
+    "strona": "B",
+    "pytanie": "Co otrzymał Clive Sinclair za swoje wynalazki od Królowej Brytyjskiej?",
+    "pr_odpowiedz": [ "tytuł szlachecki" ],
+    "npr_odp": [ "dofinansowanie", "ziemie", "medal" ]
+  },
+  {
+    "nr": 11,
+    "strona": "B",
+    "pytanie": "Jak nazywała się sieć polskich komputerów JUNIOR i komputera nauczycielskiego?",
+    "pr_odpowiedz": [ "JUNET" ],
+    "npr_odp": [ "JUNGEN", "JUNIORNET", "JURNET" ]
+  },
+  {
+    "nr": 11,
+    "strona": "B",
+    "pytanie": "Jak nazywał się oficjalnie uznany przez Ministerstwo Oświaty i Szkolnictwa w latach XX polski komputer?",
+    "pr_odpowiedz": [ "ELWRO 800 JUNIOR" ],
+    "npr_odp": [ "XYZ", "ENIGMA 107", "VISICALC" ]
+  },
+  {
+    "nr": 12,
+    "strona": "A",
+    "pytanie": "Nieliniowa i rozproszona organizacja danych połączonych odsyłaczami (linkami) to?",
+    "pr_odpowiedz": [ "hipertekst" ],
+    "npr_odp": [ "hiperlink", "hiperdata", "hipermeta" ]
+  },
+  {
+    "nr": 12,
+    "strona": "A",
+    "pytanie": "Co może zawierać hipermedium?",
+    "pr_odpowiedz": [ "obraz, dźwięk i film" ],
+    "npr_odp": [ "obraz", "dźwięk", "film" ]
+  },
+  {
+    "nr": 12,
+    "strona": "A",
+    "pytanie": "Kto wynalazł myszkę komputerową?",
+    "pr_odpowiedz": [ "Douglas Engelbart" ],
+    "npr_odp": [ "Paul Buchheit", "Ron Watkins", "Mike Krieger" ]
+  },
+  {
+    "nr": 12,
+    "strona": "A",
+    "pytanie": "Kto wynalazł pocztę elektroniczną?",
+    "pr_odpowiedz": [ "Ray Tomlinson" ],
+    "npr_odp": [ "Paul Buchheit", "Ron Watkins", "Douglas Engelbart" ]
+  },
+  {
+    "nr": 12,
+    "strona": "A",
+    "pytanie": "Kto stworzył serwis WWW?",
+    "pr_odpowiedz": [ "Timothy J. Berners-Lee" ],
+    "npr_odp": [ "Vannevar Bush", "Tom linson", "Mike Krieger" ]
+  },
+  {
+    "nr": 12,
+    "strona": "A",
+    "pytanie": "W jakich miastac znajdowały się uczelnie połączone siecią ARPANET?",
+    "pr_odpowiedz": [ "Utah, Santa Barbara, Los Angeles" ],
+    "npr_odp": [ "Utah, Waszyngton, Los Angeles", "Nowy York, Santa Barbara, Los Angeles", "Utah, Santa Barbara, Chicago" ]
+  },
+  {
+    "nr": 12,
+    "strona": "A",
+    "pytanie": "Na jakie części podzieliła się ARPANET?",
+    "pr_odpowiedz": [ "ARPANET i MILNET" ],
+    "npr_odp": [ "ARPANET I i ARPANET II", "ARPACIV i ARPAMIL", "WWW i MILNET" ]
+  },
+  {
+    "nr": 12,
+    "strona": "A",
+    "pytanie": "Kto stworzył protokół TCP/IP?",
+    "pr_odpowiedz": [ "Vinton G. Cerf i Robert E. Kahn" ],
+    "npr_odp": [ "Tom linson i Robert E. Kahn", "Vinton G. Cerf i Paul Buchheit", "Vinton G. Cerf i Timothy J. Berners-Lee" ]
+  },
+  {
+    "nr": 12,
+    "strona": "B",
+    "pytanie": "Jak nazywał się pierwszy poski konstruktor komputerow?",
+    "pr_odpowiedz": [ "Leon Łukaszewicz" ],
+    "npr_odp": [ "Mirosław Dymek", "Jan Pikul", "MArcin Borkowski" ]
+  },
+  {
+    "nr": 12,
+    "strona": "B",
+    "pytanie": "Jak sterowano maszyną analogową ARR?",
+    "pr_odpowiedz": [ "kręcąc gałkami" ],
+    "npr_odp": [ "przesuwając dźwigniami", "tablicami perforowanymi", "za pomocą myszki" ]
+  },
+  {
+    "nr": 12,
+    "strona": "B",
+    "pytanie": "Z jakiego języka symbolicznego korzystała maszyna XYZ?",
+    "pr_odpowiedz": [ "SAS" ],
+    "npr_odp": [ "SUS", "SOS", "ANSYS" ]
+  },
+  {
+    "nr": 12,
+    "strona": "B",
+    "pytanie": "Z jakiego systemu automatycznego kodowania korzystała maszyna ZAM?",
+    "pr_odpowiedz": [ "SAKO" ],
+    "npr_odp": [ "SUKO", "SAKE", "ASYS" ]
+  },
+  {
+    "nr": 12,
+    "strona": "B",
+    "pytanie": "Jakich generacji komputery nosiły w Polsce nazwę ODRA?",
+    "pr_odpowiedz": [ "drugiej i trzeciej" ],
+    "npr_odp": [ "pierwszej i drugiej", "trzeciej i czwartej", "pierwszej i trzeciej" ]
+  },
+  {
+    "nr": 12,
+    "strona": "B",
+    "pytanie": "Jakich nazywała się ostatnia seria komputerów wyprodukowanych przez polski przemysł komputerowy?",
+    "pr_odpowiedz": [ "KOMPUTER JS EMC R-32" ],
+    "npr_odp": [ "KOMPUTER JJ MNE T-22", "KOMPUTER CS AGA T-32", "KOPERNIK JS EMC R-32" ]
+  }
+]
