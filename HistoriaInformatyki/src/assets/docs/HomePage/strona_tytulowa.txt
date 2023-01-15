@@ -1,0 +1,6 @@
+	Witamy na stronie startowej aplikacji pt. "Historia Informatyki". Powstała ona w ramach projektu zespołowego pod czujnym okiem Pani Doktor Hanny Furmańczyk oraz mentorów Anny Pawelczyk i Piotra Lewandowskiego z firmy Dynatrace. 
+	Celem aplikacji jest umożliwienie interaktywnego poznawania historii informatyki w oparciu o tablice informacyjne położone w Instytucie Informatyki Uniwersytetu Gdańskiego. Zawiera ona elektroniczną wersję wszystkich plansz oraz quiz.
+	Twórcami aplikacji są:
+- Karolina Pomian,
+- Aleksandra Panek,
+- Agnieszka Kamińska.
