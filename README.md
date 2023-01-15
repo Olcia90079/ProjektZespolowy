@@ -7,7 +7,7 @@
 ### Deploytment aplikacji:
 1.Należy zbudować projekt użwając poniższej komendy: \
  ng build --output-path docs --base-href /ProjektZespolowy/ \
-2.Po zakończeniu kompilacji utwórz kopię pliku docs/index.html i daj nazwe docs/484.html. \
+2.Po zakończeniu kompilacji utwórz kopię pliku docs/index.html i daj nazwe docs/404.html. \
 3.Commit changes and Push push. \
 4.Wejdź na stronę projektu na github, przejdź do ustawień do sekcji GitHub Pages i skonfiguruj. \
 5.Zapisz. \
