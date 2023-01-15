@@ -5,6 +5,13 @@
 
 .logo-title {
   display: flex;
-  justify-content: space-between;
+  justify-content: center; /* change to center instead of space-between */
+  align-items: center; /* added this line to center vertically */
   font-family: Roboto, sans-serif;
+  padding-top: 2%;
+  padding-bottom: 3%;
+}
+
+.logo-title img, .logo-title h1 {
+  margin: 0 1%; /* adds 10px of margin to the top, right, bottom and left */
 }
