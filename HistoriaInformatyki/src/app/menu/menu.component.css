@@ -1,12 +1,10 @@
 .navbar {
   display: flex;
-  display: flex;
   justify-content: space-evenly;
   align-items: center;
-
   font-family: 'Roboto', sans-serif;
-
-  /* width: 100vw; */
+  width: 95vw;
+  margin: auto;
 }
 
 /* Style the buttons as desired */
