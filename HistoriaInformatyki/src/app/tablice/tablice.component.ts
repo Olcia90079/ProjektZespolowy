@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, Input } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { ActivatedRoute, Router } from '@angular/router';
 
@@ -11,8 +11,11 @@ import { ActivatedRoute, Router } from '@angular/router';
 export class TabliceComponent implements OnInit {
   
   spisTablic: string[]; // Array to store the text files
-  currentBoard: string; // Variable to store the text file contents
+  @Input() currentBoard:string; // Variable to store the text file contents
   index: number;
+  isSpeaking = false; 
+  isPaused = false;
+
 
   constructor(private http: HttpClient, private route: ActivatedRoute, private router: Router) {
     this.currentBoard = '';
@@ -34,9 +37,12 @@ export class TabliceComponent implements OnInit {
     });
   }
 
+
+
   displayTextFile(index: number) {
     this.http.get(`assets/docs/Tablice/${this.spisTablic[index]}.txt`, { responseType: 'text' }).subscribe(currentBoard => {
       this.currentBoard = currentBoard;
+      this.stopSpeech();
     });
   }
 
@@ -56,4 +62,48 @@ export class TabliceComponent implements OnInit {
     }
   }
 
+  speakText() {
+    if(!this.isSpeaking){
+        this.isSpeaking = true;
+        const synth = window.speechSynthesis;
+        const utterance = new SpeechSynthesisUtterance(this.currentBoard);
+        let polishVoice: SpeechSynthesisVoice|undefined;
+
+        synth.getVoices().forEach(voice => {
+            if (voice.lang === 'pl-PL' || voice.lang === 'pl') {
+                polishVoice = voice;
+            }
+        });
+
+        if(polishVoice){
+            utterance.voice = polishVoice;
+            synth.speak(utterance);
+        }else{
+            console.log("Polish language not supported");
+            this.isSpeaking = false;
+        }
+    }
+}
+  
+
+  stopSpeech() {
+    const synth = window.speechSynthesis;
+    synth.cancel();
+    this.isSpeaking = false;
+    this.isPaused = false;
+  }
+
+  pauseSpeech() {
+    const synth = window.speechSynthesis;
+    synth.pause();
+    this.isPaused = true;
+  }
+
+  resumeSpeech() {
+    const synth = window.speechSynthesis;
+    if(synth.paused)
+        synth.resume();
+    else
+        console.log("Speech is not paused");
+  }
 }

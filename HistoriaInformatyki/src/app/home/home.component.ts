@@ -11,7 +11,7 @@ export class HomeComponent {
   content: string = '';
 
   constructor(private http: HttpClient) {
-    this.http.get('/assets/docs/HomePage/strona_tytulowa.txt', { responseType: 'text' })
+    this.http.get('assets/docs/HomePage/strona_tytulowa.txt', { responseType: 'text' })
       .subscribe(data => this.content = data);
   }
 }
