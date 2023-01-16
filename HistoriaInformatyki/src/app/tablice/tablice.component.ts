@@ -1,4 +1,4 @@
-import { Component, OnInit, OnChanges } from '@angular/core';
+import { Component, OnInit, Input } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { ActivatedRoute, Router } from '@angular/router';
 
@@ -8,7 +8,7 @@ import { ActivatedRoute, Router } from '@angular/router';
   styleUrls: ['./tablice.component.css']
 })
 
-export class TabliceComponent implements OnInit, OnChanges {
+export class TabliceComponent implements OnInit {
   
   spisTablic: string[]; // Array to store the text files
   @Input() currentBoard:string; // Variable to store the text file contents
@@ -37,17 +37,12 @@ export class TabliceComponent implements OnInit, OnChanges {
     });
   }
 
-  ngOnChanges() {
-    if (this.currentBoard) {
-      const synth = window.speechSynthesis;
-      synth.cancel();
-    }
-  }
+
 
   displayTextFile(index: number) {
     this.http.get(`assets/docs/Tablice/${this.spisTablic[index]}.txt`, { responseType: 'text' }).subscribe(currentBoard => {
       this.currentBoard = currentBoard;
-
+      this.stopSpeech();
     });
   }
 
@@ -66,8 +61,6 @@ export class TabliceComponent implements OnInit, OnChanges {
       this.router.navigate(['/tablica', 0]);
     }
   }
-
-
 
   speakText() {
     if(!this.isSpeaking){
