@@ -61,15 +61,15 @@ export class QuizComponent implements OnInit {
   }
 
   next() {
-    if (this.active_question + 1 <= this.questions.length) {
+    if (this.active_question + 1 < this.questions.length) {
       this.active_question += 1;
     }
 
   }
 
   previous() {
-    if (this.active_question - 1 <= this.questions.length) {
-      this.active_question += 1;
+    if (this.active_question > 0) {
+      this.active_question -= 1;
     }
   }
 }
