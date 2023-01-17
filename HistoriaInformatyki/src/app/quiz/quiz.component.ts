@@ -80,12 +80,14 @@ export class QuizComponent implements OnInit {
 
   correctClicked() {
     this.buttonsDisabled = true;
-    this.score = 1;
-    console.log(this.score);
-    setTimeout(() => {
-      // code to be executed after delay
-      this.next();
-    }, 1000); // delay of 2 seconds
+    if (this.active_question + 1 < this.questions.length) {
+      this.score += 1;
+      console.log(this.score);
+      setTimeout(() => {
+        // code to be executed after delay
+        this.next();
+      }, 1000); // delay of 2 seconds
+    }
 
   }
 

@@ -1,23 +1,23 @@
 <button mat-button color="primary" (click)="next()">next</button>
-<button (click)="previous()">prev</button>
+<button mat-button color="primary"(click)="previous()">prev</button>
 
-<div *ngIf="questions[active_question] as item">
-    <div class="square">
+<mat-card *ngIf="questions[active_question] as item">
+    <mat-card-content class="square">
       <h2>{{ item.pytanie }}</h2>
-    </div>
+    </mat-card-content>
 
-  <div>
+  <mat-card-actions>
     <div *ngFor="let npr of item.npr_odp; index as i">
-      <div *ngIf="i === item.pr_odpowiedz_pozycja" class="square pr" (click)="correctClicked();" [attr.disabled]="buttonsDisabled ? '' : null">
+      <button mat-button *ngIf="i === item.pr_odpowiedz_pozycja" class="square pr" (click)="correctClicked();" [attr.disabled]="buttonsDisabled ? '' : null">
         <p> {{ getCorrectAnswer(item) }} </p>
-      </div>
-      <div class="square npr" (click)="incorrectClicked();" [attr.disabled]="buttonsDisabled ? '' : null">
+      </button>
+      <button mat-button class="square npr" (click)="incorrectClicked();" [attr.disabled]="buttonsDisabled ? '' : null">
         <p>{{ item.npr_odp[i] }}</p>
-      </div>
+      </button>
     </div>
-    <div *ngIf="item.npr_odp.length === item.pr_odpowiedz_pozycja" class="square pr" (click)="correctClicked();" [attr.disabled]="buttonsDisabled ? '' : null">
+    <button mat-button *ngIf="item.npr_odp.length === item.pr_odpowiedz_pozycja" class="square pr" (click)="correctClicked();" [attr.disabled]="buttonsDisabled ? '' : null">
       <p> {{ getCorrectAnswer(item) }} </p>
-    </div>
-  </div>
+    </button>
+  </mat-card-actions>
 
-</div>
+</mat-card>
