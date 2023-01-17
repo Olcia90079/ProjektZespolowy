@@ -1,4 +1,4 @@
-<button (click)="next()">next</button>
+<button mat-button color="primary" (click)="next()">next</button>
 <button (click)="previous()">prev</button>
 
 <div *ngIf="questions[active_question] as item">
@@ -6,16 +6,16 @@
       <h2>{{ item.pytanie }}</h2>
     </div>
 
-  <div *ngIf="{ randomPositon: getRandomPosition(item.npr_odp.length) } as variable">
+  <div>
     <div *ngFor="let npr of item.npr_odp; index as i">
-      <div *ngIf="i === variable.randomPositon" class="square" question="pr">
+      <div *ngIf="i === item.pr_odpowiedz_pozycja" class="square pr" (click)="correctClicked();" [attr.disabled]="buttonsDisabled ? '' : null">
         <p> {{ getCorrectAnswer(item) }} </p>
       </div>
-      <div class="square" question="npr">
+      <div class="square npr" (click)="incorrectClicked();" [attr.disabled]="buttonsDisabled ? '' : null">
         <p>{{ item.npr_odp[i] }}</p>
       </div>
     </div>
-    <div *ngIf="item.npr_odp.length === variable.randomPositon" class="square" question="pr">
+    <div *ngIf="item.npr_odp.length === item.pr_odpowiedz_pozycja" class="square pr" (click)="correctClicked();" [attr.disabled]="buttonsDisabled ? '' : null">
       <p> {{ getCorrectAnswer(item) }} </p>
     </div>
   </div>

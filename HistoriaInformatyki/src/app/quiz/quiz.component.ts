@@ -7,6 +7,7 @@ interface QuizzQuestion {
   pytanie: string;
   pr_odpowiedz: string[];
   npr_odp: string[];
+  pr_odpowiedz_pozycja?: number;
 }
 
 
@@ -19,6 +20,8 @@ export class QuizComponent implements OnInit {
   questions: QuizzQuestion[] = [];
   selected: string[] = [];
   active_question: number = 0;
+  buttonsDisabled = false;
+  score: number = 0;
 
   constructor(private http: HttpClient) { }
 
@@ -29,6 +32,7 @@ export class QuizComponent implements OnInit {
   private sendRequest() {
     this.http.get<QuizzQuestion[]>('assets/docs/Quiz/pytania.json').subscribe(response => {
       this.questions = this.selectRandomElements(5, response);
+      this.questions.forEach((quizQuestion) => quizQuestion.pr_odpowiedz_pozycja = this.getRandomPosition(quizQuestion.npr_odp.length));
     })
   }
 
@@ -52,8 +56,8 @@ export class QuizComponent implements OnInit {
 
   getRandomPosition(questionNumbers: number): number {
     let random = Math.floor(Math.random() * (questionNumbers));
-    console.log(questionNumbers)
-    return random
+    console.log(questionNumbers);
+    return random;
   }
 
   getCorrectAnswer(item: any) {
@@ -64,6 +68,7 @@ export class QuizComponent implements OnInit {
     if (this.active_question + 1 < this.questions.length) {
       this.active_question += 1;
     }
+    this.buttonsDisabled = false;
 
   }
 
@@ -72,4 +77,24 @@ export class QuizComponent implements OnInit {
       this.active_question -= 1;
     }
   }
+
+  correctClicked() {
+    this.buttonsDisabled = true;
+    this.score = 1;
+    console.log(this.score);
+    setTimeout(() => {
+      // code to be executed after delay
+      this.next();
+    }, 1000); // delay of 2 seconds
+
+  }
+
+  incorrectClicked() {
+    this.buttonsDisabled = true;
+    setTimeout(() => {
+      // code to be executed after delay
+      this.next();
+    }, 300); // delay of 2 seconds
+  }
+
 }

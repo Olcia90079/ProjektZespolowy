@@ -20,10 +20,14 @@ p {
   width: 100%;
 }
 
-.square[question='pr'] {
+.pr {
   background-color: green;
 }
 
-.square[question='npr'] {
+.npr {
   background-color: red;
+}
+
+[disabled] {
+    background-color: gray;
 }

@@ -2,15 +2,13 @@
   "ExpandedNodes": [
     "",
     "\\HistoriaInformatyki",
+    "\\HistoriaInformatyki\\src",
     "\\HistoriaInformatyki\\src\\app",
     "\\HistoriaInformatyki\\src\\app\\menu",
     "\\HistoriaInformatyki\\src\\app\\quiz",
-    "\\HistoriaInformatyki\\src\\app\\tablice",
     "\\HistoriaInformatyki\\src\\assets",
     "\\HistoriaInformatyki\\src\\assets\\docs",
-    "\\HistoriaInformatyki\\src\\assets\\docs\\Quiz",
-    "\\HistoriaInformatyki\\src\\assets\\docs\\Tablice"
+    "\\HistoriaInformatyki\\src\\assets\\docs\\Quiz"
   ],
-  "SelectedNode": "\\HistoriaInformatyki\\.gitignore",
   "PreviewInSolutionExplorer": false
 }
