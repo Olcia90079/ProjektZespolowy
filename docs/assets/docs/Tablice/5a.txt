@@ -1,8 +1,56 @@
 5a. Początki komunikacji przewodowej
 
 
-Za początki komunikacji elektronicznej uważa się wynalezienie elektromagnesu i przekaźnika elektrycznego. Brytyjczyk William Sturgeon (1783-1850) zademonstrował w 1825 roku siłę elektromagnesu, podnosząc za jego pomocą znacznie większy ciężar, a w 1830 roku Joseph Henry potwierdził znaczenie tego odkrycia dla komunikacji na odległość, tworząc przekaźnik elektryczny – wysłał on na odległość ponad jednej mili sygnał elektryczny, który uaktywnił elektromagnes, a ten z kolei spowodował uderzenie w dzwonek. Tak narodził się telegraf (gr. pisać na odległość), pierwsze w pełni elektroniczne medium do komunikacji na odległość, w którym dane są przesyłane za pomocą przerywanych impulsów elektrycznych. Pierwsze komercyjne systemy telegraficzne zostały opracowane w 1837 roku, niezależnie w Anglii i w USA. W Anglii zrobili to znany fizyk Charles Wheatstone (1802-1875) i wynalazca William F. Cooke (1806-1879), a w USA – wynalazca i artysta Samuel Finley Breese Morse (1791-1872). W telegrafie Anglików użyto pięciu przewodów do wybierania odpowiednich liter, podczas gdy Morse posłużył się tylko jednym przewodem do przesyłania „kropek” i „kresek”, za pomocą których były kodowane litery i cyfry zgodnie z kodem Morse’a. W praktyce przyjął się ten drugi system, jako prostszy w budowie, łatwiejszy w użyciu i bardziej niezawodny. Praktyczna demonstracja udoskonalonego telegrafu Morse’a na znaczną odległość odbyła się 24 maja 1844 roku. Linią telegraficzną, zbudowaną za pieniądze Kongresu między odległymi o 60 km Baltimore i Washingtonem, przesłano wiadomość What hath God wrought? (... co Bóg uczynił – Biblia, Księga Liczb, Rozdział XXIII, 23). W zależności od wersji, przesyłane wiadomości były odbierane przez operatorów telegrafu na taśmie papierowej lub za pomocą słuchu.
-
-Pierwszymi większymi komercyjnymi odbiorcami systemów telegraficznych były linie kolejowe (przesyłano m.in. informacje o ruchu pociągów). Wheatstone i Cook założyli Electric Telegraph Company i w 1850 roku w Anglii było już ponad 6 000 km linii telegraficznych. Ze względu na obszar, ten interes był jeszcze większy w USA – w 1854 roku było tam ponad 25 000 km linii telegraficznych (ponad 70% sieci światowej). W 1861 roku firma Western Union położyła transkontynentalną linię telegraficzną do Kalifornii między oboma wybrzeżami USA, biegła ona głównie wzdłuż linii kolejowych. Wynalazek telegrafu zbiegł się w czasie z ekspansją na Zachód – świat biznesu ze Wschodniego Wybrzeża USA parł na Zachód. Był to historyczny zbieg okoliczności – właściwa rzecz pojawiła się we właściwym czasie. W komunikacji kolejowej telegraf był stosowany jeszcze w latach 60. XX wieku. Pierwszy podmorski kabel pod kanałem La Manche położono w 1852 roku, a pod Oceanem Atlantyckim – w 1858 roku, ale dopiero w 1866 roku zaczęto oferować regularny serwis telegraficzny przez Atlantyk. Pocztowe usługi telegraficzne oferowano już w 1881 roku (Postal Telegraph System).
-
-Alexander Graham Bell (1847-1922) amerykański wynalazca i fizyk szkockiego pochodzenia, w 1876 opatentował wynalazek elektrycznego telefonu, który nazwał „udoskonaleniem telegrafu”, gdyż chciał usprawnić telegraf tak, aby było możliwe przesyłanie jedną linią telegraficzną wielu wiadomości w tej samej chwili. Interesując się muzyką, dążył również do przesyłania dźwięków i głosu – tak zrodził się pomysł telegrafu harmonicznego. Bell wynalazł również fotofon (1880), instrument służący do przesyłania dźwięku za pomocą promieni świetlnych, który można uznać za pierwszy telefon bezprzewodowy. Przez wiele lat ten ostatni wynalazek nie był doceniony, a faktycznie może być uznany za prekursora lasera i światłowodu. W 1877 A. G. Bell założył firmę Bell Telephone Company, kupioną w 1900 roku przez American Telephone and Telegraph Company (AT&T), która z latami wyrosła na najpotężniejszą firmę telekomunikacyjną w USA.
+Za początki komunikacji elektronicznej uważa się wynalezienie elektromagnesu
+i przekaźnika elektrycznego. Brytyjczyk William Sturgeon (1783-1850) zademonstrował
+w 1825 roku siłę elektromagnesu, podnosząc za jego pomocą
+znacznie większy ciężar, a w 1830 roku Joseph Henry potwierdził znaczenie tego
+odkrycia dla komunikacji na odległość, tworząc przekaźnik elektryczny – wysłał
+on na odległość ponad jednej mili sygnał elektryczny, który uaktywnił elektromagnes,
+a ten z kolei spowodował uderzenie w dzwonek. Tak narodził się telegraf
+(gr. pisać na odległość), pierwsze w pełni elektroniczne medium do komunikacji
+na odległość, w którym dane są przesyłane za pomocą przerywanych impulsów
+elektrycznych. Pierwsze komercyjne systemy telegraficzne zostały opracowane
+w 1837 roku, niezależnie w Anglii i w USA. W Anglii zrobili to znany fizyk Charles
+Wheatstone (1802-1875) i wynalazca William F. Cooke (1806-1879), a w USA –
+wynalazca i artysta Samuel Finley Breese Morse (1791-1872). W telegrafie Anglików
+użyto pięciu przewodów do wybierania odpowiednich liter, podczas gdy
+Morse posłużył się tylko jednym przewodem do przesyłania „kropek” i „kresek”,
+za pomocą których były kodowane litery i cyfry zgodnie z kodem Morse’a.
+W praktyce przyjął się ten drugi system, jako prostszy w budowie, łatwiejszy
+w użyciu i bardziej niezawodny. Praktyczna demonstracja udoskonalonego telegrafu
+Morse’a na znaczną odległość odbyła się 24 maja 1844 roku. Linią telegraficzną,
+zbudowaną za pieniądze Kongresu między odległymi o 60 km Baltimore
+i Washingtonem, przesłano wiadomość What hath God wrought? (... co Bóg uczynił
+– Biblia, Księga Liczb, Rozdział XXIII, 23). W zależności od wersji, przesyłane
+wiadomości były odbierane przez operatorów telegrafu na taśmie papierowej
+lub za pomocą słuchu.
+Pierwszymi większymi komercyjnymi odbiorcami systemów telegraficznych
+były linie kolejowe (przesyłano m.in. informacje o ruchu pociągów). Wheatstone
+i Cook założyli Electric Telegraph Company i w 1850 roku w Anglii było już ponad
+6 000 km linii telegraficznych. Ze względu na obszar, ten interes był jeszcze
+większy w USA – w 1854 roku było tam ponad 25 000 km linii telegraficznych (ponad
+70% sieci światowej). W 1861 roku firma Western Union położyła transkontynentalną
+linię telegraficzną do Kalifornii między oboma wybrzeżami USA, biegła
+ona głównie wzdłuż linii kolejowych. Wynalazek telegrafu zbiegł się w czasie
+z ekspansją na Zachód – świat biznesu ze Wschodniego Wybrzeża USA parł
+na Zachód. Był to historyczny zbieg okoliczności – właściwa rzecz pojawiła się we
+właściwym czasie. W komunikacji kolejowej telegraf był stosowany jeszcze w latach
+60. XX wieku.
+Pierwszy podmorski kabel pod kanałem La Manche położono w 1852 roku,
+a pod Oceanem Atlantyckim – w 1858 roku, ale dopiero w 1866 roku zaczęto oferować
+regularny serwis telegraficzny przez Atlantyk.
+Pocztowe usługi telegraficzne oferowano już w 1881 roku (Postal Telegraph
+System).
+Alexander Graham Bell (1847-1922) amerykański wynalazca i fizyk szkockiego
+pochodzenia, w 1876 opatentował wynalazek elektrycznego telefonu, który nazwał
+„udoskonaleniem telegrafu”, gdyż chciał usprawnić telegraf tak, aby było możliwe
+przesyłanie jedną linią telegraficzną wielu wiadomości w tej samej chwili. Interesując
+się muzyką, dążył również do przesyłania dźwięków i głosu – tak zrodził się pomysł
+telegrafu harmonicznego. Bell wynalazł również fotofon (1880), instrument służący
+do przesyłania dźwięku za pomocą promieni świetlnych, który można uznać
+za pierwszy telefon bezprzewodowy. Przez wiele lat ten ostatni wynalazek nie był
+doceniony, a faktycznie może być uznany za prekursora lasera i światłowodu.
+W 1877 A. G. Bell założył firmę Bell Telephone Company, kupioną w 1900 roku
+przez American Telephone and Telegraph Company (AT&T), która z latami wyrosła
+na najpotężniejszą firmę telekomunikacyjną w USA.
