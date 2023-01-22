@@ -1,28 +1,18 @@
-<button (click)="selectRandomElements(2)">Select Random Elements</button>
-
-<div *ngIf="selected">
-  <div *ngFor="let item of selected">
-    <div class="square">
-      <h2>{{ item.pytanie }}</h2>
-    </div>
-    <!--<div *ngFor="let pr of item.pr_odpowiedz">
-      <div class="square">
-        <p>{{ pr }}</p>
-      </div>
-    </div>-->
-
-  <div *ngIf="{ randomPositon: getRandomPosition(item.npr_odp.length) } as variable">
-    <div *ngFor="let npr of item.npr_odp; index as i">
-      <div *ngIf="i === variable.randomPositon" class="square" question="pr">
-        <p> {{ getCorrectAnswer(item) }} </p>
-      </div>
-      <div class="square" question="npr">
-        <p>{{ item.npr_odp[i] }}</p>
-      </div>
-    </div>
-    <div *ngIf="item.npr_odp.length === variable.randomPositon" class="square" question="pr">
-      <p> {{ getCorrectAnswer(item) }} </p>
-    </div>
-  </div>
-
-</div>
+<mat-card>
+  <mat-card-content>
+    {{questions[active_question].question}}
+  </mat-card-content>
+  <mat-card-actions *ngFor="let answer of questions[active_question].answers">
+    <button mat-button
+            (click)="checkAnswer(answer['correct'])"
+            [disabled]="isDisabled"
+            [ngClass]="setButtonColor(answer['correct'])">
+      {{answer['answer']}}
+    </button>
+  </mat-card-actions>
+  <mat-card-actions>
+    <button mat-button (click)="next()">
+      {{bottomButton}}
+    </button>
+  </mat-card-actions>
+</mat-card>

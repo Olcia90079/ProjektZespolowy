@@ -1,0 +1,10 @@
+.mat-card {
+  font-family: 'Roboto', sans-serif;
+}
+
+button, mat-card-content {
+  color: white;
+  background-color: #3f51b5;
+  width: 100%;
+  text-align: center;
+}
