@@ -1,11 +1,18 @@
 .mat-card {
   font-family: 'Roboto', sans-serif;
 }
-
-/* Style the buttons as desired */
-button, p {
+button, mat-card-content {
   color: white;
   background-color: #3f51b5;
   width: 100%;
   text-align: center;
+}
+.disabled {
+  background-color: gray;
+}
+.correct {
+  background-color: green;
+}
+.incorrect {
+  background-color: red;
 }

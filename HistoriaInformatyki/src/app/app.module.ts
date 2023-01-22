@@ -18,6 +18,7 @@ import { MatFormFieldModule } from '@angular/material/form-field';
 import { MatInputModule } from '@angular/material/input';
 import { MatPaginatorModule } from '@angular/material/paginator';
 import { MatToolbarModule } from '@angular/material/toolbar';
+import { QuizScoreComponent } from './quiz-score/quiz-score.component';
 
 
 @NgModule({
@@ -28,6 +29,7 @@ import { MatToolbarModule } from '@angular/material/toolbar';
     QuizWelcomeComponent,
     HomeComponent,
     MenuComponent,
+    QuizScoreComponent,
   ],
   imports: [
     BrowserModule,

@@ -1,12 +1,16 @@
-<mat-card >
+<mat-card>
   <mat-card-content>
-    <p>Question</p>
+    {{questions[active_question].question}}
   </mat-card-content>
-  <mat-card-actions>
-    <button mat-button>answer</button>
+  <mat-card-actions *ngFor="let answer of questions[active_question].answers">
+    <button mat-button
+            (click)="checkAnswer(answer['correct'])"
+            [disabled]="isDisabled">
+      {{answer['answer']}}
+    </button>
   </mat-card-actions>
   <mat-card-actions>
-    <button mat-button>
+    <button mat-button (click)="next()">
       Check/Next
     </button>
   </mat-card-actions>

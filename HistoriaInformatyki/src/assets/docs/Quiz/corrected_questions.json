@@ -1,20 +1,5 @@
 [
   {
-    "no": 0,
-    "page": "0",
-    "question": "test",
-    "answers": [
-      {
-        "answer": "test",
-        "correct": "True"
-      },
-      {
-        "answer": "test",
-        "correct": "False"
-      }
-    ]
-  },
-  {
     "no": 1,
     "page": "A",
     "question": "Co to abak?",
