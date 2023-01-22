@@ -72,12 +72,9 @@ export class QuizComponent implements OnInit {
       this.score = this.score - 1;
     }
 
-    setTimeout(() => {
-      if (this.active_question + 1 === this.questions.length) {
-        this.router.navigate(['/quiz-score'], { queryParams: { score: this.score, max_score: this.max_score } });
-      }
-      this.next();
-    }, 10000);
+    if (this.active_question + 1 === this.questions.length) {
+      this.router.navigate(['/quiz-score'], { queryParams: { score: this.score, max_score: this.max_score } });
+    }
     
   }
 
