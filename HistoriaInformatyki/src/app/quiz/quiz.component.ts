@@ -28,6 +28,7 @@ export class QuizComponent implements OnInit {
   score: number = 0;
   max_score: number = 0;
   isDisabled: boolean = false;
+  bottomButton: string = "Next";
 
   constructor(private http: HttpClient, private router: Router) { }
 
@@ -71,14 +72,25 @@ export class QuizComponent implements OnInit {
       this.score = this.score - 1;
     }
 
-    if (this.active_question + 1 === this.questions.length) {
-      this.router.navigate(['/quiz-score'], { queryParams: { score: this.score, max_score: this.max_score } });
-    }
-
     setTimeout(() => {
+      if (this.active_question + 1 === this.questions.length) {
+        this.router.navigate(['/quiz-score'], { queryParams: { score: this.score, max_score: this.max_score } });
+      }
       this.next();
-    }, 300);
+    }, 10000);
     
+  }
+
+  setButtonColor(correct: boolean) {
+    if (this.isDisabled) {
+      if (correct) {
+        return 'correct';
+      } else {
+        return 'incorrect';
+      }
+    } else {;
+      return '';
+    }
   }
 
 }
