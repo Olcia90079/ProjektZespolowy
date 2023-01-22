@@ -5,7 +5,8 @@
   <mat-card-actions *ngFor="let answer of questions[active_question].answers">
     <button mat-button
             (click)="checkAnswer(answer['correct'])"
-            [disabled]="isDisabled">
+            [disabled]="isDisabled"
+            [ngClass]="{'correct': answer['correct'], 'incorrect': !answer['correct']}">
       {{answer['answer']}}
     </button>
   </mat-card-actions>

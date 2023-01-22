@@ -6,15 +6,15 @@
     "answers": [
       {
         "answer": "starożytna plansza do rachowania",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "gra logiczna",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "system zapisu nut",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -25,15 +25,15 @@
     "answers": [
       {
         "answer": "kolejne liczby pierwsze",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "kolejne liczby parzyste",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "kolejne liczby nieparzyste",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -44,15 +44,15 @@
     "answers": [
       {
         "answer": "największy wspólny dzielnik",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "najmniejszy wspólny dzielnik",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "a do potęgi b",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -63,15 +63,15 @@
     "answers": [
       {
         "answer": "07.04.1399",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "07.06.1390",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "03.04.1899",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -82,15 +82,15 @@
     "answers": [
       {
         "answer": "systemie pozycyjnym",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "systemie topologicznym",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "systemie odległości",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -101,15 +101,15 @@
     "answers": [
       {
         "answer": "Indie",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "Półwysep Arabski",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "Afryka Północna",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -120,15 +120,15 @@
     "answers": [
       {
         "answer": "Muhammad ibn Musa al-Khwarizmi",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "Muhammad ibn Zakariya al-Razi",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "Pierre Omidyar",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -139,15 +139,15 @@
     "answers": [
       {
         "answer": "John Napier",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "Henry Briggs",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "Edward Sang",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -158,27 +158,27 @@
     "answers": [
       {
         "answer": "suan-pan(Chiny)",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "soroban(Japonia)",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "szczoty(Rosja)",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "san-gin(Chiny)",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "sato(Japonia)",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "tabuliczki(Rosja)",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -189,15 +189,15 @@
     "answers": [
       {
         "answer": "potęgi",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "iloczynu",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "logarymu",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -208,15 +208,15 @@
     "answers": [
       {
         "answer": "Willgodt Theophil Odhner",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "Salomon August Andree",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "Georg Theodor Chiewitz",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -227,15 +227,15 @@
     "answers": [
       {
         "answer": "Wilhelm Schickard",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "Willgodt Theophil Odhner",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "John Napier",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -246,15 +246,15 @@
     "answers": [
       {
         "answer": "Willgodt Theophil Odhner",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "Wilhelm Schickard",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "Georg Theodor Chiewitz",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -265,19 +265,19 @@
     "answers": [
       {
         "answer": "bębny schodkowe Leibniza",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "koło z ruchomymi zębami",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "wahadło Schickard",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "zapadki klepkowe",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -288,15 +288,15 @@
     "answers": [
       {
         "answer": "ubezpieczeniowych",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "giełdowych",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "wytrzymałościowych",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -307,15 +307,15 @@
     "answers": [
       {
         "answer": "Joseph Marie Jacquard",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "Daisy Taugelchee",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "Monique Demazière",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -326,15 +326,15 @@
     "answers": [
       {
         "answer": "Ada Augusta Lovelace",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "Jean Jennings Bartik",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "Frances Snyder Holder",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -345,19 +345,19 @@
     "answers": [
       {
         "answer": "różnicowa",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "analityczna ogólnego przeznaczenia",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "logarytmizująca",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "całkowania szczególnego przeznaczenia",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -368,11 +368,11 @@
     "answers": [
       {
         "answer": "nie",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "tak",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -383,11 +383,11 @@
     "answers": [
       {
         "answer": "nie",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "tak",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -398,19 +398,19 @@
     "answers": [
       {
         "answer": "What hath God wrought?",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "Co Bóg uczynił?",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "Have faith in God.",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "Gdzie Bóg, tam wszystko możliwe.",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -421,23 +421,23 @@
     "answers": [
       {
         "answer": "Charles Wheatstone",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "William Fothergill Cooke",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "Samuel Finley Morse",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "John Ricardo",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "Pavel Schilling",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -448,15 +448,15 @@
     "answers": [
       {
         "answer": "dzwiękowe za pomocą światła",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "świetlne za pomocą dźwięku",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "świetlne za pomocą światła",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -467,15 +467,15 @@
     "answers": [
       {
         "answer": "Alexander Graham Bell",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "Charles Wheatstone",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "Samuel Finley Morse",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -486,19 +486,19 @@
     "answers": [
       {
         "answer": "Alexander Graham Bell",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "Elisha Gray",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "Pavel Schilling",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "Samuel Finley Morse",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -509,19 +509,19 @@
     "answers": [
       {
         "answer": "łączenia rozmów telefonicznych",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "utrzymywania rozmów telefonicznych",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "propagowania numerów telefonicznych",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "przechowywania poczty głosowej",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -532,15 +532,15 @@
     "answers": [
       {
         "answer": "wywoływania centrali",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "utrzymywania połączenia",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "generowania prądu",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -551,15 +551,15 @@
     "answers": [
       {
         "answer": "TELEX",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "VISTEX",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "TEXSEND",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -570,15 +570,15 @@
     "answers": [
       {
         "answer": "tekstu",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "obrazu",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "dźwięku",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -589,15 +589,15 @@
     "answers": [
       {
         "answer": "lata 30 XX wieku",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "lata 20 XX wieku",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "lata 40 XX wieku",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -608,15 +608,15 @@
     "answers": [
       {
         "answer": "algebry logiki",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "analizy matematycznej",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "ciągów i szeregów",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -627,15 +627,15 @@
     "answers": [
       {
         "answer": "logiki",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "geometrii",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "arytmetyki",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -646,19 +646,19 @@
     "answers": [
       {
         "answer": "NOT(a OR b)=(NOT a) AND (NOT b)",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "NOT(a AND b)=(NOT a) OR (NOT b)",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "NOT(a OR b)=(NOT a) OR (NOT b)",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "NOT(a AND b)=(NOT a) AND (NOT b)",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -669,15 +669,15 @@
     "answers": [
       {
         "answer": "Jan Łukasiewicz",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "Stefan Mazurkiewicz",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "Wacław Sierpiński",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -688,15 +688,15 @@
     "answers": [
       {
         "answer": "jednoznaczny i bez nawiasów",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "jednoznaczny i z nawiasami",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "niejednoznaczny i bez nawiasów",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -707,15 +707,15 @@
     "answers": [
       {
         "answer": "argumenty poprzedzają znaki działań",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "znaki działań poprzedzają argumenty",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "występują nawiasy",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -726,15 +726,15 @@
     "answers": [
       {
         "answer": "od lewej do prawej",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "od prawej do lewej",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "w obie strony",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -745,15 +745,15 @@
     "answers": [
       {
         "answer": "Ramon Llull",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "Alexander of Hales",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "Roger Bacon",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -764,15 +764,15 @@
     "answers": [
       {
         "answer": "Charles Stanhope",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "Ramon Llull",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "John Montagu",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -783,15 +783,15 @@
     "answers": [
       {
         "answer": "demonstrator",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "wyznacznik",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "wskaźnik",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -802,27 +802,27 @@
     "answers": [
       {
         "answer": "drzewo",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "mapa karaugha",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "diagram venny",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "diagram llulla",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "graf cykliczny",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "pajęczyna",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -833,15 +833,15 @@
     "answers": [
       {
         "answer": "Gottfried Wilhelm Leibniz",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "George Cantor",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "Friedrich Bessel",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -852,15 +852,15 @@
     "answers": [
       {
         "answer": "Chiny",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "Włochy",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "Egipt",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -871,15 +871,15 @@
     "answers": [
       {
         "answer": "1895",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "1875",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "1905",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -890,15 +890,15 @@
     "answers": [
       {
         "answer": "Wilhelm Röntgen",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "Georg Wilhelm de Gennin",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "Karl Christian von Langsdorf",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -909,15 +909,15 @@
     "answers": [
       {
         "answer": "elektromechanicznie sterowanym ołówkiem",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "elektrycznie sterowanym piórem",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "nagrywano na cylindry",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -928,19 +928,19 @@
     "answers": [
       {
         "answer": "dane",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "programy",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "układy scalone",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "styki",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -951,15 +951,15 @@
     "answers": [
       {
         "answer": "sterowanie wzorem tkackim",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "kalkulacje",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "odtwarzanie muzyki",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -970,15 +970,15 @@
     "answers": [
       {
         "answer": "pięciobitowy kod Baudota",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "czterobitowy kod Baudota",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "trójbitowy kod Baudota",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -989,15 +989,15 @@
     "answers": [
       {
         "answer": "tabulacyjny",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "bitowy",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "interpretacyjny",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -1008,15 +1008,15 @@
     "answers": [
       {
         "answer": "maszyna drukarska Gutenberga",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "kalka techniczna",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "camera obscura ",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -1027,15 +1027,15 @@
     "answers": [
       {
         "answer": "Biblia Gutenberga",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "Słownik Gutenberga",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "Encyklopedia Gutenberga",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -1046,27 +1046,27 @@
     "answers": [
       {
         "answer": "maszyny Turinga",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "testu Turinga",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "Maszyny Collosum",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "cylindra Turinga",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "skanera Turinga",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "Maszyny Tytanium",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -1077,19 +1077,19 @@
     "answers": [
       {
         "answer": "komputer z programem w pamięci",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "komputer z autozapisem",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "maszyna z pamięcią",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "komputer z pamięcią",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -1100,19 +1100,19 @@
     "answers": [
       {
         "answer": "John von Neumann",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": " Lipót Fejér",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "Alfréd Haar",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "George Pólya",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -1123,27 +1123,27 @@
     "answers": [
       {
         "answer": "Marian Rejewski",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "Jerzy Różycki",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "Henryk Zygalski",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "Antoni Zygmund",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "Izabela Abramowicz",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "Stefan Bergman",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -1154,19 +1154,19 @@
     "answers": [
       {
         "answer": "1926",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "1936",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "1930",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "1920",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -1177,19 +1177,19 @@
     "answers": [
       {
         "answer": "Enigma",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "Typex",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "ECM Mark II",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "Sigaba",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -1200,23 +1200,23 @@
     "answers": [
       {
         "answer": "Bomba",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "Colossus",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "Typex",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "Tytan",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "Sigaba",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -1227,19 +1227,19 @@
     "answers": [
       {
         "answer": "Polski",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "Czechosłowacji",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "Szwajcarii",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "USA",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -1250,19 +1250,19 @@
     "answers": [
       {
         "answer": "1925",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "1924",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "1926",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "1928",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -1273,19 +1273,19 @@
     "answers": [
       {
         "answer": "ENIAC",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "BRINAC",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "XEROX",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "WHIRLWIND",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -1296,19 +1296,19 @@
     "answers": [
       {
         "answer": "UNIVAC I",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "XYZ",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "COLOSSUM",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "ENIAC",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -1319,19 +1319,19 @@
     "answers": [
       {
         "answer": "IBM 701",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "ENIAC",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "UNIVAC I",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "XEROX",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -1342,19 +1342,19 @@
     "answers": [
       {
         "answer": "Konrad Zuse",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "Jonathan Zenneck",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "Moritz Schröter",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "Gotthilf Hagen",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -1365,19 +1365,19 @@
     "answers": [
       {
         "answer": "Seymour Cray",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "Jack Kilby",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "Charles F. Kettering",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "Eugene Cernan",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -1388,19 +1388,19 @@
     "answers": [
       {
         "answer": "Seymour Cray",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "Konrad Zuse",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "Jerzy Różycki",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "Friedrich Bessel",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -1411,19 +1411,19 @@
     "answers": [
       {
         "answer": "superkomputerami",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "kompilatorami",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "kalkulatorami",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "telekomunikacją",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -1434,19 +1434,19 @@
     "answers": [
       {
         "answer": "pogodę i zjawiska przyrodnicze",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "globalną gospodarkę",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "przyrost naturalny",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "ruch w telekomunikacji",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -1457,19 +1457,19 @@
     "answers": [
       {
         "answer": "Blue Gene/L",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "Fugaku",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "Earth Simulator",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "Summit",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -1480,19 +1480,19 @@
     "answers": [
       {
         "answer": "w telegrafie",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "w telewizorze",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "w samochodzie",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "w mikrofalówce",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -1503,19 +1503,19 @@
     "answers": [
       {
         "answer": "tranzystor",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "opornik",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "dioda",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "multimetr",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -1526,27 +1526,27 @@
     "answers": [
       {
         "answer": "arytmetyczno-logiczna ALU",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "sterowania CU",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "rejestr(komórek pamięci)",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "logarytmiczna",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "rejestrowania CPU",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "pamięci",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -1557,19 +1557,19 @@
     "answers": [
       {
         "answer": "Nikola Tesla",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "Thomas Edison",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "Wilhelm Röntgen",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "Édouard-Léon Scott de Martinville",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -1580,19 +1580,19 @@
     "answers": [
       {
         "answer": "Nikola Tesla",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "Thomas Edison",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "Samuel Morse",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "Guglielmo Marconi",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -1603,19 +1603,19 @@
     "answers": [
       {
         "answer": "układu scalonego",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "lampy tranzystorowej",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "hashowania",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "półprzewodnika krzemowego",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -1626,19 +1626,19 @@
     "answers": [
       {
         "answer": "fizyki",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "matematyki",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "biologii",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "chemii",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -1649,19 +1649,19 @@
     "answers": [
       {
         "answer": "prawo Moore'a",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "prawo Marconi",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "prawo Bessel'a",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "prawo Hagena",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -1672,19 +1672,19 @@
     "answers": [
       {
         "answer": "Anita",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "Agata",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "Beata",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "Helena",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -1695,19 +1695,19 @@
     "answers": [
       {
         "answer": "BUSICOM LE-120A",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "ZABACOM LE-120A",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "KALCOM LE-120A",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "ZUPICOM LE-120A",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -1718,19 +1718,19 @@
     "answers": [
       {
         "answer": "HP-65",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "HP-35",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "XYZ",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "MOORE",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -1741,19 +1741,19 @@
     "answers": [
       {
         "answer": "25kg",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "5kg",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "7kg",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "15kg",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -1764,19 +1764,19 @@
     "answers": [
       {
         "answer": "XEROX PARC ALTO",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "PDP-8",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "VAX",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "LINC",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -1787,19 +1787,19 @@
     "answers": [
       {
         "answer": "BASIC",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "C",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "JAVA",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "PERL",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -1810,19 +1810,19 @@
     "answers": [
       {
         "answer": "VISICALC",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "APPLE II",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "CALKAC",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "EXCELL",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -1833,19 +1833,19 @@
     "answers": [
       {
         "answer": "IBM PC (IBM 5150)",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "SCAMP",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "IBM 5100 Portable Computer",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "IBM 1401",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -1856,19 +1856,19 @@
     "answers": [
       {
         "answer": "1981",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "1970",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "1990",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "1937",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -1879,19 +1879,19 @@
     "answers": [
       {
         "answer": "Clive Sinclair",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "Vannevar Bush",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "Charles Babbage",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "John Hadley",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -1902,19 +1902,19 @@
     "answers": [
       {
         "answer": "tytuł szlachecki",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "dofinansowanie",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "ziemie",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "medal",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -1925,19 +1925,19 @@
     "answers": [
       {
         "answer": "JUNET",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "JUNGEN",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "JUNIORNET",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "JURNET",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -1948,19 +1948,19 @@
     "answers": [
       {
         "answer": "ELWRO 800 JUNIOR",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "XYZ",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "ENIGMA 107",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "VISICALC",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -1971,19 +1971,19 @@
     "answers": [
       {
         "answer": "hipertekst",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "hiperlink",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "hiperdata",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "hipermeta",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -1994,19 +1994,19 @@
     "answers": [
       {
         "answer": "obraz, dźwięk i film",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "obraz",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "dźwięk",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "film",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -2017,19 +2017,19 @@
     "answers": [
       {
         "answer": "Douglas Engelbart",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "Paul Buchheit",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "Ron Watkins",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "Mike Krieger",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -2040,19 +2040,19 @@
     "answers": [
       {
         "answer": "Ray Tomlinson",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "Paul Buchheit",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "Ron Watkins",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "Douglas Engelbart",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -2063,19 +2063,19 @@
     "answers": [
       {
         "answer": "Timothy J. Berners-Lee",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "Vannevar Bush",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "Tom linson",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "Mike Krieger",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -2086,19 +2086,19 @@
     "answers": [
       {
         "answer": "Utah, Santa Barbara, Los Angeles",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "Utah, Waszyngton, Los Angeles",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "Nowy York, Santa Barbara, Los Angeles",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "Utah, Santa Barbara, Chicago",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -2109,19 +2109,19 @@
     "answers": [
       {
         "answer": "ARPANET i MILNET",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "ARPANET I i ARPANET II",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "ARPACIV i ARPAMIL",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "WWW i MILNET",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -2132,19 +2132,19 @@
     "answers": [
       {
         "answer": "Vinton G. Cerf i Robert E. Kahn",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "Tom linson i Robert E. Kahn",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "Vinton G. Cerf i Paul Buchheit",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "Vinton G. Cerf i Timothy J. Berners-Lee",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -2155,19 +2155,19 @@
     "answers": [
       {
         "answer": "Leon Łukaszewicz",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "Mirosław Dymek",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "Jan Pikul",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "MArcin Borkowski",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -2178,19 +2178,19 @@
     "answers": [
       {
         "answer": "kręcąc gałkami",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "przesuwając dźwigniami",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "tablicami perforowanymi",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "za pomocą myszki",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -2201,19 +2201,19 @@
     "answers": [
       {
         "answer": "SAS",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "SUS",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "SOS",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "ANSYS",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -2224,19 +2224,19 @@
     "answers": [
       {
         "answer": "SAKO",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "SUKO",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "SAKE",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "ASYS",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -2247,19 +2247,19 @@
     "answers": [
       {
         "answer": "drugiej i trzeciej",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "pierwszej i drugiej",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "trzeciej i czwartej",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "pierwszej i trzeciej",
-        "correct": "False"
+        "correct": false
       }
     ]
   },
@@ -2270,19 +2270,19 @@
     "answers": [
       {
         "answer": "KOMPUTER JS EMC R-32",
-        "correct": "True"
+        "correct": true
       },
       {
         "answer": "KOMPUTER JJ MNE T-22",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "KOMPUTER CS AGA T-32",
-        "correct": "False"
+        "correct": false
       },
       {
         "answer": "KOPERNIK JS EMC R-32",
-        "correct": "False"
+        "correct": false
       }
     ]
   }
