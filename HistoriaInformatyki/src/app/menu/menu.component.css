@@ -7,9 +7,36 @@
   margin: auto;
 }
 
-/* Style the buttons as desired */
+/* the buttons has been styled as desired */
 button {
   color: white;
-  background-color: #3f51b5;
+  background-color: #212478;
   width: 30%;
+}
+
+@media only screen and (max-width: 600px) {
+  button {
+    font-size: 0.85em;
+    padding: 2%;
+  }
+}
+
+/* change font-size and padding on bigger screens */
+@media only screen and (min-width: 601px) {
+  button {
+    font-size: 1.4em;
+    padding: 0.85%;
+  }
+}
+
+#home-button.active {
+  background-color: red;
+}
+
+#quiz-welcome-button.active {
+  background-color: red;
+}
+
+#tablica-button.active {
+  background-color: red;
 }

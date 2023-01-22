@@ -6,7 +6,7 @@
   margin-top: 3%;
   height: 100%;
   width: 90vw; /* change width to match the first code */
-  background-color: #3f51b5;
+  background-color: #464575;
   border-radius: 10px;
   margin-right: auto;
   margin-left: auto;
@@ -23,6 +23,16 @@ pre {
   white-space:break-spaces;
   width: 90%;
   font-family: 'Roboto', sans-serif;
+}
+
+pre {
+  font-size: 0.9em;
+}
+
+@media only screen and (min-width: 768px) {
+  pre {
+    font-size: 1.5em;
+  }
 }
 
 /* Sekcja dot strzałek nawigacyjnych */
@@ -49,4 +59,46 @@ pre {
 
 .right-arrow {
   right: 0;
+}
+
+.speech-controls {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  padding-bottom: 0.8%;
+  padding-top: 0.8%;
+}
+
+button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5%;
+  font-size: 1.5em;
+  cursor: pointer;
+  text-align: center;
+}
+
+button:not(:last-child) {
+  margin-right: 1%;
+}
+
+/* change font-size and padding on smaller screens */
+@media only screen and (max-width: 767px) {
+  button {
+    font-size: 1em;
+    padding: 3%;
+  }
+}
+
+/* change font-size and padding on bigger screens */
+@media only screen and (min-width: 768px) {
+  button {
+    font-size: 1.1em;
+    padding: 1%;
+  }
+}
+
+button:hover {
+  background-color: #b7bfef;
 }
