@@ -2,8 +2,6 @@ import { Component, OnInit, Input } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { ActivatedRoute, Router } from '@angular/router';
 
-const synth = window.speechSynthesis;
-
 @Component({
   selector: 'app-tablice',
   templateUrl: './tablice.component.html',
@@ -65,13 +63,14 @@ export class TabliceComponent implements OnInit {
   }
 
   speakText() {
-    if(!synth.speaking){
+    if(!this.isSpeaking){
         this.isSpeaking = true;
+        const synth = window.speechSynthesis;
         const utterance = new SpeechSynthesisUtterance(this.currentBoard);
         let polishVoice: SpeechSynthesisVoice|undefined;
 
         synth.getVoices().forEach(voice => {
-            if (voice.lang === 'pl-PL' || voice.lang === 'pl' || voice.lang === 'pl_PL') {
+            if (voice.lang === 'pl-PL' || voice.lang === 'pl') {
                 polishVoice = voice;
             }
         });
@@ -80,25 +79,28 @@ export class TabliceComponent implements OnInit {
             utterance.voice = polishVoice;
             synth.speak(utterance);
         }else{
-            synth.speak(utterance);
             console.log("Polish language not supported");
+            this.isSpeaking = false;
         }
     }
 }
   
 
   stopSpeech() {
+    const synth = window.speechSynthesis;
     synth.cancel();
     this.isSpeaking = false;
     this.isPaused = false;
   }
 
   pauseSpeech() {
+    const synth = window.speechSynthesis;
     synth.pause();
     this.isPaused = true;
   }
 
   resumeSpeech() {
+    const synth = window.speechSynthesis;
     if(synth.paused)
         synth.resume();
     else

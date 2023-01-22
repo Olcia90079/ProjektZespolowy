@@ -1,12 +1,56 @@
 8a. Teoretyczne podwaliny informatyki
 
 
-Dwóch największych naukowców, matematyków i informatyków XX wieku, Alan Turing i John von Neumann, w pierwszej połowie XX wieku położyło teoretyczne podwaliny zarówno pod teorię obliczeń, jak i pod budowę praktycznych urządzeń obliczeniowych – komputerów.
-
-Alan Turing w 1936 roku, a więc przed zbudowaniem jakiegokolwiek komputera w dzisiejszym sensie, przedstawił model uniwersalnego komputera, znany jako maszyna Turinga, który posłużył również do sformalizowania pojęcia algorytm. Ta maszyna składa się z nieskończonej taśmy do zapisywania na niej danych i wyników, oraz głowicy, która wykonuje działania zgodnie z podanym zestawem „poleceń”, czyli programem, uwzględniając przy tym zawartość taśmy. Maszynę Turinga można uznać za sformalizowanie pojęcia algorytm. Obecnie budowane komputery są fizycznymi realizacjami maszyny Turinga w tym sensie, że, jak głosi teza Turinga, każde urządzenie obliczeniowe ma co najwyżej takie możliwości jak maszyna Turinga. Turing wskazał również na istnienie problemów, których nie można rozwiązać za pomocą maszyny Turinga, czyli także komputera.
-
-Turing wniósł również istotny wkład w budowę rzeczywistych komputerów. Podczas II wojny światowej, zajmując się łamaniem szyfrów niemieckich maszyn Enigma i Lorenz w Bletchley Park koło Londynu, udoskonalił „bombę” produkcji polskich kryptografów, kierowanych przez Mariana Rejewskiego – urządzenie do weryfikowania i odrzucania ustawień maszyny Enigma i wywarł duży wpływ na projekt oraz budowę pierwszej elektronicznej maszyny cyfrowej Colossus, działającej od grudnia 1943 roku. Po wojnie pracował również nad projektem komputera ACE (ang. Automatic Computing Engine) w National Physical Laboratory, który jednak nie został zbudowany i zajmował się oprogramowaniem dla jednego z pierwszych rzeczywistych komputerów Manchester Mark I. Przez cały czas, jako logik, interesował się, na ile komputer może naśladować ludzkie myślenie i zaproponował test, zwany testem Turinga, służący do badania, czy maszyny mogą myśleć.
-
-John von Neumann wniósł istotny wkład do wielu dziedzin nauki: matematyki, fizyki, ekonomii, nauk przyrodniczych. W czasie II wojny światowej podczas prac na potrzeby wojska, zetknął się z wieloma projektami, których celem było skonstruowanie maszyny liczącej. Wcześniej, bo w latach 1936-1938, miał okazję spotykać A. M. Turinga (krótko po opublikowaniu przez niego pracy zawierającej opis maszyny Turinga), przebywającego w Princeton. Spotkania te zapewne wywarły wpływ na sposób myślenia von Neumanna o komputerach. Swoją propozycję budowy i funkcjonowania komputera von Neumann przedstawił w raporcie znanym jako The First Draft z 1945 roku dotyczącym maszyny EDVAC. W tym raporcie nakreślił logiczną strukturę budowy komputera, określaną mianem architektura von Neumanna, która jest realizowana w komputerach od połowy XX wieku aż po dzisiejsze komputery PC.
-
-W tej architekturze, system komputerowy składa się z czterech głównych części: jednostki arytmetycznej (wykonującej cztery podstawowe operacje), jednostki sterującej (nadzorującej wykonywanie operacji w odpowiedniej kolejności i współdziałanie poszczególnych jednostek podczas wykonywania programu), pamięci (w której przechowywane są dane, wyniki i wyniki pośrednie) oraz urządzeń wejścia/wyjścia. Najważniejszą własnością tej architektury jest rola przypisana pamięci – służy ona do przechowywania danych i programów, skąd wynika m.in., że program może się modyfikować podczas wykonywania. Stąd pochodzi też inna nazwa tej architektury – komputer z programem w pamięci lub komputer z programem wewnętrznym (ang. stored-program computer). Pierwszych śladów maszyny z programem w pamięci można się dopatrzyć w projektach Babbage’a, a zwłaszcza Ady, pisał o tym również K. Zuse w 1936 roku, a także twórcy maszyny ENIAC interesowali się zbudowaniem takiej maszyn. Jednak dopiero von Neumann pierwszy opisał taką maszynę w swoim sławnym Pierwszym szkicu.
+Dwóch największych naukowców, matematyków i informatyków XX wieku,
+Alan Turing i John von Neumann, w pierwszej połowie XX wieku położyło teore-
+tyczne podwaliny zarówno pod teorię obliczeń, jak i pod budowę praktycznych
+urządzeń obliczeniowych – komputerów.
+Alan Turing w 1936 roku, a więc przed zbudowaniem jakiegokolwiek kompute-
+ra w dzisiejszym sensie, przedstawił model uniwersalnego komputera, znany jako
+maszyna Turinga, który posłużył również do sformalizowania pojęcia algorytm. Ta
+maszyna składa się z nieskończonej taśmy do zapisywania na niej danych i wyników,
+oraz głowicy, która wykonuje działania zgodnie z podanym zestawem „poleceń”,
+czyli programem, uwzględniając przy tym zawartość taśmy. Maszynę Turinga moż-
+na uznać za sformalizowanie pojęcia algorytm. Obecnie budowane komputery są
+fizycznymi realizacjami maszyny Turinga w tym sensie, że, jak głosi teza Turinga,
+każde urządzenie obliczeniowe ma co najwyżej takie możliwości jak maszyna Tu-
+ringa. Turing wskazał również na istnienie problemów, których nie można rozwią-
+zać za pomocą maszyny Turinga, czyli także komputera.
+Turing wniósł również istotny wkład w budowę rzeczywistych komputerów. Pod-
+czas II wojny światowej, zajmując się łamaniem szyfrów niemieckich maszyn Enigma
+i Lorenz w Bletchley Park koło Londynu, udoskonalił „bombę” produkcji polskich
+kryptografów, kierowanych przez Mariana Rejewskiego – urządzenie do weryfikowa-
+nia i odrzucania ustawień maszyny Enigma i wywarł duży wpływ na projekt oraz bu-
+dowę pierwszej elektronicznej maszyny cyfrowej Colossus, działającej od grudnia
+1943 roku. Po wojnie pracował również nad projektem komputera ACE (ang. Auto-
+matic Computing Engine) w National Physical Laboratory, który jednak nie został
+zbudowany i zajmował się oprogramowaniem dla jednego z pierwszych rzeczywistych
+komputerów Manchester Mark I. Przez cały czas, jako logik, interesował się, na ile
+komputer może naśladować ludzkie myślenie i zaproponował test, zwany testem
+Turinga, służący do badania, czy maszyny mogą myśleć.
+John von Neumann wniósł istotny wkład do wielu dziedzin nauki: matematy-
+ki, fizyki, ekonomii, nauk przyrodniczych. W czasie II wojny światowej podczas
+prac na potrzeby wojska, zetknął się z wieloma projektami, których celem było
+skonstruowanie maszyny liczącej. Wcześniej, bo w latach 1936-1938, miał okazję
+spotykać A. M. Turinga (krótko po opublikowaniu przez niego pracy zawierają-
+cej opis maszyny Turinga), przebywającego w Princeton. Spotkania te zapewne
+wywarły wpływ na sposób myślenia von Neumanna o komputerach. Swoją propo-
+zycję budowy i funkcjonowania komputera von Neumann przedstawił w raporcie
+znanym jako The First Draft z 1945 roku dotyczącym maszyny EDVAC. W tym ra-
+porcie nakreślił logiczną strukturę budowy komputera, określaną mianem archi-
+tektura von Neumanna, która jest realizowana w komputerach od połowy
+XX wieku aż po dzisiejsze komputery PC. W tej architekturze, system kompute-
+rowy składa się z czterech głównych części: jednostki arytmetycznej (wykonującej
+cztery podstawowe operacje), jednostki sterującej (nadzorującej wykonywanie
+operacji w odpowiedniej kolejności i współdziałanie poszczególnych jednostek
+podczas wykonywania programu), pamięci (w której przechowywane są dane, wy-
+niki i wyniki pośrednie) oraz urządzeń wejścia/wyjścia. Najważniejszą własnością
+tej architektury jest rola przypisana pamięci – służy ona do przechowywania da-
+nych i programów, skąd wynika m.in., że program może się modyfikować podczas
+wykonywania. Stąd pochodzi też inna nazwa tej architektury – komputer z pro-
+gramem w pamięci lub komputer z programem wewnętrznym (ang. stored-program
+computer). Pierwszych śladów maszyny z programem w pamięci można się dopa-
+trzyć w projektach Babbage’a, a zwłaszcza Ady, pisał o tym również K. Zuse
+w 1936 roku, a także twórcy maszyny ENIAC interesowali się zbudowaniem ta-
+kiej maszyn. Jednak dopiero von Neumann pierwszy opisał taką maszynę w swo-
+im sławnym Pierwszym szkicu.

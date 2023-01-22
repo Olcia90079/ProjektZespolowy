@@ -1,16 +1,42 @@
 10b. Kalkulatory elektroniczne
 
 
-Kalkulator to urządzenie służące do wykonywania obliczeń liczbowych (numerycznych). Kalkulator różni się od komputera i maszyny obliczeniowej (ang. calculating machine) tym, że na ogół jest urządzeniem wykonującym tylko niektóre operacje lub działającym według pewnego typu algorytmu (jak maszyna różnicowa Babbage’a), nie jest więc maszyną ogólnego przeznaczenia i nie można go uznać za maszynę Turinga. Chociaż współczesne kalkulatory są budowane na procesorach ogólnego przeznaczenia, mają wiele cech komputerów (można je programować), to są projektowane, by ułatwić wykonywanie tylko pewnych operacji i obliczanie wybranych funkcji.
-
-Spotkać można kalkulatory wykonujące tylko cztery działania i wyposażone w pojedynczą komórkę pamięci, stosowane w najprostszych codziennych obliczeniach. Bardziej zaawansowane umożliwiają obliczanie wartości funkcji inżynierskich, a najbardziej rozbudowane mogą być programowane, a wyniki są wyświetlane w postaci graficznej. Proste kalkulatory można znaleźć w urządzeniach takich jak zegarki lub telefony komórkowe. Dzisiaj komputery osobiste są wyposażone w programy symulujące, także swoim wyglądem, tradycyjne kalkulatory proste i inżynierskie. Kalkulatory inżynierskie, umożliwiające obliczanie wartości funkcji elementarnych, pojawiły się w połowie lat 70. XX wieku i na dobre wyparły z użycia suwaki logarytmiczne.
-
-Współczesne kalkulatory są budowane z układów scalonych w technologii półprzewodnikowej. Zasilane są bateriami lub promieniami słonecznymi. Produkowane są przez bardzo wiele firm, ale ton rywalizacji nadają cztery firmy: Casio, HP (Hewlett-Packard), Sharp i TI (Texas Instruments).
-
-Początkowo elektroniczne kalkulatory desk-top, a póśniej kieszonkowe (pocket) lub hand-held, były bardzo drogie. Na początku lat 60. XX wieku ich cena była porównywalna z ceną samochodu (około $1000). Spowodowane to było wysokimi cenami materiałów i elementów, z których były budowane, a także liczbą elementów, z których się składały. Dopiero układy scalone i póśniejsza miniaturyzacja elektroniki spowodowały drastyczny spadek ceny elementów składowych.
-
-Elektroniczne kalkulatory spowodowały powstanie pierwszego mikroprocesora Intel 4004 – zaprojektowany on został dla kalkulatorów firmy japońskiej Busiom. Podobne było przeznaczenie mikroprocesora TMS 1000 wyprodukowanego przez Texas Instruments w 1971 roku. Na początku swojej historii rozwoju, mikroprocesory powstawały z myślą głównie o kalkulatorach elektronicznych.
-
+Kalkulator to urządzenie służące do wykonywania obliczeń liczbowych (nume-
+rycznych). Kalkulator różni się od komputera i maszyny obliczeniowej (ang. calcu-
+lating machine) tym, że na ogół jest urządzeniem wykonującym tylko niektóre ope-
+racje lub działającym według pewnego typu algorytmu (jak maszyna różnicowa
+Babbage’a), nie jest więc maszyną ogólnego przeznaczenia i nie można go uznać
+za maszynę Turinga. Chociaż współczesne kalkulatory są budowane na procesorach
+ogólnego przeznaczenia, mają wiele cech komputerów (można je programować),
+to są projektowane, by ułatwić wykonywanie tylko pewnych operacji i obliczanie
+wybranych funkcji.
+Spotkać można kalkulatory wykonujące tylko cztery działania i wyposażone
+w pojedynczą komórkę pamięci, stosowane w najprostszych codziennych oblicze-
+niach. Bardziej zaawansowane umożliwiają obliczanie wartości funkcji inżynier-
+skich, a najbardziej rozbudowane mogą być programowane, a wyniki są wyświetla-
+ne w postaci graficznej. Proste kalkulatory można znaleźć w urządzeniach takich
+jak zegarki lub telefony komórkowe. Dzisiaj komputery osobiste są wyposażone
+w programy symulujące, także swoim wyglądem, tradycyjne kalkulatory proste i in-
+żynierskie. Kalkulatory inżynierskie, umożliwiające obliczanie wartości funkcji ele-
+mentarnych, pojawiły się w połowie lat 70. XX wieku i na dobre wyparły z użycia
+suwaki logarytmiczne.
+Współczesne kalkulatory są budowane z układów scalonych w technologii pół-
+przewodnikowej. Zasilane są bateriami lub promieniami słonecznymi. Produkowa-
+ne są przez bardzo wiele firm, ale ton rywalizacji nadają cztery firmy: Casio, HP
+(Hewlett-Packard), Sharp i TI (Texas Instruments).
+Początkowo elektroniczne kalkulatory desk-top, a póśniej kieszonkowe (pocket)
+lub hand-held, były bardzo drogie. Na początku lat 60. XX wieku ich cena była po-
+równywalna z ceną samochodu (około $1000). Spowodowane to było wysokimi ce-
+nami materiałów i elementów, z których były budowane, a także liczbą elementów,
+z których się składały. Dopiero układy scalone i póśniejsza miniaturyzacja elektro-
+niki spowodowały drastyczny spadek ceny elementów składowych.
+Elektroniczne kalkulatory spowodowały powstanie pierwszego mikroprocesora
+Intel 4004 – zaprojektowany on został dla kalkulatorów firmy japońskiej Busiom.
+Podobne było przeznaczenie mikroprocesora TMS 1000 wyprodukowanego przez
+Texas Instruments w 1971 roku. Na początku swojej historii rozwoju, mikroproce-
+sory powstawały z myślą głównie o kalkulatorach elektronicznych.
 Pierwsze kalkulatory elektroniczne zaczęto budować na początku lat 60.
-
-XX wieku, i z czasem zaczęły one wypierać kalkulatory mechaniczno-elektryczne. Do końca tej dekady kalkulatory te były jeszcze pokaśnych rozmiarów i dość dużo kosztowały, chociaż stanowiły już wyposażenie osobistych stanowisk pracy (biurek) – były to modele desk-top.
+XX wieku, i z czasem zaczęły one wypierać kalkulatory mechaniczno-elektryczne.
+Do końca tej dekady kalkulatory te były jeszcze pokaśnych rozmiarów i dość dużo
+kosztowały, chociaż stanowiły już wyposażenie osobistych stanowisk pracy (biurek)
+– były to modele desk-top.
