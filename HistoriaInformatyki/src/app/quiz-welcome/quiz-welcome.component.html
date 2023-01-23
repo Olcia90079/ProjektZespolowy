@@ -1,2 +1,12 @@
-<p>quiz-welcome works!</p>
-<button mat-button>Start!</button>
+<mat-card>
+  <mat-card-content>
+    Witaj w sekcji quizu! Za każdą poprawną odpowiedź otrzymasz 1 punkt, za każdą pomyłkę stracisz 1 punkt. Możesz również ominąć pytanie.
+    Maksymalnie zdobędziesz 3 punkty, minimalnie -3. Pytania mogą zawierać do 3 poprawnych odowiedzi ale wystarczy wybrać jedną z nich.
+    Powodzenia!
+  </mat-card-content>
+  <mat-card-actions>
+    <button mat-button routerLink="/quiz">
+      Graj!
+    </button>
+  </mat-card-actions>
+</mat-card>
