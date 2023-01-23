@@ -28,7 +28,7 @@ export class QuizComponent implements OnInit {
   score: number = 0;
   max_score: number = 0;
   isDisabled: boolean = false;
-  bottomButton: string = "Next";
+  bottomButton: string = "Dalej";
 
   constructor(private http: HttpClient, private router: Router) { }
 

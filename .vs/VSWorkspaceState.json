@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\HistoriaInformatyki",
+    "\\HistoriaInformatyki\\src",
+    "\\HistoriaInformatyki\\src\\app",
+    "\\HistoriaInformatyki\\src\\app\\quiz"
   ],
-  "SelectedNode": "\\C:\\Users\\Dell\\source\\repos\\ProjektZespolowy",
   "PreviewInSolutionExplorer": false
 }
