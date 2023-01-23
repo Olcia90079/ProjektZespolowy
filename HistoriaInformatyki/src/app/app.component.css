@@ -1,6 +1,7 @@
 .main-contener {
   display: flex;
   flex-direction: column;
+  overflow: hidden;
 }
 
 .logo-title {

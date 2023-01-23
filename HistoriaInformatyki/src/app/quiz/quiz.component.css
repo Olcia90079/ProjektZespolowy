@@ -5,6 +5,10 @@
   align-items: center;
   margin: auto;
   width: 90vw;
+  overflow: hidden;
+}
+mat-card-actions {
+  overflow: hidden;
 }
 mat-card-content {
   color: white;
@@ -13,6 +17,7 @@ mat-card-content {
   width: 100%;
   padding-top: 1%;
   padding-bottom: 1%;
+  overflow: hidden;
 }
 button {
   color: white;

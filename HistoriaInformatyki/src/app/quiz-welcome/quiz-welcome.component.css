@@ -5,6 +5,7 @@
   align-items: center;
   margin: auto;
   width: 90vw;
+  overflow: hidden;
 }
 
 mat-card-content {
