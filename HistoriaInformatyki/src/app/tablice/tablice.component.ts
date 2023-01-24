@@ -37,6 +37,9 @@ export class TabliceComponent implements OnInit {
       const index = this.route.snapshot.params['id'];
       this.displayTextFile(index);
     });
+
+    this.speakText();
+    this.stopSpeech();
   }
 
 
