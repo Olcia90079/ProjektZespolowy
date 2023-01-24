@@ -44,7 +44,6 @@ export class QuizComponent implements OnInit {
 
   pickRandomQuestions(numElements: number, numAnswers: number, questions: QuizzQuestion[]) {
     this.max_score = numElements;
-    questions = questions.filter(item => item.no !== 0 || item.page !== 0);
     questions.sort(() => Math.random() - 0.5);
 
     for (let i = 0; i < questions.length; i++) {
@@ -56,24 +55,26 @@ export class QuizComponent implements OnInit {
   }
 
   next() {
+    if (this.active_question + 1 === this.questions.length) {
+      this.router.navigate(['/quiz-score'], { queryParams: { score: this.score, max_score: this.max_score } });
+    }
     if (this.active_question + 1 < this.questions.length) {
       this.active_question += 1;
       this.isDisabled = false;
     }
-
   }
 
   checkAnswer(correct: boolean) {
     this.isDisabled = true;
 
+    if (this.active_question + 1 === this.questions.length) {
+      this.bottomButton = "Wyświetl wynik";
+    }
+
     if (correct) {
       this.score = this.score + 1;
     } else {
       this.score = this.score - 1;
-    }
-
-    if (this.active_question + 1 === this.questions.length) {
-      this.router.navigate(['/quiz-score'], { queryParams: { score: this.score, max_score: this.max_score } });
     }
     
   }
