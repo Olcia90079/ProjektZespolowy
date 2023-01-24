@@ -27,15 +27,15 @@ export class TabliceComponent implements OnInit {
 
   ngOnInit() {
 
-    this.route.params.subscribe(params => {
-      this.index = params['id'];
-      this.displayTextFile(this.index);
-    });
-
     this.http.get('assets/docs/Tablice/SpisTablic.json').subscribe((spisTablic: Object) => {
       this.spisTablic = spisTablic as string[];
       const index = this.route.snapshot.params['id'];
       this.displayTextFile(index);
+
+      this.route.params.subscribe(params => {
+        this.index = params['id'];
+        this.displayTextFile(this.index);
+      });
     });
   }
 
@@ -56,9 +56,8 @@ export class TabliceComponent implements OnInit {
     this.stopSpeech();
   }
 
-
-
   displayTextFile(index: number) {
+    // console.trace(index, this.spisTablic)
     this.http.get(`assets/docs/Tablice/${this.spisTablic[index]}.txt`, { responseType: 'text' }).subscribe(currentBoard => {
       this.currentBoard = currentBoard;
       this.initializeSpeechText(currentBoard);
