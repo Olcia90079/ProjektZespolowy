@@ -11,13 +11,13 @@ const synth = window.speechSynthesis;
 })
 
 export class TabliceComponent implements OnInit {
-  
-  spisTablic: string[]; // Array to store the text files
-  @Input() currentBoard:string; // Variable to store the text file contents
-  index: number;
-  isSpeaking = false; 
-  isPaused = false;
 
+  spisTablic: string[]; // Array to store the text files
+  currentBoard: string; // Variable to store the text file contents
+  index: number;
+  isSpeaking = false;
+  isPaused = false;
+  utterance = new SpeechSynthesisUtterance('');
 
   constructor(private http: HttpClient, private route: ActivatedRoute, private router: Router) {
     this.currentBoard = '';
@@ -37,7 +37,21 @@ export class TabliceComponent implements OnInit {
       const index = this.route.snapshot.params['id'];
       this.displayTextFile(index);
     });
+  }
 
+  initializeSpeechText(currentBoard: string) {
+    this.utterance = new SpeechSynthesisUtterance(currentBoard);
+    let polishVoice: SpeechSynthesisVoice | undefined;
+
+    synth.getVoices().forEach(voice => {
+      if (voice.lang === 'pl-PL' || voice.lang === 'pl' || voice.lang === 'pl_PL') {
+        polishVoice = voice;
+        this.utterance.voice = polishVoice;
+
+      }
+    });
+
+    
     this.speakText();
     this.stopSpeech();
   }
@@ -47,6 +61,7 @@ export class TabliceComponent implements OnInit {
   displayTextFile(index: number) {
     this.http.get(`assets/docs/Tablice/${this.spisTablic[index]}.txt`, { responseType: 'text' }).subscribe(currentBoard => {
       this.currentBoard = currentBoard;
+      this.initializeSpeechText(currentBoard);
       this.stopSpeech();
     });
   }
@@ -68,27 +83,12 @@ export class TabliceComponent implements OnInit {
   }
 
   speakText() {
-    if(!synth.speaking){
-        this.isSpeaking = true;
-        const utterance = new SpeechSynthesisUtterance(this.currentBoard);
-        let polishVoice: SpeechSynthesisVoice|undefined;
-
-        synth.getVoices().forEach(voice => {
-            if (voice.lang === 'pl-PL' || voice.lang === 'pl' || voice.lang === 'pl_PL') {
-                polishVoice = voice;
-            }
-        });
-
-        if(polishVoice){
-            utterance.voice = polishVoice;
-            synth.speak(utterance);
-        }else{
-            synth.speak(utterance);
-            console.log("Polish language not supported");
-        }
+    if (!synth.speaking) {
+      this.isSpeaking = true;
+      synth.speak(this.utterance);
     }
-}
-  
+  }
+
 
   stopSpeech() {
     synth.cancel();
@@ -102,9 +102,9 @@ export class TabliceComponent implements OnInit {
   }
 
   resumeSpeech() {
-    if(synth.paused)
-        synth.resume();
+    if (synth.paused)
+      synth.resume();
     else
-        console.log("Speech is not paused");
+      console.log("Speech is not paused");
   }
 }
