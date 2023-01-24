@@ -1,6 +1,7 @@
 import { HttpClient } from '@angular/common/http';
 import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
+import { SharedService } from '../shared.service';
 
 interface Answer {
   answer: string;
@@ -26,11 +27,11 @@ export class QuizComponent implements OnInit {
   questions: QuizzQuestion[] = [];
   active_question: number = 0;
   score: number = 0;
-  max_score: number = 0;
+  maxScore: number = 0;
   isDisabled: boolean = false;
   bottomButton: string = "Dalej";
 
-  constructor(private http: HttpClient, private router: Router) { }
+  constructor(private http: HttpClient, private router: Router, private sharedService: SharedService) { }
 
   ngOnInit() {
     this.sendRequest();
@@ -43,7 +44,9 @@ export class QuizComponent implements OnInit {
   }
 
   pickRandomQuestions(numElements: number, numAnswers: number, questions: QuizzQuestion[]) {
-    this.max_score = numElements;
+    this.sharedService.setMaxScore(numElements);
+    this.sharedService.setScore(0);
+
     questions.sort(() => Math.random() - 0.5);
 
     for (let i = 0; i < questions.length; i++) {
@@ -56,7 +59,7 @@ export class QuizComponent implements OnInit {
 
   next() {
     if (this.active_question + 1 === this.questions.length) {
-      this.router.navigate(['/quiz-score'], { queryParams: { score: this.score, max_score: this.max_score } });
+      this.router.navigate(['/quiz-score']);
     }
     if (this.active_question + 1 < this.questions.length) {
       this.active_question += 1;
@@ -72,9 +75,9 @@ export class QuizComponent implements OnInit {
     }
 
     if (correct) {
-      this.score = this.score + 1;
+      this.sharedService.addPoint();
     } else {
-      this.score = this.score - 1;
+      this.sharedService.removePoint();
     }
     
   }
