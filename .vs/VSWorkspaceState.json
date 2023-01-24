@@ -4,10 +4,8 @@
     "\\HistoriaInformatyki",
     "\\HistoriaInformatyki\\src",
     "\\HistoriaInformatyki\\src\\app",
-    "\\HistoriaInformatyki\\src\\app\\quiz-welcome",
-    "\\HistoriaInformatyki\\src\\app\\tablice",
-    "\\HistoriaInformatyki\\src\\assets\\docs"
+    "\\HistoriaInformatyki\\src\\app\\quiz"
   ],
-  "SelectedNode": "\\HistoriaInformatyki\\src\\app\\tablice\\tablice.component.css",
+  "SelectedNode": "\\package.json",
   "PreviewInSolutionExplorer": false
 }
