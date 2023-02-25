@@ -1,19 +1,17 @@
 # Projekt Zespołowy
-## Członkowie zespołu
+
+## Opis projektu:
+Aplikacja webowa, którą tworzymy, zapewnia interaktywne przeprowadzenie użytkownika przez wystawę poświęconą historii informatyki, umożliwiając skupienie się na interesujących elementach i pozwalając na dowolny wybór kolejności zwiedzania. Interfejs aplikacji jest intuicyjny i prosty w obsłudze, dzięki czemu niezależnie od poziomu znajomości nowych technologii, użytkownik bez trudu odnajdzie się w tym świecie.
+
+## Planowane zmiany/usprawnienia:
+- poprawa funkcjonalności odsłuchu treści tablic
+- poprawa szaty graficznej aplikacji
+- poprawa funkcjonalności quizu
+- możliwość dodawania nowych quizów
+- dodanie paneli administratora oraz gracza
+- zmiana frameworku z Angular na React.js
+
+### Członkowie zespołu
 - Agnieszka Kamińska
 - Aleksandra Panek
 - Karolina Pomian
-
-### Deploytment aplikacji:
-1.Należy zbudować projekt użwając poniższej komendy: \
- ng build --output-path docs --base-href /ProjektZespolowy/ \
-2.Po zakończeniu kompilacji utwórz kopię pliku docs/index.html i daj nazwe docs/404.html. \
-3.Commit changes and Push push. \
-4.Wejdź na stronę projektu na github, przejdź do ustawień do sekcji GitHub Pages i skonfiguruj. \
-5.Zapisz. \
-6.Sprawdź: \
- https://Olcia90079.github.io/ProjektZespolowy 
-
-### Potrzebne linki:
-- https://angular.io/guide/setup-local
-- https://angular.io/guide/deployment#deploy-to-github-pages
