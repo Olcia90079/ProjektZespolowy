@@ -28,5 +28,95 @@
     "no": 3,
     "page": "B",
     "title": "Rozwój kalkulatorów mechanicznych"
+  },
+  {
+    "no": 4,
+    "page": "A",
+    "title": "Wczesne początki komputerów"
+  },
+  {
+    "no": 4,
+    "page": "B",
+    "title": "Kalkulatory i sumatory"
+  },
+  {
+    "no": 5,
+    "page": "A",
+    "title": "Początki komunikacji przewodowej"
+  },
+  {
+    "no": 5,
+    "page": "B",
+    "title": "Rozwój komunikacji"
+  },
+  {
+    "no": 6,
+    "page": "A",
+    "title": "Logika matematyczna i komputery"
+  },
+  {
+    "no": 6,
+    "page": "B",
+    "title": "Maszyny i diagramy logiczne. System binarny"
+  },
+  {
+    "no": 7,
+    "page": "A",
+    "title": "Początki przetwarzania danych i nośniki danych"
+  },
+  {
+    "no": 7,
+    "page": "B",
+    "title": "Wynalazek druku i maszyn do pisania"
+  },
+  {
+    "no": 8,
+    "page": "A",
+    "title": "Teoretyczne podwaliny informatyki"
+  },
+  {
+    "no": 8,
+    "page": "B",
+    "title": "Kryptografia"
+  },
+  {
+    "no": 9,
+    "page": "A",
+    "title": "Pierwsze komputery"
+  },
+  {
+    "no": 9,
+    "page": "B",
+    "title": "Komputery i superkomputery"
+  },
+  {
+    "no": 10,
+    "page": "A",
+    "title": "Mikroelektronika: tranzystor, układ scalony"
+  },
+  {
+    "no": 10,
+    "page": "B",
+    "title": "Kalkulatory elektroniczne"
+  },
+  {
+    "no": 11,
+    "page": "A",
+    "title": "Pierwsze mikrokomputery domowe i osobiste"
+  },
+  {
+    "no": 11,
+    "page": "B",
+    "title": "Pierwsze popularne mikrokomputery"
+  },
+  {
+    "no": 12,
+    "page": "A",
+    "title": "Internet"
+  },
+  {
+    "no": 12,
+    "page": "B",
+    "title": "Budowa komputerów w Polsce"
   }
 ]
