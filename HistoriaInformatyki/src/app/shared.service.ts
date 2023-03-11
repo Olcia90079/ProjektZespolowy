@@ -44,7 +44,7 @@ export class SharedService {
     this.numElements = numElements;
   }
   getNumElements() {
-    return this.getNumElements;
+    return this.numElements;
   }
 
   setNumAnswers(numAnswers: number) {
@@ -81,7 +81,6 @@ export class SharedService {
   getTitle() {
     return this.title;
   }
-
 
   constructor() { }
 }

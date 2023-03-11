@@ -17,16 +17,16 @@ interface Quizz {
 
 export class QuizWelcomeComponent implements OnInit {
   basicQuizz: Quizz = {
-    no: 1,
+    no: 0,
     page: "all",
-    title: "All quaestions"
+    title: "Wszystkie pytania"
   };
 
-  numElements: number = 3;
+  numElements: number = 5;
   numAnswers: number = 3;
   numTrueAnswers: number = 1;
 ;
-  quizzes: Quizz[] = [this.basicQuizz];
+  quizzes: Quizz[] = [];
 
   constructor(private http: HttpClient, private router: Router, private sharedService: SharedService) { }
 
@@ -40,13 +40,24 @@ export class QuizWelcomeComponent implements OnInit {
     })
   }
 
-  play(quizz: Quizz) {
-    this.sharedService.setNumElements(this.numElements);
-    this.sharedService.setNumAnswers(this.numAnswers);
-    this.sharedService.setNumTrueAnswers(this.numTrueAnswers);
-    this.sharedService.setNo(quizz.no);
-    this.sharedService.setPage(quizz.page);
-    this.sharedService.setTitle(quizz.title);
+  async playAll() {
+    await this.sharedService.setNumElements(this.numElements);
+    await this.sharedService.setNumAnswers(this.numAnswers);
+    await this.sharedService.setNumTrueAnswers(this.numTrueAnswers);
+    await this.sharedService.setNo(this.basicQuizz.no);
+    await this.sharedService.setPage(this.basicQuizz.page);
+    await this.sharedService.setTitle(this.basicQuizz.title);
+
+    this.router.navigate(['/quiz']);
+  }
+
+  async play(quizz: Quizz) {
+    await this.sharedService.setNumElements(this.numElements);
+    await this.sharedService.setNumAnswers(this.numAnswers);
+    await this.sharedService.setNumTrueAnswers(this.numTrueAnswers);
+    await this.sharedService.setNo(quizz.no);
+    await this.sharedService.setPage(quizz.page);
+    await this.sharedService.setTitle(quizz.title);
 
     this.router.navigate(['/quiz']);
   }

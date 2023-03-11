@@ -33,7 +33,7 @@ export class QuizComponent implements OnInit {
   numElements: number = 3;
   numAnswers: number = 3;
   numTrueAnswers: number = 1;
-  no: number = 1;
+  no: number = 0;
   page: string = "all";
   title: string = "all questions";
 
@@ -53,7 +53,7 @@ export class QuizComponent implements OnInit {
 
   private sendRequest(numElements: number, numAnswers: number, numTrueAnswers: number, no: number, page: string) {
     this.http.get<QuizzQuestion[]>('assets/docs/Quiz/corrected_questions.json').subscribe(response => {
-      this.questions = this.pickRandomQuestions(numElements, numAnswers, numTrueAnswers, no, page, response);
+      this.questions = this.pickRandomQuestions(numElements, 3, 1, no, page, response);
     })
   }
 
@@ -65,17 +65,27 @@ export class QuizComponent implements OnInit {
     if (no == 0) {
       //random from all tables
       questions = questions.slice(0, numElements);
-    } else {
-      //random from one table with number no
+    }
+
+    if (no != 0) {
       if (page == "all") {
         //all pages
-        questions = questions.filter(q => q.no === no);
-      } else {
+        questions = questions.filter(q => q.no === no).slice(0, numElements);
+      }
+      if (page != "all") {
         //random from one table with number no and page
-        questions = questions.filter(q => q.no === no && q.page === page);
+        questions = questions.filter(q => q.no === no && q.page === page).slice(0, numElements);
       }
     }
 
+    questions = this.chooseAnswers(numAnswers, numTrueAnswers, questions);
+
+    this.sharedService.setMaxScore(questions.length);
+
+    return questions;
+  }
+
+  chooseAnswers(numAnswers: number, numTrueAnswers: number, questions: QuizzQuestion[]) {
     questions.forEach(question => {
       const correctAnswers = question.answers.filter(answer => answer.correct).slice(0, numTrueAnswers);
       const incorrectAnswers = question.answers.filter(answer => !answer.correct).slice(0, numAnswers - numTrueAnswers);
@@ -84,8 +94,6 @@ export class QuizComponent implements OnInit {
       ).sort(() => Math.random() - 0.5);
       question.answers = randomizedAnswers;
     });
-
-    this.sharedService.setMaxScore(questions.length);
 
     return questions;
   }

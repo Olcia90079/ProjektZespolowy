@@ -1,5 +1,5 @@
 <mat-card>
-  <mat-card-content>
+  <mat-card-content *ngIf="no !== 0 || page !== 'all'">
     {{ no }}{{ page }} {{title}}
   </mat-card-content>
   <mat-card-content>

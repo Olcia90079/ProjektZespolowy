@@ -6,23 +6,21 @@
     Powodzenia!
   </mat-card-content>
   <mat-card-actions>
-    <button mat-button routerLink="/quiz">
-      Graj we wszystkie! 
+    <button mat-button (click)="playAll()">
+      Graj we wszystkie!
     </button>
   </mat-card-actions>
 </mat-card>
 
-<mat-grid-list [cols]="3" rowHeight="250px">
-  <mat-grid-tile *ngFor="let quiz of quizzes">
-    <mat-card>
-      <mat-card-content>
-        <p>{{ quiz.no }}{{ quiz.page }} {{ quiz.title }}</p>
-      </mat-card-content>
-      <mat-card-actions>
-        <button mat-button (click)="play(quiz)">
-          Graj!
-        </button>
-      </mat-card-actions>
-    </mat-card>
-  </mat-grid-tile>
-</mat-grid-list>
+
+<mat-card *ngFor="let quiz of quizzes">
+  <mat-card-content>
+    <p>{{ quiz.no }}{{ quiz.page }} {{ quiz.title }}</p>
+  </mat-card-content>
+  <mat-card-actions>
+    <button mat-button (click)="play(quiz)">
+      Graj!
+    </button>
+  </mat-card-actions>
+</mat-card>
+
