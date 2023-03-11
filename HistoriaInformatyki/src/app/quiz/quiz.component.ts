@@ -41,7 +41,7 @@ export class QuizComponent implements OnInit {
 
   private sendRequest() {
     this.http.get<QuizzQuestion[]>('assets/docs/Quiz/corrected_questions.json').subscribe(response => {
-      this.questions = this.pickRandomQuestions(6,2,1,2,"A", response);
+      this.questions = this.pickRandomQuestions(6,2,1,2,"all", response);
     })
   }
 
