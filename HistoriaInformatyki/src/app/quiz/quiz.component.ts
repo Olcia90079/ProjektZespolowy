@@ -41,12 +41,11 @@ export class QuizComponent implements OnInit {
 
   private sendRequest() {
     this.http.get<QuizzQuestion[]>('assets/docs/Quiz/corrected_questions.json').subscribe(response => {
-      this.questions = this.pickRandomQuestions(6,2,1,0,"all", response);
+      this.questions = this.pickRandomQuestions(6,2,1,2,"A", response);
     })
   }
 
   pickRandomQuestions(numElements: number, numAnswers: number, numTrueAnswers: number, no: number, page: string, questions: QuizzQuestion[]) {
-    this.sharedService.setMaxScore(numElements);
     this.sharedService.setScore(0);
 
     questions.sort(() => Math.random() - 0.5);
@@ -73,6 +72,8 @@ export class QuizComponent implements OnInit {
       ).sort(() => Math.random() - 0.5);
       question.answers = randomizedAnswers;
     });
+
+    this.sharedService.setMaxScore(questions.length);
 
     return questions;
   }
