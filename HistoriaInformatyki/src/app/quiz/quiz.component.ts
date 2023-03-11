@@ -2,7 +2,6 @@ import { HttpClient } from '@angular/common/http';
 import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
 import { SharedService } from '../shared.service';
-import { filter, map } from 'rxjs/operators';
 
 
 interface Answer {
@@ -17,13 +16,11 @@ interface QuizzQuestion {
   answers: Answer[];
 }
 
-
 @Component({
   selector: 'app-quiz',
   templateUrl: './quiz.component.html',
   styleUrls: ['./quiz.component.css']
 })
-
 
 export class QuizComponent implements OnInit {
   questions: QuizzQuestion[] = [];

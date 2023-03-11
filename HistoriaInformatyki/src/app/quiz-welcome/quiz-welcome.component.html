@@ -10,3 +10,16 @@
     </button>
   </mat-card-actions>
 </mat-card>
+
+
+<mat-card *ngFor="let quiz of quizzes">
+  <mat-card-content>
+    <p>{{ quiz.tableNo }}</p>
+    <p>opis</p>
+  </mat-card-content>
+  <mat-card-actions>
+    <button mat-button routerLink="/quiz">
+      Graj!
+    </button>
+  </mat-card-actions>
+</mat-card>
