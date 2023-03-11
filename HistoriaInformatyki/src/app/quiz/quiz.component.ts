@@ -12,7 +12,7 @@ interface Answer {
 
 interface QuizzQuestion {
   no: number;
-  page: number;
+  page: string;
   question: string;
   answers: Answer[];
 }
@@ -41,16 +41,29 @@ export class QuizComponent implements OnInit {
 
   private sendRequest() {
     this.http.get<QuizzQuestion[]>('assets/docs/Quiz/corrected_questions.json').subscribe(response => {
-      this.questions = this.pickRandomQuestions(6,2,1,[],"all",response);
+      this.questions = this.pickRandomQuestions(6,2,1,0,"all", response);
     })
   }
 
-  pickRandomQuestions(numElements: number, numAnswers: number, numTrueAnswers: number, no: number[], page: string, questions: QuizzQuestion[]) {
+  pickRandomQuestions(numElements: number, numAnswers: number, numTrueAnswers: number, no: number, page: string, questions: QuizzQuestion[]) {
     this.sharedService.setMaxScore(numElements);
     this.sharedService.setScore(0);
 
     questions.sort(() => Math.random() - 0.5);
-    questions = questions.slice(0, numElements);
+
+    if (no == 0) {
+      //random from all tables
+      questions = questions.slice(0, numElements);
+    } else {
+      //random from one table with number no
+      if (page == "all") {
+        //all pages
+        questions = questions.filter(q => q.no === no);
+      } else {
+        //random from one table with number no and page
+        questions = questions.filter(q => q.no === no && q.page === page);
+      }
+    }
 
     questions.forEach(question => {
       const correctAnswers = question.answers.filter(answer => answer.correct).slice(0, numTrueAnswers);
@@ -60,16 +73,6 @@ export class QuizComponent implements OnInit {
       ).sort(() => Math.random() - 0.5);
       question.answers = randomizedAnswers;
     });
-
-    //for (let i = 0; i < questions.length; i++) {
-    //  questions[i].answers = Arrays.stream(questions[i].answers)
-    //    .filter(answer -> answer.correct == true)
-    //    .limit(numTrueAnswers)
-    //    .toArray(Answer[]:: new);
-
-    //  questions[i].answers = questions[i].answers.slice(0, numAnswers)
-    //  questions[i].answers.sort(() => Math.random() - 0.5);
-    //}
 
     return questions;
   }
@@ -93,8 +96,6 @@ export class QuizComponent implements OnInit {
 
     if (correct) {
       this.sharedService.addPoint();
-    } else {
-      this.sharedService.removePoint();
     }
     
   }
