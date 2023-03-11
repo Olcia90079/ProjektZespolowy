@@ -2,34 +2,31 @@
   {
     "no": 1,
     "page": "A",
-    "title": "Pierwsze znaki liczbowe, abaki, algorytmy",
-    "content": [
-      {
-        "subtitle": "Rozwój znaków liczbowych",
-        "subcontent": ""
-      }
-    ]
+    "title": "Pierwsze znaki liczbowe, abaki, algorytmy"
   },
   {
     "no": 1,
     "page": "B",
-    "title": "Znaki liczbowe, proste sposoby rachowania",
-    "content": [
-      {
-        "subtitle": "",
-        "subcontent": ""
-      }
-    ]
+    "title": "Znaki liczbowe, proste sposoby rachowania"
   },
   {
     "no": 2,
     "page": "A",
-    "title": "Rozwój liczb i sposobów rachowania",
-    "content": [
-      {
-        "subtitle": "",
-        "subcontent": ""
-      }
-    ]
+    "title": "Rozwój liczb i sposobów rachowania"
+  },
+  {
+    "no": 2,
+    "page": "B",
+    "title": "Abaki, liczydła, suwaki"
+  },
+  {
+    "no": 3,
+    "page": "A",
+    "title": "Pierwsze kalkulatory"
+  },
+  {
+    "no": 3,
+    "page": "B",
+    "title": "Rozwój kalkulatorów mechanicznych"
   }
 ]

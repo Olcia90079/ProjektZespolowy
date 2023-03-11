@@ -1,11 +1,11 @@
+import { HttpClient } from '@angular/common/http';
 import { Component, OnInit } from '@angular/core';
+import { Router } from '@angular/router';
 
 interface Quizz {
-  numQuestions: number,
-  numAnswers: number,
-  numTrueAnswers: number,
-  tableNo: number,
-  page: string
+  no: number,
+  page: number,
+  title: string
 }
 
 @Component({
@@ -16,18 +16,27 @@ interface Quizz {
 
 export class QuizWelcomeComponent implements OnInit {
   basicQuizz: Quizz = {
-    numQuestions: 3,
-    numAnswers: 3,
-    numTrueAnswers: 1,
-    tableNo: 0,
-    page: "all"
+    no: 1,
+    page: 0,
+    title: "all"
   };
+
+  numElements: number = 3;
+  numAnswers: number = 3;
+  numTrueAnswers: number = 1;
 ;
   quizzes: Quizz[] = [this.basicQuizz];
 
-  constructor() { }
+  constructor(private http: HttpClient, private router: Router) { }
 
   ngOnInit(): void {
+    this.sendRequest();
+  }
+
+  private sendRequest() {
+    this.http.get<Quizz[]>('assets/docs/Tablice/correctedTableList.json').subscribe(response => {
+      this.quizzes = response;
+    })
   }
 
 }
