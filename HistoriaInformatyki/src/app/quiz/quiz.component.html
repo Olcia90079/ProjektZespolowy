@@ -1,5 +1,8 @@
 <mat-card>
   <mat-card-content>
+    {{title}}
+  </mat-card-content>
+  <mat-card-content>
     {{active_question + 1}}/{{questions.length}} {{questions[active_question].question}}
   </mat-card-content>
   <mat-card-actions *ngFor="let answer of questions[active_question].answers">

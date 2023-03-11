@@ -30,15 +30,30 @@ export class QuizComponent implements OnInit {
   isDisabled: boolean = false;
   bottomButton: string = "Dalej";
 
+  numElements: number = 3;
+  numAnswers: number = 3;
+  numTrueAnswers: number = 1;
+  no: number = 1;
+  page: string = "all";
+  title: string = "all questions";
+
+
   constructor(private http: HttpClient, private router: Router, private sharedService: SharedService) { }
 
   ngOnInit() {
-    this.sendRequest();
+    this.numElements = +this.sharedService.getNumElements();
+    this.numAnswers = +this.sharedService.getnumAnswers();
+    this.numTrueAnswers = this.sharedService.getNumTrueAnswers();
+    this.no = +this.sharedService.getNo();
+    this.page = this.sharedService.getPage();
+    this.title = this.sharedService.getTitle();
+
+    this.sendRequest(this.numElements, this.numAnswers, this.numTrueAnswers, this.no, this.page);
   }
 
-  private sendRequest() {
+  private sendRequest(numElements: number, numAnswers: number, numTrueAnswers: number, no: number, page: string) {
     this.http.get<QuizzQuestion[]>('assets/docs/Quiz/corrected_questions.json').subscribe(response => {
-      this.questions = this.pickRandomQuestions(6,3,1,2,"all", response);
+      this.questions = this.pickRandomQuestions(numElements, numAnswers, numTrueAnswers, no, page, response);
     })
   }
 

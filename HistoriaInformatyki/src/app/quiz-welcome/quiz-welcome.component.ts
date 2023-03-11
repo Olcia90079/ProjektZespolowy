@@ -1,10 +1,11 @@
 import { HttpClient } from '@angular/common/http';
 import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
+import { SharedService } from '../shared.service';
 
 interface Quizz {
   no: number,
-  page: number,
+  page: string,
   title: string
 }
 
@@ -17,8 +18,8 @@ interface Quizz {
 export class QuizWelcomeComponent implements OnInit {
   basicQuizz: Quizz = {
     no: 1,
-    page: 0,
-    title: "all"
+    page: "all",
+    title: "All quaestions"
   };
 
   numElements: number = 3;
@@ -27,7 +28,7 @@ export class QuizWelcomeComponent implements OnInit {
 ;
   quizzes: Quizz[] = [this.basicQuizz];
 
-  constructor(private http: HttpClient, private router: Router) { }
+  constructor(private http: HttpClient, private router: Router, private sharedService: SharedService) { }
 
   ngOnInit(): void {
     this.sendRequest();
@@ -37,6 +38,17 @@ export class QuizWelcomeComponent implements OnInit {
     this.http.get<Quizz[]>('assets/docs/Tablice/correctedTableList.json').subscribe(response => {
       this.quizzes = response;
     })
+  }
+
+  play(quizz: Quizz) {
+    this.sharedService.setNumElements(this.numElements);
+    this.sharedService.setNumAnswers(this.numAnswers);
+    this.sharedService.setNumTrueAnswers(this.numTrueAnswers);
+    this.sharedService.setNo(quizz.no);
+    this.sharedService.setPage(quizz.page);
+    this.sharedService.setTitle(quizz.title);
+
+    this.router.navigate(['/quiz']);
   }
 
 }
