@@ -1,4 +1,7 @@
 <mat-card>
+  <mat-card-content *ngIf="no !== 0 || page !== 'all'">
+    {{ no }}{{ page }} {{title}}
+  </mat-card-content>
   <mat-card-content>
     {{active_question + 1}}/{{questions.length}} {{questions[active_question].question}}
   </mat-card-content>
