@@ -1,0 +1,2289 @@
+[
+  {
+    "no": 1,
+    "page": "A",
+    "question": "Co to abak?",
+    "answers": [
+      {
+        "answer": "starożytna plansza do rachowania",
+        "correct": true
+      },
+      {
+        "answer": "gra logiczna",
+        "correct": false
+      },
+      {
+        "answer": "system zapisu nut",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 1,
+    "page": "A",
+    "question": "Co wyznacza sito Eratostenesa?",
+    "answers": [
+      {
+        "answer": "kolejne liczby pierwsze",
+        "correct": true
+      },
+      {
+        "answer": "kolejne liczby parzyste",
+        "correct": false
+      },
+      {
+        "answer": "kolejne liczby nieparzyste",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 1,
+    "page": "A",
+    "question": "Co wyznacza algorytm Euklidesa?",
+    "answers": [
+      {
+        "answer": "największy wspólny dzielnik",
+        "correct": true
+      },
+      {
+        "answer": "najmniejszy wspólny dzielnik",
+        "correct": false
+      },
+      {
+        "answer": "a do potęgi b",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 1,
+    "page": "B",
+    "question": "VII.IV.MCCCXCIX to data?",
+    "answers": [
+      {
+        "answer": "07.04.1399",
+        "correct": true
+      },
+      {
+        "answer": "07.06.1390",
+        "correct": false
+      },
+      {
+        "answer": "03.04.1899",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 1,
+    "page": "B",
+    "question": "W jakim systemie odliczało się używając węzełki na sznurkach (Kipu)?",
+    "answers": [
+      {
+        "answer": "systemie pozycyjnym",
+        "correct": true
+      },
+      {
+        "answer": "systemie topologicznym",
+        "correct": false
+      },
+      {
+        "answer": "systemie odległości",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 2,
+    "page": "A",
+    "question": "Z jakiego obszaru wywodzą się liczby arabskie?",
+    "answers": [
+      {
+        "answer": "Indie",
+        "correct": true
+      },
+      {
+        "answer": "Półwysep Arabski",
+        "correct": false
+      },
+      {
+        "answer": "Afryka Północna",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 2,
+    "page": "A",
+    "question": "Słowo algorytm pochodzi od nazwiska?",
+    "answers": [
+      {
+        "answer": "Muhammad ibn Musa al-Khwarizmi",
+        "correct": true
+      },
+      {
+        "answer": "Muhammad ibn Zakariya al-Razi",
+        "correct": false
+      },
+      {
+        "answer": "Pierre Omidyar",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 2,
+    "page": "A",
+    "question": "Kto wprowadził do powszechnego użytku logarytmy i tablice logarytmiczne?",
+    "answers": [
+      {
+        "answer": "John Napier",
+        "correct": true
+      },
+      {
+        "answer": "Henry Briggs",
+        "correct": false
+      },
+      {
+        "answer": "Edward Sang",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 2,
+    "page": "B",
+    "question": "Jak nazywają się w innych krajach liczydła?",
+    "answers": [
+      {
+        "answer": "suan-pan(Chiny)",
+        "correct": true
+      },
+      {
+        "answer": "soroban(Japonia)",
+        "correct": true
+      },
+      {
+        "answer": "szczoty(Rosja)",
+        "correct": true
+      },
+      {
+        "answer": "san-gin(Chiny)",
+        "correct": false
+      },
+      {
+        "answer": "sato(Japonia)",
+        "correct": false
+      },
+      {
+        "answer": "tabuliczki(Rosja)",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 3,
+    "page": "A",
+    "question": "W jakim rozwinięciu sumy dwóch składników trójkąt Pascala oblicza współczynniki?",
+    "answers": [
+      {
+        "answer": "potęgi",
+        "correct": true
+      },
+      {
+        "answer": "iloczynu",
+        "correct": false
+      },
+      {
+        "answer": "logarymu",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 3,
+    "page": "A",
+    "question": "Kto zbudował żywą ławę do obliczeń?",
+    "answers": [
+      {
+        "answer": "Willgodt Theophil Odhner",
+        "correct": true
+      },
+      {
+        "answer": "Salomon August Andree",
+        "correct": false
+      },
+      {
+        "answer": "Georg Theodor Chiewitz",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 3,
+    "page": "A",
+    "question": "Kto zbudował pierwszą maszynę obliczeniową nazwaną zegarem liczącym?",
+    "answers": [
+      {
+        "answer": "Wilhelm Schickard",
+        "correct": true
+      },
+      {
+        "answer": "Willgodt Theophil Odhner",
+        "correct": false
+      },
+      {
+        "answer": "John Napier",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 3,
+    "page": "B",
+    "question": "Kto stworzył kalkulator kręciołek?",
+    "answers": [
+      {
+        "answer": "Willgodt Theophil Odhner",
+        "correct": true
+      },
+      {
+        "answer": "Wilhelm Schickard",
+        "correct": false
+      },
+      {
+        "answer": "Georg Theodor Chiewitz",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 3,
+    "page": "B",
+    "question": "Jakie mechanizmy były ważne w konstrukcji kalkulatorów mechanicznych",
+    "answers": [
+      {
+        "answer": "bębny schodkowe Leibniza",
+        "correct": true
+      },
+      {
+        "answer": "koło z ruchomymi zębami",
+        "correct": true
+      },
+      {
+        "answer": "wahadło Schickard",
+        "correct": false
+      },
+      {
+        "answer": "zapadki klepkowe",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 3,
+    "page": "B",
+    "question": "Do jakich kalkulacji używano arytmometru (kalkulatora mechanicznego)?",
+    "answers": [
+      {
+        "answer": "ubezpieczeniowych",
+        "correct": true
+      },
+      {
+        "answer": "giełdowych",
+        "correct": false
+      },
+      {
+        "answer": "wytrzymałościowych",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 4,
+    "page": "A",
+    "question": "Kto wynalazł karty perforowane?",
+    "answers": [
+      {
+        "answer": "Joseph Marie Jacquard",
+        "correct": true
+      },
+      {
+        "answer": "Daisy Taugelchee",
+        "correct": false
+      },
+      {
+        "answer": "Monique Demazière",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 4,
+    "page": "A",
+    "question": "Jak nazywała się pierwsza programistka?",
+    "answers": [
+      {
+        "answer": "Ada Augusta Lovelace",
+        "correct": true
+      },
+      {
+        "answer": "Jean Jennings Bartik",
+        "correct": false
+      },
+      {
+        "answer": "Frances Snyder Holder",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 4,
+    "page": "A",
+    "question": "Jaką maszynę zaprojektował Charles Babbage?",
+    "answers": [
+      {
+        "answer": "różnicowa",
+        "correct": true
+      },
+      {
+        "answer": "analityczna ogólnego przeznaczenia",
+        "correct": true
+      },
+      {
+        "answer": "logarytmizująca",
+        "correct": false
+      },
+      {
+        "answer": "całkowania szczególnego przeznaczenia",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 4,
+    "page": "B",
+    "question": "Czy sumator i kalkulator to synonimy?",
+    "answers": [
+      {
+        "answer": "nie",
+        "correct": true
+      },
+      {
+        "answer": "tak",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 4,
+    "page": "B",
+    "question": "Czy kalkulatory zawsze posiadały pełną klawiaturę?",
+    "answers": [
+      {
+        "answer": "nie",
+        "correct": true
+      },
+      {
+        "answer": "tak",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 5,
+    "page": "A",
+    "question": "Jak brzmiała pierwsza przesłana kodem Morse'a wiadomość?",
+    "answers": [
+      {
+        "answer": "What hath God wrought?",
+        "correct": true
+      },
+      {
+        "answer": "Co Bóg uczynił?",
+        "correct": true
+      },
+      {
+        "answer": "Have faith in God.",
+        "correct": false
+      },
+      {
+        "answer": "Gdzie Bóg, tam wszystko możliwe.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 5,
+    "page": "A",
+    "question": "Kto wynalaz telegraf elektryczny?",
+    "answers": [
+      {
+        "answer": "Charles Wheatstone",
+        "correct": true
+      },
+      {
+        "answer": "William Fothergill Cooke",
+        "correct": true
+      },
+      {
+        "answer": "Samuel Finley Morse",
+        "correct": true
+      },
+      {
+        "answer": "John Ricardo",
+        "correct": false
+      },
+      {
+        "answer": "Pavel Schilling",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 5,
+    "page": "A",
+    "question": "Jakie informacje i za pomocą jakiego medium fototon przesya informacje?",
+    "answers": [
+      {
+        "answer": "dzwiękowe za pomocą światła",
+        "correct": true
+      },
+      {
+        "answer": "świetlne za pomocą dźwięku",
+        "correct": false
+      },
+      {
+        "answer": "świetlne za pomocą światła",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 5,
+    "page": "A",
+    "question": "Kto wynalazł fototon?",
+    "answers": [
+      {
+        "answer": "Alexander Graham Bell",
+        "correct": true
+      },
+      {
+        "answer": "Charles Wheatstone",
+        "correct": false
+      },
+      {
+        "answer": "Samuel Finley Morse",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 5,
+    "page": "A",
+    "question": "Kto w 1876 opatentował elektryczny telefon?",
+    "answers": [
+      {
+        "answer": "Alexander Graham Bell",
+        "correct": true
+      },
+      {
+        "answer": "Elisha Gray",
+        "correct": true
+      },
+      {
+        "answer": "Pavel Schilling",
+        "correct": false
+      },
+      {
+        "answer": "Samuel Finley Morse",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 5,
+    "page": "B",
+    "question": "Do czego służy łącznica telefoniczna?",
+    "answers": [
+      {
+        "answer": "łączenia rozmów telefonicznych",
+        "correct": true
+      },
+      {
+        "answer": "utrzymywania rozmów telefonicznych",
+        "correct": true
+      },
+      {
+        "answer": "propagowania numerów telefonicznych",
+        "correct": false
+      },
+      {
+        "answer": "przechowywania poczty głosowej",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 5,
+    "page": "B",
+    "question": "Do czego służyła korba w aparacie telefonicznym?",
+    "answers": [
+      {
+        "answer": "wywoływania centrali",
+        "correct": true
+      },
+      {
+        "answer": "utrzymywania połączenia",
+        "correct": false
+      },
+      {
+        "answer": "generowania prądu",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 5,
+    "page": "B",
+    "question": "Jaki system wykorzystywał dalekopis?",
+    "answers": [
+      {
+        "answer": "TELEX",
+        "correct": true
+      },
+      {
+        "answer": "VISTEX",
+        "correct": false
+      },
+      {
+        "answer": "TEXSEND",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 5,
+    "page": "B",
+    "question": "Do przesyłania czego służył dalekopis?",
+    "answers": [
+      {
+        "answer": "tekstu",
+        "correct": true
+      },
+      {
+        "answer": "obrazu",
+        "correct": false
+      },
+      {
+        "answer": "dźwięku",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 5,
+    "page": "B",
+    "question": "Kiedy wynaleziono FAX?",
+    "answers": [
+      {
+        "answer": "lata 30 XX wieku",
+        "correct": true
+      },
+      {
+        "answer": "lata 20 XX wieku",
+        "correct": false
+      },
+      {
+        "answer": "lata 40 XX wieku",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 6,
+    "page": "A",
+    "question": "Jakie badania zapoczątkował George Boole?",
+    "answers": [
+      {
+        "answer": "algebry logiki",
+        "correct": true
+      },
+      {
+        "answer": "analizy matematycznej",
+        "correct": false
+      },
+      {
+        "answer": "ciągów i szeregów",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 6,
+    "page": "A",
+    "question": "Jakiej dziedziny matematyki dotyczą prawa De Morgana?",
+    "answers": [
+      {
+        "answer": "logiki",
+        "correct": true
+      },
+      {
+        "answer": "geometrii",
+        "correct": false
+      },
+      {
+        "answer": "arytmetyki",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 6,
+    "page": "A",
+    "question": "Które opracował Augustus De Morgan?",
+    "answers": [
+      {
+        "answer": "NOT(a OR b)=(NOT a) AND (NOT b)",
+        "correct": true
+      },
+      {
+        "answer": "NOT(a AND b)=(NOT a) OR (NOT b)",
+        "correct": true
+      },
+      {
+        "answer": "NOT(a OR b)=(NOT a) OR (NOT b)",
+        "correct": false
+      },
+      {
+        "answer": "NOT(a AND b)=(NOT a) AND (NOT b)",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 6,
+    "page": "A",
+    "question": "Kto opracował notację polską?",
+    "answers": [
+      {
+        "answer": "Jan Łukasiewicz",
+        "correct": true
+      },
+      {
+        "answer": "Stefan Mazurkiewicz",
+        "correct": false
+      },
+      {
+        "answer": "Wacław Sierpiński",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 6,
+    "page": "A",
+    "question": "Notacja polska pozwala opisać każde wyrażenie matematyczne w sposób...",
+    "answers": [
+      {
+        "answer": "jednoznaczny i bez nawiasów",
+        "correct": true
+      },
+      {
+        "answer": "jednoznaczny i z nawiasami",
+        "correct": false
+      },
+      {
+        "answer": "niejednoznaczny i bez nawiasów",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 6,
+    "page": "A",
+    "question": "W odwrotnej notacji polskiej...",
+    "answers": [
+      {
+        "answer": "argumenty poprzedzają znaki działań",
+        "correct": true
+      },
+      {
+        "answer": "znaki działań poprzedzają argumenty",
+        "correct": false
+      },
+      {
+        "answer": "występują nawiasy",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 6,
+    "page": "A",
+    "question": "Jak przegląda się drzewo binarne odwrotnej notacji polskiej?",
+    "answers": [
+      {
+        "answer": "od lewej do prawej",
+        "correct": true
+      },
+      {
+        "answer": "od prawej do lewej",
+        "correct": false
+      },
+      {
+        "answer": "w obie strony",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 6,
+    "page": "B",
+    "question": "Kto pierwszy próbował zbudować maszynę logiczną (XIII wiek)?",
+    "answers": [
+      {
+        "answer": "Ramon Llull",
+        "correct": true
+      },
+      {
+        "answer": "Alexander of Hales",
+        "correct": false
+      },
+      {
+        "answer": "Roger Bacon",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 6,
+    "page": "B",
+    "question": "Kto zbudował pierwszą maszynę logiczną?",
+    "answers": [
+      {
+        "answer": "Charles Stanhope",
+        "correct": true
+      },
+      {
+        "answer": "Ramon Llull",
+        "correct": false
+      },
+      {
+        "answer": "John Montagu",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 6,
+    "page": "B",
+    "question": "Jak nazywała się maszyna zbudowana przez Charles'a Stanhope'a?",
+    "answers": [
+      {
+        "answer": "demonstrator",
+        "correct": true
+      },
+      {
+        "answer": "wyznacznik",
+        "correct": false
+      },
+      {
+        "answer": "wskaźnik",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 6,
+    "page": "B",
+    "question": "Który przykład diagramu logicznego?",
+    "answers": [
+      {
+        "answer": "drzewo",
+        "correct": true
+      },
+      {
+        "answer": "mapa karaugha",
+        "correct": true
+      },
+      {
+        "answer": "diagram venny",
+        "correct": true
+      },
+      {
+        "answer": "diagram llulla",
+        "correct": false
+      },
+      {
+        "answer": "graf cykliczny",
+        "correct": false
+      },
+      {
+        "answer": "pajęczyna",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 6,
+    "page": "B",
+    "question": "Kto rozpowszechnił system binarny w Europie?",
+    "answers": [
+      {
+        "answer": "Gottfried Wilhelm Leibniz",
+        "correct": true
+      },
+      {
+        "answer": "George Cantor",
+        "correct": false
+      },
+      {
+        "answer": "Friedrich Bessel",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 6,
+    "page": "B",
+    "question": "Z jakiego kraju wywodzi się system binarny?",
+    "answers": [
+      {
+        "answer": "Chiny",
+        "correct": true
+      },
+      {
+        "answer": "Włochy",
+        "correct": false
+      },
+      {
+        "answer": "Egipt",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 7,
+    "page": "A",
+    "question": "W którym roku odkryto promieniowanie X?",
+    "answers": [
+      {
+        "answer": "1895",
+        "correct": true
+      },
+      {
+        "answer": "1875",
+        "correct": false
+      },
+      {
+        "answer": "1905",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 7,
+    "page": "A",
+    "question": "Kto odkrył promieniowanie X?",
+    "answers": [
+      {
+        "answer": "Wilhelm Röntgen",
+        "correct": true
+      },
+      {
+        "answer": "Georg Wilhelm de Gennin",
+        "correct": false
+      },
+      {
+        "answer": "Karl Christian von Langsdorf",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 7,
+    "page": "A",
+    "question": "Jak zapisywano nadchodzące telegraficznie wiadomości?",
+    "answers": [
+      {
+        "answer": "elektromechanicznie sterowanym ołówkiem",
+        "correct": true
+      },
+      {
+        "answer": "elektrycznie sterowanym piórem",
+        "correct": false
+      },
+      {
+        "answer": "nagrywano na cylindry",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 7,
+    "page": "A",
+    "question": "Co przechowywały taśmy perforowane w komputerach?",
+    "answers": [
+      {
+        "answer": "dane",
+        "correct": true
+      },
+      {
+        "answer": "programy",
+        "correct": true
+      },
+      {
+        "answer": "układy scalone",
+        "correct": false
+      },
+      {
+        "answer": "styki",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 7,
+    "page": "A",
+    "question": "Jakie było pierwsze zastosowanie kart  perforowanych?",
+    "answers": [
+      {
+        "answer": "sterowanie wzorem tkackim",
+        "correct": true
+      },
+      {
+        "answer": "kalkulacje",
+        "correct": false
+      },
+      {
+        "answer": "odtwarzanie muzyki",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 7,
+    "page": "A",
+    "question": "Jaki kod przesyłu wiadomości tekstowych poprzedzał ASCII?",
+    "answers": [
+      {
+        "answer": "pięciobitowy kod Baudota",
+        "correct": true
+      },
+      {
+        "answer": "czterobitowy kod Baudota",
+        "correct": false
+      },
+      {
+        "answer": "trójbitowy kod Baudota",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 7,
+    "page": "A",
+    "question": "Jaki system opracował Helman Hollerith?",
+    "answers": [
+      {
+        "answer": "tabulacyjny",
+        "correct": true
+      },
+      {
+        "answer": "bitowy",
+        "correct": false
+      },
+      {
+        "answer": "interpretacyjny",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 7,
+    "page": "B",
+    "question": "Jaki wynalazek jest znany ze względu na rozwój drukarstwa, czytelnictwa i oświaty?",
+    "answers": [
+      {
+        "answer": "maszyna drukarska Gutenberga",
+        "correct": true
+      },
+      {
+        "answer": "kalka techniczna",
+        "correct": false
+      },
+      {
+        "answer": "camera obscura ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 7,
+    "page": "B",
+    "question": "Jak nazywa się  pierwszą książkę w Europie wykonaną za pomocą druku?",
+    "answers": [
+      {
+        "answer": "Biblia Gutenberga",
+        "correct": true
+      },
+      {
+        "answer": "Słownik Gutenberga",
+        "correct": false
+      },
+      {
+        "answer": "Encyklopedia Gutenberga",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 8,
+    "page": "A",
+    "question": "Z czego zasłynął Turing?",
+    "answers": [
+      {
+        "answer": "maszyny Turinga",
+        "correct": true
+      },
+      {
+        "answer": "testu Turinga",
+        "correct": true
+      },
+      {
+        "answer": "Maszyny Collosum",
+        "correct": true
+      },
+      {
+        "answer": "cylindra Turinga",
+        "correct": false
+      },
+      {
+        "answer": "skanera Turinga",
+        "correct": false
+      },
+      {
+        "answer": "Maszyny Tytanium",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 8,
+    "page": "A",
+    "question": "Jak inaczej nazywano architekturę Von Neumana?",
+    "answers": [
+      {
+        "answer": "komputer z programem w pamięci",
+        "correct": true
+      },
+      {
+        "answer": "komputer z autozapisem",
+        "correct": false
+      },
+      {
+        "answer": "maszyna z pamięcią",
+        "correct": false
+      },
+      {
+        "answer": "komputer z pamięcią",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 8,
+    "page": "A",
+    "question": "Od kogo pochodzi pojęcie architektury komputerów?",
+    "answers": [
+      {
+        "answer": "John von Neumann",
+        "correct": true
+      },
+      {
+        "answer": " Lipót Fejér",
+        "correct": false
+      },
+      {
+        "answer": "Alfréd Haar",
+        "correct": false
+      },
+      {
+        "answer": "George Pólya",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 8,
+    "page": "A",
+    "question": "Który polski kryptolog pracował przy enigmie?",
+    "answers": [
+      {
+        "answer": "Marian Rejewski",
+        "correct": true
+      },
+      {
+        "answer": "Jerzy Różycki",
+        "correct": true
+      },
+      {
+        "answer": "Henryk Zygalski",
+        "correct": true
+      },
+      {
+        "answer": "Antoni Zygmund",
+        "correct": false
+      },
+      {
+        "answer": "Izabela Abramowicz",
+        "correct": false
+      },
+      {
+        "answer": "Stefan Bergman",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 8,
+    "page": "B",
+    "question": "W ktorym roku zaczęto używać Enigmy?",
+    "answers": [
+      {
+        "answer": "1926",
+        "correct": true
+      },
+      {
+        "answer": "1936",
+        "correct": false
+      },
+      {
+        "answer": "1930",
+        "correct": false
+      },
+      {
+        "answer": "1920",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 8,
+    "page": "B",
+    "question": "Jak nazywała się słynna elektryczno-mechaniczna maszyna rotacyjna używana do szyfrowania przez armię niemiecką?",
+    "answers": [
+      {
+        "answer": "Enigma",
+        "correct": true
+      },
+      {
+        "answer": "Typex",
+        "correct": false
+      },
+      {
+        "answer": "ECM Mark II",
+        "correct": false
+      },
+      {
+        "answer": "Sigaba",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 8,
+    "page": "B",
+    "question": "Jak nazywała się maszyna deszyfrująca kody Enigmy?",
+    "answers": [
+      {
+        "answer": "Bomba",
+        "correct": true
+      },
+      {
+        "answer": "Colossus",
+        "correct": true
+      },
+      {
+        "answer": "Typex",
+        "correct": false
+      },
+      {
+        "answer": "Tytan",
+        "correct": false
+      },
+      {
+        "answer": "Sigaba",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 8,
+    "page": "B",
+    "question": "Na podstawie maszyny Bomba z jakiego kraju zbudowano Brytyjską Bombę?",
+    "answers": [
+      {
+        "answer": "Polski",
+        "correct": true
+      },
+      {
+        "answer": "Czechosłowacji",
+        "correct": false
+      },
+      {
+        "answer": "Szwajcarii",
+        "correct": false
+      },
+      {
+        "answer": "USA",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 9,
+    "page": "A",
+    "question": "Data pierwszego przekazu ruchomego obrazu telewizyjnego?",
+    "answers": [
+      {
+        "answer": "1925",
+        "correct": true
+      },
+      {
+        "answer": "1924",
+        "correct": false
+      },
+      {
+        "answer": "1926",
+        "correct": false
+      },
+      {
+        "answer": "1928",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 9,
+    "page": "A",
+    "question": "Jak nazywał się pierwszy w pełni elektroniczny komputer?",
+    "answers": [
+      {
+        "answer": "ENIAC",
+        "correct": true
+      },
+      {
+        "answer": "BRINAC",
+        "correct": false
+      },
+      {
+        "answer": "XEROX",
+        "correct": false
+      },
+      {
+        "answer": "WHIRLWIND",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 9,
+    "page": "A",
+    "question": "Jak nazywał się pierwszy komercyjnie dostępny komputer?",
+    "answers": [
+      {
+        "answer": "UNIVAC I",
+        "correct": true
+      },
+      {
+        "answer": "XYZ",
+        "correct": false
+      },
+      {
+        "answer": "COLOSSUM",
+        "correct": false
+      },
+      {
+        "answer": "ENIAC",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 9,
+    "page": "A",
+    "question": "Na jakim komputerze wzorowano pierszy polski komputer XYZ?",
+    "answers": [
+      {
+        "answer": "IBM 701",
+        "correct": true
+      },
+      {
+        "answer": "ENIAC",
+        "correct": false
+      },
+      {
+        "answer": "UNIVAC I",
+        "correct": false
+      },
+      {
+        "answer": "XEROX",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 9,
+    "page": "A",
+    "question": "Jak nazywał się konstruktor wczesnych komputerów Z1, Z2 i Z3?",
+    "answers": [
+      {
+        "answer": "Konrad Zuse",
+        "correct": true
+      },
+      {
+        "answer": "Jonathan Zenneck",
+        "correct": false
+      },
+      {
+        "answer": "Moritz Schröter",
+        "correct": false
+      },
+      {
+        "answer": "Gotthilf Hagen",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 9,
+    "page": "B",
+    "question": "Kto zbudowa pierwszy superkomputer?",
+    "answers": [
+      {
+        "answer": "Seymour Cray",
+        "correct": true
+      },
+      {
+        "answer": "Jack Kilby",
+        "correct": false
+      },
+      {
+        "answer": "Charles F. Kettering",
+        "correct": false
+      },
+      {
+        "answer": "Eugene Cernan",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 9,
+    "page": "B",
+    "question": "Kto zbudowa CDC 6600?",
+    "answers": [
+      {
+        "answer": "Seymour Cray",
+        "correct": true
+      },
+      {
+        "answer": "Konrad Zuse",
+        "correct": false
+      },
+      {
+        "answer": "Jerzy Różycki",
+        "correct": false
+      },
+      {
+        "answer": "Friedrich Bessel",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 9,
+    "page": "B",
+    "question": "Czym zajmowała się firma Cray Research?",
+    "answers": [
+      {
+        "answer": "superkomputerami",
+        "correct": true
+      },
+      {
+        "answer": "kompilatorami",
+        "correct": false
+      },
+      {
+        "answer": "kalkulatorami",
+        "correct": false
+      },
+      {
+        "answer": "telekomunikacją",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 9,
+    "page": "B",
+    "question": "Co symulował superkomputer Earth Simulator?",
+    "answers": [
+      {
+        "answer": "pogodę i zjawiska przyrodnicze",
+        "correct": true
+      },
+      {
+        "answer": "globalną gospodarkę",
+        "correct": false
+      },
+      {
+        "answer": "przyrost naturalny",
+        "correct": false
+      },
+      {
+        "answer": "ruch w telekomunikacji",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 9,
+    "page": "B",
+    "question": "Jak nazywał się najszybszy superkomuter w 2005?",
+    "answers": [
+      {
+        "answer": "Blue Gene/L",
+        "correct": true
+      },
+      {
+        "answer": "Fugaku",
+        "correct": false
+      },
+      {
+        "answer": "Earth Simulator",
+        "correct": false
+      },
+      {
+        "answer": "Summit",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 10,
+    "page": "A",
+    "question": "Gdzie pierwszy raz zastosowano przekaźnik?",
+    "answers": [
+      {
+        "answer": "w telegrafie",
+        "correct": true
+      },
+      {
+        "answer": "w telewizorze",
+        "correct": false
+      },
+      {
+        "answer": "w samochodzie",
+        "correct": false
+      },
+      {
+        "answer": "w mikrofalówce",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 10,
+    "page": "A",
+    "question": "Jak nazywa się który może być przełącznikiem lub wzmacniaczem sygnału?",
+    "answers": [
+      {
+        "answer": "tranzystor",
+        "correct": true
+      },
+      {
+        "answer": "opornik",
+        "correct": false
+      },
+      {
+        "answer": "dioda",
+        "correct": false
+      },
+      {
+        "answer": "multimetr",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 10,
+    "page": "A",
+    "question": "Jaka jednostka jest blokiem funkcjonalnym mikroprocesora?",
+    "answers": [
+      {
+        "answer": "arytmetyczno-logiczna ALU",
+        "correct": true
+      },
+      {
+        "answer": "sterowania CU",
+        "correct": true
+      },
+      {
+        "answer": "rejestr(komórek pamięci)",
+        "correct": true
+      },
+      {
+        "answer": "logarytmiczna",
+        "correct": false
+      },
+      {
+        "answer": "rejestrowania CPU",
+        "correct": false
+      },
+      {
+        "answer": "pamięci",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 10,
+    "page": "A",
+    "question": "Kto opatentował lampę elektronową?",
+    "answers": [
+      {
+        "answer": "Nikola Tesla",
+        "correct": true
+      },
+      {
+        "answer": "Thomas Edison",
+        "correct": false
+      },
+      {
+        "answer": "Wilhelm Röntgen",
+        "correct": false
+      },
+      {
+        "answer": "Édouard-Léon Scott de Martinville",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 10,
+    "page": "A",
+    "question": "Kto wynalazł radio?",
+    "answers": [
+      {
+        "answer": "Nikola Tesla",
+        "correct": true
+      },
+      {
+        "answer": "Thomas Edison",
+        "correct": false
+      },
+      {
+        "answer": "Samuel Morse",
+        "correct": false
+      },
+      {
+        "answer": "Guglielmo Marconi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 10,
+    "page": "A",
+    "question": "Jack C. Kilby otrzymał Nagrodę Nobla za wynalezienie?",
+    "answers": [
+      {
+        "answer": "układu scalonego",
+        "correct": true
+      },
+      {
+        "answer": "lampy tranzystorowej",
+        "correct": false
+      },
+      {
+        "answer": "hashowania",
+        "correct": false
+      },
+      {
+        "answer": "półprzewodnika krzemowego",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 10,
+    "page": "A",
+    "question": "W jakiej dziedzinie Jack C. Kilby otrzymał Nagrodę Nobla w 2000 roku?",
+    "answers": [
+      {
+        "answer": "fizyki",
+        "correct": true
+      },
+      {
+        "answer": "matematyki",
+        "correct": false
+      },
+      {
+        "answer": "biologii",
+        "correct": false
+      },
+      {
+        "answer": "chemii",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 10,
+    "page": "A",
+    "question": "Jak nazywa się prawo: liczba tranzystorów w układzie scalony, podwaja się co 18 miesięcy?",
+    "answers": [
+      {
+        "answer": "prawo Moore'a",
+        "correct": true
+      },
+      {
+        "answer": "prawo Marconi",
+        "correct": false
+      },
+      {
+        "answer": "prawo Bessel'a",
+        "correct": false
+      },
+      {
+        "answer": "prawo Hagena",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 10,
+    "page": "B",
+    "question": "Jak nazywał się pierwszy elektroniczny kalkulator biurowy?",
+    "answers": [
+      {
+        "answer": "Anita",
+        "correct": true
+      },
+      {
+        "answer": "Agata",
+        "correct": false
+      },
+      {
+        "answer": "Beata",
+        "correct": false
+      },
+      {
+        "answer": "Helena",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 10,
+    "page": "B",
+    "question": "Jak nazywał się pierwszy w pełni kieszonkowy elektroniczny kalkulator czterodziałowy?",
+    "answers": [
+      {
+        "answer": "BUSICOM LE-120A",
+        "correct": true
+      },
+      {
+        "answer": "ZABACOM LE-120A",
+        "correct": false
+      },
+      {
+        "answer": "KALCOM LE-120A",
+        "correct": false
+      },
+      {
+        "answer": "ZUPICOM LE-120A",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 10,
+    "page": "B",
+    "question": "Jak nazywał się pierwszy programowalny elektroniczny kalkulator?",
+    "answers": [
+      {
+        "answer": "HP-65",
+        "correct": true
+      },
+      {
+        "answer": "HP-35",
+        "correct": false
+      },
+      {
+        "answer": "XYZ",
+        "correct": false
+      },
+      {
+        "answer": "MOORE",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 10,
+    "page": "B",
+    "question": "Ile ważył kalkulator elektryczny SHARP Compet CS10A?",
+    "answers": [
+      {
+        "answer": "25kg",
+        "correct": true
+      },
+      {
+        "answer": "5kg",
+        "correct": false
+      },
+      {
+        "answer": "7kg",
+        "correct": false
+      },
+      {
+        "answer": "15kg",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 11,
+    "page": "A",
+    "question": "Jak nazywał się pierwszy komputer osobisty z graficznym interfejsem użytkownika?",
+    "answers": [
+      {
+        "answer": "XEROX PARC ALTO",
+        "correct": true
+      },
+      {
+        "answer": "PDP-8",
+        "correct": false
+      },
+      {
+        "answer": "VAX",
+        "correct": false
+      },
+      {
+        "answer": "LINC",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 11,
+    "page": "A",
+    "question": "Jak nazywał się pierwszy wysokopoziomowy język w mikrokomputerach?",
+    "answers": [
+      {
+        "answer": "BASIC",
+        "correct": true
+      },
+      {
+        "answer": "C",
+        "correct": false
+      },
+      {
+        "answer": "JAVA",
+        "correct": false
+      },
+      {
+        "answer": "PERL",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 11,
+    "page": "A",
+    "question": "Jak nazywał się pierwszy arkusz kalkulacyjny Apple?",
+    "answers": [
+      {
+        "answer": "VISICALC",
+        "correct": true
+      },
+      {
+        "answer": "APPLE II",
+        "correct": false
+      },
+      {
+        "answer": "CALKAC",
+        "correct": false
+      },
+      {
+        "answer": "EXCELL",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 11,
+    "page": "B",
+    "question": "Erę komputerów osobistych zapoczątkowało wydanie komputera?",
+    "answers": [
+      {
+        "answer": "IBM PC (IBM 5150)",
+        "correct": true
+      },
+      {
+        "answer": "SCAMP",
+        "correct": false
+      },
+      {
+        "answer": "IBM 5100 Portable Computer",
+        "correct": false
+      },
+      {
+        "answer": "IBM 1401",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 11,
+    "page": "B",
+    "question": "Kiedy rozpoczęła się era komputerów osobistych?",
+    "answers": [
+      {
+        "answer": "1981",
+        "correct": true
+      },
+      {
+        "answer": "1970",
+        "correct": false
+      },
+      {
+        "answer": "1990",
+        "correct": false
+      },
+      {
+        "answer": "1937",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 11,
+    "page": "B",
+    "question": "Jak nazywał się wynalazca komputerów SPECTRUM?",
+    "answers": [
+      {
+        "answer": "Clive Sinclair",
+        "correct": true
+      },
+      {
+        "answer": "Vannevar Bush",
+        "correct": false
+      },
+      {
+        "answer": "Charles Babbage",
+        "correct": false
+      },
+      {
+        "answer": "John Hadley",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 11,
+    "page": "B",
+    "question": "Co otrzymał Clive Sinclair za swoje wynalazki od Królowej Brytyjskiej?",
+    "answers": [
+      {
+        "answer": "tytuł szlachecki",
+        "correct": true
+      },
+      {
+        "answer": "dofinansowanie",
+        "correct": false
+      },
+      {
+        "answer": "ziemie",
+        "correct": false
+      },
+      {
+        "answer": "medal",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 11,
+    "page": "B",
+    "question": "Jak nazywała się sieć polskich komputerów JUNIOR i komputera nauczycielskiego?",
+    "answers": [
+      {
+        "answer": "JUNET",
+        "correct": true
+      },
+      {
+        "answer": "JUNGEN",
+        "correct": false
+      },
+      {
+        "answer": "JUNIORNET",
+        "correct": false
+      },
+      {
+        "answer": "JURNET",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 11,
+    "page": "B",
+    "question": "Jak nazywał się oficjalnie uznany przez Ministerstwo Oświaty i Szkolnictwa w latach XX polski komputer?",
+    "answers": [
+      {
+        "answer": "ELWRO 800 JUNIOR",
+        "correct": true
+      },
+      {
+        "answer": "XYZ",
+        "correct": false
+      },
+      {
+        "answer": "ENIGMA 107",
+        "correct": false
+      },
+      {
+        "answer": "VISICALC",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 12,
+    "page": "A",
+    "question": "Nieliniowa i rozproszona organizacja danych połączonych odsyłaczami (linkami) to?",
+    "answers": [
+      {
+        "answer": "hipertekst",
+        "correct": true
+      },
+      {
+        "answer": "hiperlink",
+        "correct": false
+      },
+      {
+        "answer": "hiperdata",
+        "correct": false
+      },
+      {
+        "answer": "hipermeta",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 12,
+    "page": "A",
+    "question": "Co może zawierać hipermedium?",
+    "answers": [
+      {
+        "answer": "obraz, dźwięk i film",
+        "correct": true
+      },
+      {
+        "answer": "obraz",
+        "correct": false
+      },
+      {
+        "answer": "dźwięk",
+        "correct": false
+      },
+      {
+        "answer": "film",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 12,
+    "page": "A",
+    "question": "Kto wynalazł myszkę komputerową?",
+    "answers": [
+      {
+        "answer": "Douglas Engelbart",
+        "correct": true
+      },
+      {
+        "answer": "Paul Buchheit",
+        "correct": false
+      },
+      {
+        "answer": "Ron Watkins",
+        "correct": false
+      },
+      {
+        "answer": "Mike Krieger",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 12,
+    "page": "A",
+    "question": "Kto wynalazł pocztę elektroniczną?",
+    "answers": [
+      {
+        "answer": "Ray Tomlinson",
+        "correct": true
+      },
+      {
+        "answer": "Paul Buchheit",
+        "correct": false
+      },
+      {
+        "answer": "Ron Watkins",
+        "correct": false
+      },
+      {
+        "answer": "Douglas Engelbart",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 12,
+    "page": "A",
+    "question": "Kto stworzył serwis WWW?",
+    "answers": [
+      {
+        "answer": "Timothy J. Berners-Lee",
+        "correct": true
+      },
+      {
+        "answer": "Vannevar Bush",
+        "correct": false
+      },
+      {
+        "answer": "Tom linson",
+        "correct": false
+      },
+      {
+        "answer": "Mike Krieger",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 12,
+    "page": "A",
+    "question": "W jakich miastac znajdowały się uczelnie połączone siecią ARPANET?",
+    "answers": [
+      {
+        "answer": "Utah, Santa Barbara, Los Angeles",
+        "correct": true
+      },
+      {
+        "answer": "Utah, Waszyngton, Los Angeles",
+        "correct": false
+      },
+      {
+        "answer": "Nowy York, Santa Barbara, Los Angeles",
+        "correct": false
+      },
+      {
+        "answer": "Utah, Santa Barbara, Chicago",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 12,
+    "page": "A",
+    "question": "Na jakie części podzieliła się ARPANET?",
+    "answers": [
+      {
+        "answer": "ARPANET i MILNET",
+        "correct": true
+      },
+      {
+        "answer": "ARPANET I i ARPANET II",
+        "correct": false
+      },
+      {
+        "answer": "ARPACIV i ARPAMIL",
+        "correct": false
+      },
+      {
+        "answer": "WWW i MILNET",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 12,
+    "page": "A",
+    "question": "Kto stworzył protokół TCP/IP?",
+    "answers": [
+      {
+        "answer": "Vinton G. Cerf i Robert E. Kahn",
+        "correct": true
+      },
+      {
+        "answer": "Tom linson i Robert E. Kahn",
+        "correct": false
+      },
+      {
+        "answer": "Vinton G. Cerf i Paul Buchheit",
+        "correct": false
+      },
+      {
+        "answer": "Vinton G. Cerf i Timothy J. Berners-Lee",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 12,
+    "page": "B",
+    "question": "Jak nazywał się pierwszy poski konstruktor komputerow?",
+    "answers": [
+      {
+        "answer": "Leon Łukaszewicz",
+        "correct": true
+      },
+      {
+        "answer": "Mirosław Dymek",
+        "correct": false
+      },
+      {
+        "answer": "Jan Pikul",
+        "correct": false
+      },
+      {
+        "answer": "MArcin Borkowski",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 12,
+    "page": "B",
+    "question": "Jak sterowano maszyną analogową ARR?",
+    "answers": [
+      {
+        "answer": "kręcąc gałkami",
+        "correct": true
+      },
+      {
+        "answer": "przesuwając dźwigniami",
+        "correct": false
+      },
+      {
+        "answer": "tablicami perforowanymi",
+        "correct": false
+      },
+      {
+        "answer": "za pomocą myszki",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 12,
+    "page": "B",
+    "question": "Z jakiego języka symbolicznego korzystała maszyna XYZ?",
+    "answers": [
+      {
+        "answer": "SAS",
+        "correct": true
+      },
+      {
+        "answer": "SUS",
+        "correct": false
+      },
+      {
+        "answer": "SOS",
+        "correct": false
+      },
+      {
+        "answer": "ANSYS",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 12,
+    "page": "B",
+    "question": "Z jakiego systemu automatycznego kodowania korzystała maszyna ZAM?",
+    "answers": [
+      {
+        "answer": "SAKO",
+        "correct": true
+      },
+      {
+        "answer": "SUKO",
+        "correct": false
+      },
+      {
+        "answer": "SAKE",
+        "correct": false
+      },
+      {
+        "answer": "ASYS",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 12,
+    "page": "B",
+    "question": "Jakich generacji komputery nosiły w Polsce nazwę ODRA?",
+    "answers": [
+      {
+        "answer": "drugiej i trzeciej",
+        "correct": true
+      },
+      {
+        "answer": "pierwszej i drugiej",
+        "correct": false
+      },
+      {
+        "answer": "trzeciej i czwartej",
+        "correct": false
+      },
+      {
+        "answer": "pierwszej i trzeciej",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 12,
+    "page": "B",
+    "question": "Jakich nazywała się ostatnia seria komputerów wyprodukowanych przez polski przemysł komputerowy?",
+    "answers": [
+      {
+        "answer": "KOMPUTER JS EMC R-32",
+        "correct": true
+      },
+      {
+        "answer": "KOMPUTER JJ MNE T-22",
+        "correct": false
+      },
+      {
+        "answer": "KOMPUTER CS AGA T-32",
+        "correct": false
+      },
+      {
+        "answer": "KOPERNIK JS EMC R-32",
+        "correct": false
+      }
+    ]
+  }
+]
