@@ -13,58 +13,59 @@ const synth = window.speechSynthesis;
 export class TabliceComponent implements OnInit {
 
   spisTablic: string[]; // Array to store the text files
-  currentBoard: string; // Variable to store the text file contents
-  index: number;
-  isSpeaking = false;
-  isPaused = false;
-  utterance = new SpeechSynthesisUtterance('');
+  @Input() currentBoard: string; // Variable to store the text file contents
+  audioPlayer: HTMLAudioElement;
+  index: number = 0;
+
 
   constructor(private http: HttpClient, private route: ActivatedRoute, private router: Router) {
     this.currentBoard = '';
     this.spisTablic = [];
     this.index = 0;
+    this.audioPlayer = new Audio();
   }
 
   ngOnInit() {
+    this.route.params.subscribe(params => {
+      this.index = params['id'];
+      this.displayTextFile(this.index);
+      this.setAudioSource(this.index);
+    });
 
     this.http.get('assets/docs/Tablice/SpisTablic.json').subscribe((spisTablic: Object) => {
       this.spisTablic = spisTablic as string[];
-      const index = this.route.snapshot.params['id'];
-      this.displayTextFile(index);
-
-      this.route.params.subscribe(params => {
-        this.index = params['id'];
-        this.displayTextFile(this.index);
-      });
+      this.index = this.route.snapshot.params['id'];
+      this.displayTextFile(this.index);
+      this.setAudioSource(this.index);
     });
-  }
-
-  initializeSpeechText(currentBoard: string) {
-    this.utterance = new SpeechSynthesisUtterance(currentBoard);
-    let polishVoice: SpeechSynthesisVoice | undefined;
-
-    synth.getVoices().forEach(voice => {
-      if (voice.lang === 'pl-PL' || voice.lang === 'pl' || voice.lang === 'pl_PL') {
-        polishVoice = voice;
-        this.utterance.voice = polishVoice;
-
-      }
-    });
-
-    
-    this.speakText();
-    this.stopSpeech();
   }
 
   displayTextFile(index: number) {
     // console.trace(index, this.spisTablic)
     this.http.get(`assets/docs/Tablice/${this.spisTablic[index]}.txt`, { responseType: 'text' }).subscribe(currentBoard => {
       this.currentBoard = currentBoard;
-      this.initializeSpeechText(currentBoard);
-      this.stopSpeech();
     });
   }
 
+  setAudioSource(index: number) {
+    this.audioPlayer.src = `assets/docs/Tablice/${this.spisTablic[index]}.mp3`;
+  }
+
+  playAudio() {
+    this.audioPlayer.play();
+  }
+
+  pauseAudio() {
+    this.audioPlayer.pause();
+  }
+
+  stopAudio() {
+    this.audioPlayer.pause();
+    this.audioPlayer.currentTime = 0;
+  }
+
+
+  // strzalka do poprzedniej tablicy
   previousTextFile() {
     if (this.index > 0) {
       this.router.navigate(['/tablica', this.index - 1]);
@@ -73,6 +74,7 @@ export class TabliceComponent implements OnInit {
     }
   }
 
+  // strzalka do nastepnej tablicy
   nextTextFile() {
     if (this.index < this.spisTablic.length - 1) {
       this.router.navigate(['/tablica', ++this.index]);
@@ -81,29 +83,4 @@ export class TabliceComponent implements OnInit {
     }
   }
 
-  speakText() {
-    if (!synth.speaking) {
-      this.isSpeaking = true;
-      synth.speak(this.utterance);
-    }
-  }
-
-
-  stopSpeech() {
-    synth.cancel();
-    this.isSpeaking = false;
-    this.isPaused = false;
-  }
-
-  pauseSpeech() {
-    synth.pause();
-    this.isPaused = true;
-  }
-
-  resumeSpeech() {
-    if (synth.paused)
-      synth.resume();
-    else
-      console.log("Speech is not paused");
-  }
 }

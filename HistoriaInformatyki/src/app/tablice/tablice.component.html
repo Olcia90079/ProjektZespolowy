@@ -7,11 +7,9 @@
     <div (click)="nextTextFile()" class="right-arrow">&gt;</div>
   </div>
   <div class="speech-controls">
-    <button (click)="speakText()" [disabled]="isSpeaking">Start speech</button>
-    <button (click)="stopSpeech()" [disabled]="!isSpeaking">Stop speech</button>
-    <button (click)="pauseSpeech()" [disabled]="!isSpeaking">
-      Pause speech
-    </button>
-    <button (click)="resumeSpeech()">Resume</button>
+    <button (click)="playAudio()">Play</button>
+    <button (click)="pauseAudio()">Pause</button>
+    <button (click)="stopAudio()">Stop</button>
+
   </div>
 </div>
