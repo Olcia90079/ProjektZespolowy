@@ -1040,6 +1040,63 @@
     ]
   },
   {
+    "no": 7,
+    "page": "B",
+    "question": "Które wydarzenie zapoczątkowało rewolucję przemysłową?",
+    "answers": [
+      {
+        "answer": "wynalezienie maszyny parowej",
+        "correct": true
+      },
+      {
+        "answer": "wynalezienie maszyny do pisania",
+        "correct": false
+      },
+      {
+        "answer": "wynalezienie pierwszego samochodu",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 7,
+    "page": "B",
+    "question": "Który wynalazek umożliwił przechowywanie dźwięku i stworzenie pierwszego zapisu mowy?",
+    "answers": [
+      {
+        "answer": "fonograf",
+        "correct": true
+      },
+      {
+        "answer": "telegraf",
+        "correct": false
+      },
+      {
+        "answer": "mikroskop",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 7,
+    "page": "B",
+    "question": "Który wynalazek był pierwszym komunikacyjnym środkiem umożliwiającym przesyłanie informacji na odległość?",
+    "answers": [
+      {
+        "answer": "telegraf",
+        "correct": true
+      },
+      {
+        "answer": "telefon",
+        "correct": false
+      },
+      {
+        "answer": "radio",
+        "correct": false
+      }
+    ]
+  },
+  {
     "no": 8,
     "page": "A",
     "question": "Z czego zasłynął Turing?",
