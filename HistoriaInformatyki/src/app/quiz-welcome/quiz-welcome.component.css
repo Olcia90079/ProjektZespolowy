@@ -12,27 +12,35 @@ mat-card-content {
   color: white;
   background-color: #464575;
   text-align: center;
-  padding-top: 1%;
-  padding-bottom: 1%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+div {
+  width: 65vw;
+  height: 4em;
 }
 
 button {
   color: white;
   background-color: #212478;
   text-align: center;
-  width: 28.5vw;
+  width: 65vw;
+  height: 4em;
 }
 
 @media only screen and (max-width: 600px) {
   button, mat-card-content {
-    font-size: 0.7em;
+    font-size: 1.2em;
+    padding-top: 2%;
+    padding-bottom: 2%;
     /* padding: 2%; */
   }
 }
 
 @media only screen and (min-width: 601px) {
   button, mat-card-content {
-    font-size: 1.2em;
+    font-size: 1.6em;
     /* padding: 0.85%; */
   }
 }
