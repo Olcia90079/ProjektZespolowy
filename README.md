@@ -1,4 +1,4 @@
-# Projekt Zespołowy
+# Projekt Zespołowy - Historia Informatyki
 
 ## Opis projektu:
 Aplikacja webowa, którą tworzymy, zapewnia interaktywne przeprowadzenie użytkownika przez wystawę poświęconą historii informatyki, umożliwiając skupienie się na interesujących elementach i pozwalając na dowolny wybór kolejności zwiedzania. Interfejs aplikacji jest intuicyjny i prosty w obsłudze, dzięki czemu niezależnie od poziomu znajomości nowych technologii, użytkownik bez trudu odnajdzie się w tym świecie.

@@ -13,27 +13,42 @@ mat-card-content {
   background-color: #464575;
   text-align: center;
   width: 100%;
-  padding-top: 1%;
-  padding-bottom: 1%;
+  padding-top: 1.2%;
+  padding-bottom: 1.2%;
   overflow: hidden;
 }
 
 button {
   color: white;
   background-color: #212478;
-  width: 49vw;
+  width: 65vw;
+  height: 4em;
   text-align: center;
 }
 
+
 @media only screen and (max-width: 600px) {
-  button, mat-card-content {
-    font-size: 0.7em;
+  button {
+    text-align: center;
+    font-size: 1.2em;
+    width: 90vw;
+    height: 4em;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+  }
+  mat-card-content {
+    text-align: center;
+    font-size: 1.2em;
+    height: 5.5em;
+    width: 90vw;
+    padding-top: 15%;
+    padding-bottom: 5%;
   }
 }
 
 @media only screen and (min-width: 601px) {
   button, mat-card-content {
-    font-size: 1.2em;
+    font-size: 1.5em;
   }
 }
 

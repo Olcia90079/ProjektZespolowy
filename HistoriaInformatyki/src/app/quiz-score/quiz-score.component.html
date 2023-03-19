@@ -1,17 +1,14 @@
 <mat-card>
   <mat-card-content>
-    Twój wynik: {{score}} / {{maxScore}}
-    <p>{{password}}</p>
+    Twój wynik: {{ score }} / {{ maxScore }}
+    <br />
+    <p>{{ password }}</p>
   </mat-card-content>
   <mat-card-actions>
-    <button mat-button routerLink="/quiz">
-      Zagraj ponownie!
-    </button>
+    <br />
+    <button mat-button routerLink="/quiz">Zagraj ponownie!</button>
     <br />
     <br />
-    <button mat-button routerLink="/quiz-welcome">
-      Powrót
-    </button>
+    <button mat-button routerLink="/quiz-welcome">Powrót</button>
   </mat-card-actions>
 </mat-card>
-
