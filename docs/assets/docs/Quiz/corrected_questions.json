@@ -207,8 +207,12 @@
     "question": "Kto zbudował żywą ławę do obliczeń?",
     "answers": [
       {
-        "answer": "Willgodt Theophil Odhner",
+        "answer": "Gottfried Wilhelm Leibniz",
         "correct": true
+      },
+      {
+        "answer": "Willgodt Theophil Odhner",
+        "correct": false
       },
       {
         "answer": "Salomon August Andree",
