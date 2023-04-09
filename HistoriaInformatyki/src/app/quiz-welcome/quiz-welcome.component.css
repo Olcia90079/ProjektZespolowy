@@ -27,6 +27,7 @@ button {
   text-align: center;
   width: 65vw;
   height: 4em;
+  
 }
 
 @media only screen and (max-width: 600px) {
@@ -36,6 +37,16 @@ button {
     padding-bottom: 2%;
     /* padding: 2%; */
   }
+  button {
+    width: 43vw;
+    height: 43vw;
+  }
+  .container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+  }
+
 }
 
 @media only screen and (min-width: 601px) {
@@ -44,3 +55,5 @@ button {
     /* padding: 0.85%; */
   }
 }
+
+
