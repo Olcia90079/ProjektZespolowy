@@ -16,7 +16,7 @@ mat-card-content {
   padding-bottom: 2%;
 }
 
-div {
+.chosen-one {
   width: 65vw;
   height: 4em;
 }
@@ -27,20 +27,38 @@ button {
   text-align: center;
   width: 65vw;
   height: 4em;
+  
+}
+
+.card-container {
+  justify-content: center;
 }
 
 @media only screen and (max-width: 600px) {
   button, mat-card-content {
-    font-size: 1.2em;
-    padding-top: 2%;
-    padding-bottom: 2%;
-    /* padding: 2%; */
+    font-size: 1.1em;
+    padding-top: 1%;
+    padding-bottom: 1%;
   }
+  button {
+    width: 43vw;
+    height: 43vw;
+  }
+  .card-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .card {
+    flex-basis: calc(36%);
+    margin: 2%;
+  }
+
 }
 
 @media only screen and (min-width: 601px) {
   button, mat-card-content {
     font-size: 1.6em;
-    /* padding: 0.85%; */
   }
 }
+
+
