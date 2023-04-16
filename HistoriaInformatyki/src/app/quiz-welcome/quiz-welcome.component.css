@@ -44,7 +44,8 @@ button {
     width: 43vw;
     height: 43vw;
     word-break: break-all;
-    overflow: auto;
+    overflow-y: hidden;
+    overflow-x: auto;
     text-overflow: clip;
   }
   .card-container {
@@ -64,7 +65,8 @@ button {
   }
   button {
     word-break: break-all;
-    overflow: auto;
+    overflow-y: hidden;
+    overflow-x: auto;
     text-overflow: clip;
   }
 }
