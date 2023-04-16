@@ -43,6 +43,9 @@ button {
   button {
     width: 43vw;
     height: 43vw;
+    word-break: break-all;
+    overflow: auto;
+    text-overflow: clip;
   }
   .card-container {
     display: flex;
@@ -58,6 +61,11 @@ button {
 @media only screen and (min-width: 601px) {
   button, mat-card-content {
     font-size: 1.6em;
+  }
+  button {
+    word-break: break-all;
+    overflow: auto;
+    text-overflow: clip;
   }
 }
 

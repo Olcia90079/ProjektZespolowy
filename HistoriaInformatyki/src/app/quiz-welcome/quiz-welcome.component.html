@@ -21,8 +21,8 @@
 <div class="card-container">
   <mat-card *ngFor="let quiz of quizzes" class="card">
     <mat-card-actions>
-      <button mat-button (click)="play(quiz)">
-        {{ quiz.no }}{{ quiz.page }} <!-- {{ quiz.title }} -->
+      <button mat-button (click)="play(quiz)" style="word-break: normal;">
+        {{ quiz.no }}{{ quiz.page }} {{ quiz.title }} 
       </button>
     </mat-card-actions>
   </mat-card>
