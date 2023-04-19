@@ -630,6 +630,44 @@
   {
     "no": 4,
     "page": "A",
+    "question": "Jaką metodą były sporządzane tablice logarytmiczne i trygonometryczne w 'manufakturze logarytmów'?",
+    "answers": [
+      {
+        "answer": "metodę różnic skończonych",
+        "correct": true
+      },
+      {
+        "answer": "metodę obliczania całek",
+        "correct": false
+      },
+      {
+        "answer": "metodę interpolacji wielomianowej",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 4,
+    "page": "A",
+    "question": "Dlaczego projekt Müllera nie został zrealizowany?",
+    "answers": [
+      {
+        "answer": "z powodu braku funduszy na jego realizację",
+        "correct": true
+      },
+      {
+        "answer": "z powodu braku zainteresowania naukowców",
+        "correct": false
+      },
+      {
+        "answer": "został zrealizowany, ale okazał się niepraktyczny w użyciu",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 4,
+    "page": "A",
     "question": "Jak nazywała się pierwsza programistka?",
     "answers": [
       {
@@ -695,6 +733,44 @@
       },
       {
         "answer": "tak",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 4,
+    "page": "B",
+    "question": "Kto skonstruował pierwszy czterodziałaniowy kalkulator klawiszowy?",
+    "answers": [
+      {
+        "answer": "Dorr Eugene Felt",
+        "correct": true
+      },
+      {
+        "answer": "William Seward Burroughs",
+        "correct": false
+      },
+      {
+        "answer": "Thomas Hill",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 4,
+    "page": "B",
+    "question": "Kiedy zaczęły pojawiać się kalkulatory biurowe napędzane motorem elektrycznym?",
+    "answers": [
+      {
+        "answer": "na początku XX wieku",
+        "correct": true
+      },
+      {
+        "answer": "na początku XIX wieku",
+        "correct": false
+      },
+      {
+        "answer": "pod koniec XVIII wieku",
         "correct": false
       }
     ]
