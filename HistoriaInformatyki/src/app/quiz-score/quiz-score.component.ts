@@ -18,7 +18,7 @@ export class QuizScoreComponent implements OnInit {
     this.score = +this.sharedService.getScore();
     this.maxScore = +this.sharedService.getMaxScore();
 
-    if (this.score == this.maxScore) {
+    if (this.score == this.maxScore && this.score>0 && this.maxScore>0)  {
       this.sendRequest();
     }
   }
