@@ -776,6 +776,25 @@
     ]
   },
   {
+    "no": 4,
+    "page": "B",
+    "question": "Jak nazywał się pierwszy czterodziałaniowy kalkulator klawiszowy?",
+    "answers": [
+      {
+        "answer": "Comtometer",
+        "correct": true
+      },
+      {
+        "answer": "Cometomaster",
+        "correct": false
+      },
+      {
+        "answer": "Computograph",
+        "correct": false
+      }
+    ]
+  },
+  {
     "no": 5,
     "page": "A",
     "question": "Jak brzmiała pierwsza przesłana kodem Morse'a wiadomość?",
@@ -1590,6 +1609,25 @@
   },
   {
     "no": 8,
+    "page": "A",
+    "question": "Jakie problemy wskazał Turing, których nie da się rozwiązać za pomocą komputera?",
+    "answers": [
+      {
+        "answer": "niektóre problemy, takie jak problem stopu",
+        "correct": true
+      },
+      {
+        "answer": "wskazał, że nie da się rozwiązać żadnych problemów za pomocą komputera",
+        "correct": false
+      },
+      {
+        "answer": "nie wskazał żadnych takich problemów",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 8,
     "page": "B",
     "question": "W ktorym roku zaczęto używać Enigmy?",
     "answers": [
@@ -1680,6 +1718,29 @@
       },
       {
         "answer": "USA",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 8,
+    "page": "B",
+    "question": "Kto uczestniczył przy budowie Brytyjskiej Bomby?",
+    "answers": [
+      {
+        "answer": "Alan M. Turing",
+        "correct": true
+      },
+      {
+        "answer": "Robert B. Weide",
+        "correct": false
+      },
+      {
+        "answer": "Alexander Graham Bell",
+        "correct": false
+      },
+      {
+        "answer": "Parker Bletchley",
         "correct": false
       }
     ]
@@ -2199,6 +2260,29 @@
     ]
   },
   {
+    "no": 10,
+    "page": "B",
+    "question": "W jakich latach zaczęto budować pierwsze kalkulatory elektroniczne?",
+    "answers": [
+      {
+        "answer": "na początku lat 60.",
+        "correct": true
+      },
+      {
+        "answer": "pod koniec lat 70.",
+        "correct": false
+      },
+      {
+        "answer": "pod koniec lat 50.",
+        "correct": false
+      },
+      {
+        "answer": "na początku lat 50.",
+        "correct": false
+      }
+    ]
+  },
+  {
     "no": 11,
     "page": "A",
     "question": "Jak nazywał się pierwszy komputer osobisty z graficznym interfejsem użytkownika?",
@@ -2263,6 +2347,52 @@
       },
       {
         "answer": "EXCELL",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 11,
+    "page": "A",
+    "question": "Kto wynalazł napęd dysków elastycznych?",
+    "answers": [
+      {
+        "answer": "Yoshiro Nakamats",
+        "correct": true
+      },
+      {
+        "answer": "Yasuhiro Hagakure",
+        "correct": false
+      },
+      {
+        "answer": "Gundham Tanaka",
+        "correct": false
+      },
+      {
+        "answer": "Tanaka Tetsuya",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 11,
+    "page": "A",
+    "question": "W którym roku opracowano język Basic?",
+    "answers": [
+      {
+        "answer": "1965",
+        "correct": true
+      },
+      {
+        "answer": "1956",
+        "correct": false
+      },
+      {
+        "answer": "1975",
+        "correct": false
+      },
+      {
+        "answer": "1967",
         "correct": false
       }
     ]
