@@ -58,6 +58,120 @@
   },
   {
     "no": 1,
+    "page": "A",
+    "question": "Kim był Eratostenes?",
+    "answers": [
+      {
+        "answer": "był greckim matematykiem, geografem, filozofem i poetą",
+        "correct": true
+      },
+      {
+        "answer": "był rzymskim politykiem i matematykiem",
+        "correct": false
+      },
+      {
+        "answer": "był egipskim astronomem, filozofem i wynalazcą",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 1,
+    "page": "A",
+    "question": "Na czym opierały się pierwsze narzędzia służące do obliczeń?",
+    "answers": [
+      {
+        "answer": "na kamykach",
+        "correct": true
+      },
+      {
+        "answer": "na liściach",
+        "correct": false
+      },
+      {
+        "answer": "na kościach",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 1,
+    "page": "A",
+    "question": "Jakie słowo pochodzi od łacińskiego calculus?",
+    "answers": [
+      {
+        "answer": "kalkulować",
+        "correct": true
+      },
+      {
+        "answer": "abak",
+        "correct": false
+      },
+      {
+        "answer": "rachunek",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 1,
+    "page": "B",
+    "question": "Jakie sposoby rachowania były stosowane przed wynalezieniem cyfr i znaków liczbowych?",
+    "answers": [
+      {
+        "answer": "stosowanie palców u rąk i nóg oraz innych części ciała",
+        "correct": true
+      },
+      {
+        "answer": "obserwacja chmur",
+        "correct": false
+      },
+      {
+        "answer": "używanie kolorów do oznaczania różnych wartości",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 1,
+    "page": "B",
+    "question": "W jakiej cywilizacji stosowano quipu?",
+    "answers": [
+      {
+        "answer": "cywilizacja Inków",
+        "correct": true
+      },
+      {
+        "answer": "cywilizacja Fenicjan",
+        "correct": false
+      },
+      {
+        "answer": "cywilizacja Rzymska",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 1,
+    "page": "B",
+    "question": "Który alfabet liczbowy jest najstarszy?",
+    "answers": [
+      {
+        "answer": "Alfabet fenicki",
+        "correct": true
+      },
+      {
+        "answer": "Alfabet rzymski",
+        "correct": false
+      },
+      {
+        "answer": "Alfabet grecki",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 1,
     "page": "B",
     "question": "VII.IV.MCCCXCIX to data?",
     "answers": [
@@ -153,6 +267,101 @@
   },
   {
     "no": 2,
+    "page": "A",
+    "question": "Jakie narzędzie wynalazł John Napier, służące do szybkiego wykonywania mnożeń wielocyfrowych liczb przez jednocyfrową liczbę?",
+    "answers": [
+      {
+        "answer": "Pałeczki Napiera",
+        "correct": true
+      },
+      {
+        "answer": "Kości Napiera",
+        "correct": false
+      },
+      {
+        "answer": "Tabliczki Napiera",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 2,
+    "page": "A",
+    "question": "Co to są logarytmy i jaką rolę pełnią w matematyce?",
+    "answers": [
+      {
+        "answer": "logarytmy to funkcje odwrotne do potęgowania, umożliwiające zastąpienie mnożenia i dzielenia dodawaniem i odejmowaniem",
+        "correct": true
+      },
+      {
+        "answer": "logarytmy to zwykłe liczby, umożliwiające szybkie obliczanie wyników działań matematycznych",
+        "correct": false
+      },
+      {
+        "answer": "logarytmy to sposoby rachowania stosowane wyłącznie przez starożytnych matematyków",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 2,
+    "page": "B",
+    "question": "Jak działa suwak logarytmiczny?",
+    "answers": [
+      {
+        "answer": "suwak logarytmiczny wykorzystuje zasadę mnożenia logarytmów",
+        "correct": true
+      },
+      {
+        "answer": "suwak logarytmiczny służy do obliczania pierwiastków kwadratowych",
+        "correct": false
+      },
+      {
+        "answer": "suwak logarytmiczny wykorzystuje zasadę dzielenia logarytmów",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 2,
+    "page": "B",
+    "question": "Kto i kiedy skonstruował suwak logarytmiczny?",
+    "answers": [
+      {
+        "answer": "William Oughtred w 1632 roku",
+        "correct": true
+      },
+      {
+        "answer": "Edmund Gunter w 1625 roku",
+        "correct": false
+      },
+      {
+        "answer": "John Napier w 1611 roku",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 2,
+    "page": "B",
+    "question": "Jakie było pierwotne zastosowanie abaków?",
+    "answers": [
+      {
+        "answer": "wykonywanie prostych działań arytmetycznych",
+        "correct": true
+      },
+      {
+        "answer": "jego pierwotne zastosowanie było rozrywkowe",
+        "correct": false
+      },
+      {
+        "answer": "jako rodzaj karty perforowanej używanej w początkach informatyki",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 2,
     "page": "B",
     "question": "Jak nazywają się w innych krajach liczydła?",
     "answers": [
@@ -183,6 +392,25 @@
     ]
   },
   {
+    "no": 2,
+    "page": "B",
+    "question": "Jak abaki rozwinęły się w różnych częściach świata?",
+    "answers": [
+      {
+        "answer": "abaki rozwinęły się niezależnie w różnych częściach świata.",
+        "correct": true
+      },
+      {
+        "answer": "abaki zostały wynalezione w Grecji, a następnie rozprzestrzeniły się po całym świecie.",
+        "correct": false
+      },
+      {
+        "answer": "abaki są charakterystyczne tylko dla krajów Azji Wschodniej.",
+        "correct": false
+      }
+    ]
+  },
+  {
     "no": 3,
     "page": "A",
     "question": "W jakim rozwinięciu sumy dwóch składników trójkąt Pascala oblicza współczynniki?",
@@ -207,8 +435,12 @@
     "question": "Kto zbudował żywą ławę do obliczeń?",
     "answers": [
       {
-        "answer": "Willgodt Theophil Odhner",
+        "answer": "Gottfried Wilhelm Leibniz",
         "correct": true
+      },
+      {
+        "answer": "Willgodt Theophil Odhner",
+        "correct": false
       },
       {
         "answer": "Salomon August Andree",
@@ -235,6 +467,44 @@
       },
       {
         "answer": "John Napier",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 3,
+    "page": "A",
+    "question": "Jaka była funkcja zbudowanej przez Wilhelma Schickarda czterodziałaniowej maszyny?",
+    "answers": [
+      {
+        "answer": "dodawanie i odejmowanie liczb sześciocyfrowych",
+        "correct": true
+      },
+      {
+        "answer": "mnożenie i dzielenie liczb dziesiętnych",
+        "correct": false
+      },
+      {
+        "answer": "konwersja między różnymi systemami liczbowymi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 3,
+    "page": "A",
+    "question": "Dlaczego Pascal przez ponad trzysta lat był niesłusznie uważany za wynalazcę pierwszej mechanicznej maszyny do liczenia?",
+    "answers": [
+      {
+        "answer": "Nie wiedziano o wynalazku Schickarda",
+        "correct": true
+      },
+      {
+        "answer": "Pascal zbudował maszynę jako pierwszy, ale Schickard opatentował swój wynalazek",
+        "correct": false
+      },
+      {
+        "answer": "Pascal użył w swojej maszynie nowatorskiego systemu zębatkowego, co uznano za przełomowy wynalazek",
         "correct": false
       }
     ]
@@ -284,7 +554,7 @@
   {
     "no": 3,
     "page": "B",
-    "question": "Do jakich kalkulacji używano arytmometru (kalkulatora mechanicznego)?",
+    "question": "Do jakich kalkulacji używano arytmometru?",
     "answers": [
       {
         "answer": "ubezpieczeniowych",
@@ -296,6 +566,44 @@
       },
       {
         "answer": "wytrzymałościowych",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 3,
+    "page": "B",
+    "question": "Co to jest arytmometr?",
+    "answers": [
+      {
+        "answer": "to kalkulator mechaniczny",
+        "correct": true
+      },
+      {
+        "answer": "to narzędzie do pomiaru ciśnienia",
+        "correct": false
+      },
+      {
+        "answer": "to kalkulator elektroniczny",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 3,
+    "page": "B",
+    "question": "Który wynalazca opracował kalkulatory wykorzystujące koło zębate?",
+    "answers": [
+      {
+        "answer": "Frank S. Baldwin",
+        "correct": true
+      },
+      {
+        "answer": "Willgotd T. Odhner",
+        "correct": true
+      },
+      {
+        "answer": "Charles Xavier Thomas",
         "correct": false
       }
     ]
@@ -1035,6 +1343,63 @@
       },
       {
         "answer": "Encyklopedia Gutenberga",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 7,
+    "page": "B",
+    "question": "Które wydarzenie zapoczątkowało rewolucję przemysłową?",
+    "answers": [
+      {
+        "answer": "wynalezienie maszyny parowej",
+        "correct": true
+      },
+      {
+        "answer": "wynalezienie maszyny do pisania",
+        "correct": false
+      },
+      {
+        "answer": "wynalezienie pierwszego samochodu",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 7,
+    "page": "B",
+    "question": "Który wynalazek umożliwił przechowywanie dźwięku i stworzenie pierwszego zapisu mowy?",
+    "answers": [
+      {
+        "answer": "fonograf",
+        "correct": true
+      },
+      {
+        "answer": "telegraf",
+        "correct": false
+      },
+      {
+        "answer": "mikroskop",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "no": 7,
+    "page": "B",
+    "question": "Który wynalazek był pierwszym komunikacyjnym środkiem umożliwiającym przesyłanie informacji na odległość?",
+    "answers": [
+      {
+        "answer": "telegraf",
+        "correct": true
+      },
+      {
+        "answer": "telefon",
+        "correct": false
+      },
+      {
+        "answer": "radio",
         "correct": false
       }
     ]
