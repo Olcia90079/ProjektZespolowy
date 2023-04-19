@@ -5,31 +5,37 @@ import { Injectable } from '@angular/core';
 })
 export class SharedService {
   //quiz -> quiz-score
-  score: number = 0;
-  maxScore: number = 0;
+  private score: number = 0;
+  private maxScore: number = 0;
 
-  setScore(score: number) {
+  setScore(score: number): void {
     this.score = score;
+    localStorage.setItem('score', score.toString());
   }
 
   getScore() {
-    return this.score;
+    const score = localStorage.getItem('score');
+    return score ? parseInt(score, 10) : 0;
   }
 
   removePoint() {
     this.score -= 1;
+    localStorage.setItem('score', this.score.toString());
   }
 
   addPoint() {
     this.score += 1;
+    localStorage.setItem('score', this.score.toString());
   }
 
-  setMaxScore(maxScore: number) {
+  setMaxScore(maxScore: number): void {
     this.maxScore = maxScore;
+    localStorage.setItem('maxScore', maxScore.toString());
   }
 
   getMaxScore() {
-    return this.maxScore;
+    const maxScore = localStorage.getItem('maxScore');
+    return maxScore ? parseInt(maxScore, 10) : 0;
   }
 
   //quiz-welcome -> quiz
@@ -40,45 +46,45 @@ export class SharedService {
   page: string = "all";
   title: string = "all pages";
 
-  setNumElements(numElements: number) {
+  setNumElements(numElements: number): void {
     this.numElements = numElements;
   }
-  getNumElements() {
+  getNumElements(): number {
     return this.numElements;
   }
 
-  setNumAnswers(numAnswers: number) {
+  setNumAnswers(numAnswers: number): void {
     this.numAnswers = numAnswers;
   }
-  getnumAnswers() {
+  getnumAnswers(): number {
     return this.numAnswers;
   }
 
-  setNumTrueAnswers(numTrueAnswers: number) {
+  setNumTrueAnswers(numTrueAnswers: number): void {
     this.numTrueAnswers = numTrueAnswers;
   }
-  getNumTrueAnswers() {
+  getNumTrueAnswers(): number {
     return this.numTrueAnswers;
   }
 
-  setNo(no: number) {
+  setNo(no: number): void {
     this.no = no;
   }
-  getNo() {
+  getNo(): number {
     return this.no;
   }
 
-  setPage(page: string) {
+  setPage(page: string): void {
     this.page = page;
   }
-  getPage() {
+  getPage(): string {
     return this.page;
   }
 
-  setTitle(title: string) {
+  setTitle(title: string): void {
     this.title = title;
   }
-  getTitle() {
+  getTitle(): string {
     return this.title;
   }
 
