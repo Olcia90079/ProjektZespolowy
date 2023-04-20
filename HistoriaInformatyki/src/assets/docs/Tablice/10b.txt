@@ -11,6 +11,4 @@ Początkowo elektroniczne kalkulatory desk-top, a póśniej kieszonkowe (pocket)
 
 Elektroniczne kalkulatory spowodowały powstanie pierwszego mikroprocesora Intel 4004 – zaprojektowany on został dla kalkulatorów firmy japońskiej Busiom. Podobne było przeznaczenie mikroprocesora TMS 1000 wyprodukowanego przez Texas Instruments w 1971 roku. Na początku swojej historii rozwoju, mikroprocesory powstawały z myślą głównie o kalkulatorach elektronicznych.
 
-Pierwsze kalkulatory elektroniczne zaczęto budować na początku lat 60.
-
-XX wieku, i z czasem zaczęły one wypierać kalkulatory mechaniczno-elektryczne. Do końca tej dekady kalkulatory te były jeszcze pokaśnych rozmiarów i dość dużo kosztowały, chociaż stanowiły już wyposażenie osobistych stanowisk pracy (biurek) – były to modele desk-top.
+Pierwsze kalkulatory elektroniczne zaczęto budować na początku lat 60. XX wieku, i z czasem zaczęły one wypierać kalkulatory mechaniczno-elektryczne. Do końca tej dekady kalkulatory te były jeszcze pokaśnych rozmiarów i dość dużo kosztowały, chociaż stanowiły już wyposażenie osobistych stanowisk pracy (biurek) – były to modele desk-top.
